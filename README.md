@@ -67,6 +67,12 @@ optional arguments:
   --sample              sample crp alpha
 
 ```
+<!--## Complete experiments
+
+```
+sh full_dataset.sh
+sh ie-other.sh
+```-->
 
 ## Requirements
 
