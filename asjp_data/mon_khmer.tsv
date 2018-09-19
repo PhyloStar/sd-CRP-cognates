@@ -1,0 +1,1425 @@
+language	iso_code	concept	global_id	local_id	asjp	cogid	tokens	notes
+JEH	jeh	I	1209	1	aut	1	a u t	
+BAHNAR	bdq	I	1209	1	i5	2	i 5	
+CHRAU	crw	I	1209	1	a5	2	a 5	also: i5
+VIETNAMESE	vie	I	1209	1	toi	3	t o i	
+MON	mnw	I	1209	1	ay	2	a y	
+NYAKUR	cbn	I	1209	1	e5	2	e 5	
+KHMER	khm	I	1209	1	kh~3nom	4	kh~ 3 n o m	
+SEMAI	sea	I	1209	1	E5	2	E 5	
+WA	wbm	I	1209	1	37	1	3 7	
+KSINMUL	puo	I	1209	1	a5	2	a 5	
+MUNDARI	unr	I	1209	1	ain	2	a i n	
+JEH	jeh	you	1213	2	mi	1	m i	
+CHRAU	crw	you	1213	2	mai	1	m a i	also: ai
+VIETNAMESE	vie	you	1213	2	may	1	m a y	also: ti
+RUC	scb	you	1213	2	mi	1	m i	
+MON	mnw	you	1213	2	beh	3	b e h	
+NYAKUR	cbn	you	1213	2	ph~eh	3	ph~ e h	
+KHMER	khm	you	1213	2	EN	4	E N	
+KUI_THAILAND	kdt	you	1213	2	muaN	1	m u a N	
+SEMAI	sea	you	1213	2	hE7	2	h E 7	
+WA	wbm	you	1213	2	mai7	1	m a i 7	
+DEANG	pce	you	1213	2	moi	1	m o i	
+KHMU	kjg	you	1213	2	me	1	m e	
+KSINMUL	puo	you	1213	2	mih	1	m i h	
+KHASI	kha	you	1213	2	me	1	m e	
+MUNDARI	unr	you	1213	2	am	1	a m	
+JEH	jeh	we	1212	3	yuan	1	y u a n	
+BAHNAR	bdq	we	1212	3	5on	1	5 o n	
+CHRAU	crw	we	1212	3	von	10	v o n	also: kh~ana5
+VIETNAMESE	vie	we	1212	3	ta	2	t a	also: mi5
+RUC	scb	we	1212	3	Cupa	3	C u p a	
+MON	mnw	we	1212	3	puiy	4	p u i y	
+NYAKUR	cbn	we	1212	3	pEy	4	p E y	
+KHMER	khm	we	1212	3	ya3N	5	y a 3 N	
+KUI_THAILAND	kdt	we	1212	3	mh~ai	6	mh~ a i	
+SEMAI	sea	we	1212	3	Zi7	7	Z i 7	
+WA	wbm	we	1212	3	yi7	7	y i 7	
+DEANG	pce	we	1212	3	y3i	7	y 3 i	
+KSINMUL	puo	we	1212	3	zi	7	z i	
+MUNDARI	unr	we	1212	3	ale	9	a l e	
+JEH	jeh	this	1214	4	mou	1	m o u	
+BAHNAR	bdq	this	1214	4	nou	1	n o u	
+RUC	scb	this	1214	4	ni	3	n i	
+MON	mnw	this	1214	4	na7	4	n a 7	
+NYAKUR	cbn	this	1214	4	o7	5	o 7	
+KHMER	khm	this	1214	4	n3h	3	n 3 h	
+SEMAI	sea	this	1214	4	adEh	3	a d E h	
+WA	wbm	this	1214	4	in	7	i n	
+KHMU	kjg	this	1214	4	k3 ki	8	k 3 _ k i	
+KHASI	kha	this	1214	4	ne	3	n e	
+MUNDARI	unr	this	1214	4	ni i7	3	n i _ i 7	
+BAHNAR	bdq	that	78	5	ni	1	n i	
+RUC	scb	that	78	5	he	3	h e	
+MON	mnw	that	78	5	te7	4	t e 7	
+NYAKUR	cbn	that	78	5	te7	4	t e 7	
+KHMER	khm	that	78	5	noh	5	n o h	
+KUI_THAILAND	kdt	that	78	5	k3i	2	k 3 i	
+SEMAI	sea	that	78	5	aZeh	6	a Z e h	
+WA	wbm	that	78	5	an	7	a n	
+DEANG	pce	that	78	5	d3	8	d 3	
+KHMU	kjg	that	78	5	k3 ni	1	k 3 _ n i	
+KSINMUL	puo	that	78	5	p37ow	7	p 3 7 o w	
+KHASI	kha	that	78	5	ba	9	b a	
+MUNDARI	unr	that	78	5	han i7	10	h a n _ i 7	
+JEH	jeh	who	1235	6	bau	1	b a u	
+BAHNAR	bdq	who	1235	6	bu	1	b u	
+RUC	scb	who	1235	6	ay	2	a y	
+NYAKUR	cbn	who	1235	6	35ah	3	3 5 a h	
+KHMER	khm	who	1235	6	kh~3nao	4	kh~ 3 n a o	
+KUI_THAILAND	kdt	who	1235	6	naw	4	n a w	
+SEMAI	sea	who	1235	6	bo7	1	b o 7	
+WA	wbm	who	1235	6	mo7	6	m o 7	
+DEANG	pce	who	1235	6	se	7	s e	
+KHMU	kjg	who	1235	6	m3	6	m 3	
+KSINMUL	puo	who	1235	6	noh	3	n o h	
+MUNDARI	unr	who	1235	6	okoy	8	o k o y	
+JEH	jeh	what	1236	7	5ai	1	5 a i	
+BAHNAR	bdq	what	1236	7	ki3	2	k i 3	
+CHRAU	crw	what	1236	7	paC n7hy~a	3	p a C _ n 7 hy~ a	also: mo7
+VIETNAMESE	vie	what	1236	7	kai gi	2	k a i _ g i	
+RUC	scb	what	1236	7	Cam3	4	C a m 3	
+MON	mnw	what	1236	7	nu	5	n u	
+NYAKUR	cbn	what	1236	7	mo7	4	m o 7	
+KHMER	khm	what	1236	7	evi	6	e v i	
+KUI_THAILAND	kdt	what	1236	7	na	5	n a	
+SEMAI	sea	what	1236	7	mah	4	m a h	
+WA	wbm	what	1236	7	pati7	8	p a t i 7	
+DEANG	pce	what	1236	7	se muh	4	s e _ m u h	
+KHMU	kjg	what	1236	7	m3h	4	m 3 h	
+KSINMUL	puo	what	1236	7	h3lmoh	4	h 3 l m o h	
+MUNDARI	unr	what	1236	7	Ca na	10	C a _ n a	
+BAHNAR	bdq	no	1269	8	3h	1	3 h	
+CHRAU	crw	no	1269	8	sun	1	s u n	also: daN
+VIETNAMESE	vie	no	1269	8	kx~oN	2	kx~ o N	
+RUC	scb	no	1269	8	vaN	3	v a N	
+MON	mnw	no	1269	8	ha	4	h a	also: hw~a
+NYAKUR	cbn	no	1269	8	ku	10	k u	
+KHMER	khm	no	1269	8	min	5	m i n	
+SEMAI	sea	no	1269	8	pE7	6	p E 7	
+WA	wbm	no	1269	8	aN	7	a N	
+KHASI	kha	no	1269	8	em	8	e m	
+MUNDARI	unr	no	1269	8	ka	9	k a	
+MON	mnw	all	98	9	pa7uit	3	p a 7 u i t	
+KHMER	khm	all	98	9	tamN	1	t a m N	
+KUI_THAILAND	kdt	all	98	9	ai th~e	4	a i _ th~ e	
+SEMAI	sea	all	98	9	diC	5	d i C	
+DEANG	pce	all	98	9	dvi7	6	d v i 7	
+KHMU	kjg	all	98	9	ku	7	k u	
+KHASI	kha	all	98	9	baroh	9	b a r o h	
+JEH	jeh	many	1198	10	k3dram	1	k 3 d r a m	
+BAHNAR	bdq	many	1198	10	th~3r	2	th~ 3 r	
+CHRAU	crw	many	1198	10	go7	3	g o 7	
+VIETNAMESE	vie	many	1198	10	5ieu	4	5 i e u	
+RUC	scb	many	1198	10	5iw	4	5 i w	
+MON	mnw	many	1198	10	gluiN	5	g l u i N	
+NYAKUR	cbn	many	1198	10	kh~l3N	5	kh~ l 3 N	
+KHMER	khm	many	1198	10	Cr~a3n	6	Cr~ a 3 n	
+KUI_THAILAND	kdt	many	1198	10	dal	7	d a l	
+SEMAI	sea	many	1198	10	Z7~oy	8	Z7~ o y	
+WA	wbm	many	1198	10	hun	9	h u n	
+DEANG	pce	many	1198	10	mh~blam	1	mh~ b l a m	
+KHMU	kjg	many	1198	10	k3	10	k 3	
+KSINMUL	puo	many	1198	10	gay	10	g a y	
+KHASI	kha	many	1198	10	bun	11	b u n	
+JEH	jeh	one	1493	11	mui	1	m u i	
+BAHNAR	bdq	one	1493	11	mo5	1	m o 5	
+CHRAU	crw	one	1493	11	muoi	1	m u o i	also: du
+VIETNAMESE	vie	one	1493	11	mot	1	m o t	
+RUC	scb	one	1493	11	moiC	1	m o i C	
+MON	mnw	one	1493	11	mw~ay	1	mw~ a y	
+NYAKUR	cbn	one	1493	11	mu3y	1	m u 3 y	
+KHMER	khm	one	1493	11	muey	1	m u e y	
+KUI_THAILAND	kdt	one	1493	11	mui	1	m u i	
+SEMAI	sea	one	1493	11	nan37	2	n a n 3 7	
+KHMU	kjg	one	1493	11	moy	1	m o y	
+KHASI	kha	one	1493	11	wei	4	w e i	
+MUNDARI	unr	one	1493	11	miyod	1	m i y o d	
+JEH	jeh	two	1498	12	bal	1	b a l	
+BAHNAR	bdq	two	1498	12	bar	1	b a r	
+CHRAU	crw	two	1498	12	var	1	v a r	
+VIETNAMESE	vie	two	1498	12	hai	1	h a i	
+RUC	scb	two	1498	12	hal	1	h a l	
+MON	mnw	two	1498	12	ba	1	b a	
+NYAKUR	cbn	two	1498	12	bar	1	b a r	
+KHMER	khm	two	1498	12	bir	1	b i r	
+KUI_THAILAND	kdt	two	1498	12	bia	1	b i a	
+SEMAI	sea	two	1498	12	nar	1	n a r	
+WA	wbm	two	1498	12	ra	1	r a	
+KHMU	kjg	two	1498	12	par	1	p a r	
+KHASI	kha	two	1498	12	ar	1	a r	
+MUNDARI	unr	two	1498	12	bar	1	b a r	
+JEH	jeh	big	1202	13	tih	1	t i h	
+BAHNAR	bdq	big	1202	13	tih	1	t i h	
+CHRAU	crw	big	1202	13	ma7	2	m a 7	
+VIETNAMESE	vie	big	1202	13	lon	3	l o n	
+RUC	scb	big	1202	13	m3am	4	m 3 a m	
+MON	mnw	big	1202	13	Znok	12	Z n o k	
+NYAKUR	cbn	big	1202	13	3tol	5	3 t o l	
+KHMER	khm	big	1202	13	dh~om	6	dh~ o m	
+KUI_THAILAND	kdt	big	1202	13	ph~3t	7	ph~ 3 t	
+SEMAI	sea	big	1202	13	nt~oy	5	nt~ o y	
+WA	wbm	big	1202	13	tiN	8	t i N	
+DEANG	pce	big	1202	13	daN	13	d a N	
+KHMU	kjg	big	1202	13	nam	9	n a m	
+KSINMUL	puo	big	1202	13	do	5	d o	
+KHASI	kha	big	1202	13	kh~raw	10	kh~ r a w	
+MUNDARI	unr	big	1202	13	maraN	11	m a r a N	
+JEH	jeh	long	1203	14	proih	1	p r o i h	
+BAHNAR	bdq	long	1203	14	keZuN	2	k e Z u N	
+CHRAU	crw	long	1203	14	joN	2	j o N	
+VIETNAMESE	vie	long	1203	14	Zai	3	Z a i	
+RUC	scb	long	1203	14	yal	3	y a l	
+MON	mnw	long	1203	14	ZliN	2	Z l i N	
+NYAKUR	cbn	long	1203	14	kh~li5	2	kh~ l i 5	
+KHMER	khm	long	1203	14	vEN	4	v E N	
+KUI_THAILAND	kdt	long	1203	14	nth$r3N	2	nth$ r 3 N	
+SEMAI	sea	long	1203	14	Cr3kN	2	C r 3 k N	
+WA	wbm	long	1203	14	laN	2	l a N	
+DEANG	pce	long	1203	14	doN	2	d o N	
+KHMU	kjg	long	1203	14	waN	5	w a N	
+KSINMUL	puo	long	1203	14	3loN	2	3 l o N	
+KHASI	kha	long	1203	14	ZeroN	2	Z e r o N	
+MUNDARI	unr	long	1203	14	ZiliN	2	Z i l i N	
+JEH	jeh	small	1246	15	t3si	1	t 3 s i	
+CHRAU	crw	small	1246	15	ken	3	k e n	
+VIETNAMESE	vie	small	1246	15	5o	4	5 o	
+RUC	scb	small	1246	15	dEdE	5	d E d E	
+MON	mnw	small	1246	15	5i	4	5 i	
+NYAKUR	cbn	small	1246	15	nd~iC	6	nd~ i C	
+KHMER	khm	small	1246	15	tuC	6	t u C	
+KUI_THAILAND	kdt	small	1246	15	kEt	7	k E t	
+SEMAI	sea	small	1246	15	maCo*t	8	m a C o* t	
+WA	wbm	small	1246	15	iak	9	i a k	
+DEANG	pce	small	1246	15	diat	6	d i a t	
+KHMU	kjg	small	1246	15	nE	4	n E	
+KSINMUL	puo	small	1246	15	nek	10	n e k	
+KHASI	kha	small	1246	15	rit	11	r i t	
+MUNDARI	unr	small	1246	15	kuniN	12	k u n i N	
+BAHNAR	bdq	woman	962	16	drakan	1	d r a k a n	
+MON	mnw	woman	962	16	brau	3	b r a u	
+NYAKUR	cbn	woman	962	16	ph~3ph~raw	3	ph~ 3 ph~ r a w	
+KUI_THAILAND	kdt	woman	962	16	kuik3pai	4	k u i k 3 p a i	
+SEMAI	sea	woman	962	16	krdor	5	k r d o r	
+WA	wbm	woman	962	16	bun	6	b u n	
+DEANG	pce	woman	962	16	i pon	6	i _ p o n	
+KHMU	kjg	woman	962	16	C3mk3n	1	C 3 m k 3 n	
+KHASI	kha	woman	962	16	briw	3	b r i w	
+MUNDARI	unr	woman	962	16	kuri	9	k u r i	
+BAHNAR	bdq	man	1554	17	droNlo	1	d r o N l o	
+MON	mnw	man	1554	17	tru7	3	t r u 7	
+NYAKUR	cbn	man	1554	17	tuytruZ	3	t u y t r u Z	
+KUI_THAILAND	kdt	man	1554	17	kui th~ol	4	k u i _ th~ o l	
+SEMAI	sea	man	1554	17	kral	5	k r a l	
+WA	wbm	man	1554	17	sime7	6	s i m e 7	
+DEANG	pce	man	1554	17	mai	6	m a i	
+KHASI	kha	man	1554	17	ai briw	3	a i _ b r i w	
+MUNDARI	unr	man	1554	17	kora	7	k o r a	
+JEH	jeh	person	683	18	m3Nai	1	m 3 N a i	
+BAHNAR	bdq	person	683	18	b3Nai	1	b 3 N a i	
+CHRAU	crw	person	683	18	tamun	2	t a m u n	
+VIETNAMESE	vie	person	683	18	Nuoi	1	N u o i	
+RUC	scb	person	683	18	Nay	1	N a y	
+KUI_THAILAND	kdt	person	683	18	kui	3	k u i	
+SEMAI	sea	person	683	18	sn7~oy	1	s n7~ o y	
+WA	wbm	person	683	18	pui	4	p u i	
+DEANG	pce	person	683	18	to i	5	t o _ i	
+KHMU	kjg	person	683	18	k3mmu	6	k 3 mm u	
+KSINMUL	puo	person	683	18	ksiN	7	k s i N	
+KHASI	kha	person	683	18	briw	8	b r i w	
+MUNDARI	unr	person	683	18	horo	9	h o r o	
+JEH	jeh	fish	227	19	ka	1	k a	
+BAHNAR	bdq	fish	227	19	ka	1	k a	
+CHRAU	crw	fish	227	19	ka	1	k a	
+VIETNAMESE	vie	fish	227	19	ka	1	k a	
+RUC	scb	fish	227	19	aka	1	a k a	
+MON	mnw	fish	227	19	ka	1	k a	
+NYAKUR	cbn	fish	227	19	ka7	1	k a 7	
+KHMER	khm	fish	227	19	tr~i	2	tr~ i	
+KUI_THAILAND	kdt	fish	227	19	ka	1	k a	
+SEMAI	sea	fish	227	19	ka7	1	k a 7	
+WA	wbm	fish	227	19	ka7	1	k a 7	
+DEANG	pce	fish	227	19	ka	1	k a	
+KHMU	kjg	fish	227	19	ka	1	k a	
+KSINMUL	puo	fish	227	19	ka	1	k a	
+KHASI	kha	fish	227	19	dohkh~a	1	d o h kh~ a	
+MUNDARI	unr	fish	227	19	hai	1	h a i	
+JEH	jeh	bird	937	20	Cim	1	C i m	
+BAHNAR	bdq	bird	937	20	s3m	1	s 3 m	
+CHRAU	crw	bird	937	20	sum	1	s u m	
+VIETNAMESE	vie	bird	937	20	tim	1	t i m	
+RUC	scb	bird	937	20	iCim	1	i C i m	
+MON	mnw	bird	937	20	gaCem	1	g a C e m	
+NYAKUR	cbn	bird	937	20	5Ci3m	1	5 C i 3 m	
+KHMER	khm	bird	937	20	sat slap	2	s a t _ s l a p	
+KUI_THAILAND	kdt	bird	937	20	CEml	1	C E m l	
+SEMAI	sea	bird	937	20	CEpm~	1	C E pm~	
+WA	wbm	bird	937	20	sim	1	s i m	
+DEANG	pce	bird	937	20	siN	1	s i N	
+KHMU	kjg	bird	937	20	sim	1	s i m	
+KSINMUL	puo	bird	937	20	Cem	1	C e m	
+KHASI	kha	bird	937	20	sim	1	s i m	
+JEH	jeh	dog	2009	21	Co	1	C o	
+BAHNAR	bdq	dog	2009	21	ko	2	k o	
+CHRAU	crw	dog	2009	21	so	1	s o	
+VIETNAMESE	vie	dog	2009	21	to	1	t o	
+RUC	scb	dog	2009	21	aCo	1	a C o	
+MON	mnw	dog	2009	21	kluiw	3	k l u i w	
+NYAKUR	cbn	dog	2009	21	Ch~ur	3	Ch~ u r	
+KHMER	khm	dog	2009	21	Ch~3kE	2	Ch~ 3 k E	
+KUI_THAILAND	kdt	dog	2009	21	Ca	1	C a	
+SEMAI	sea	dog	2009	21	Co7	1	C o 7	
+WA	wbm	dog	2009	21	so7	1	s o 7	
+DEANG	pce	dog	2009	21	a7o7	5	a 7 o 7	
+KHMU	kjg	dog	2009	21	so	1	s o	
+KSINMUL	puo	dog	2009	21	ksew	1	k s e w	
+KHASI	kha	dog	2009	21	ksew	1	k s e w	
+MUNDARI	unr	dog	2009	21	seta	4	s e t a	
+JEH	jeh	louse	1392	22	k3Cay	1	k 3 C a y	
+BAHNAR	bdq	louse	1392	22	si	1	s i	
+CHRAU	crw	louse	1392	22	si	1	s i	
+VIETNAMESE	vie	louse	1392	22	ti	1	t i	
+RUC	scb	louse	1392	22	Ci	1	C i	
+MON	mnw	louse	1392	22	Cay	1	C a y	
+NYAKUR	cbn	louse	1392	22	Cay	1	C a y	
+KHMER	khm	louse	1392	22	Cay	1	C a y	
+KUI_THAILAND	kdt	louse	1392	22	5CE7	1	5 C E 7	
+SEMAI	sea	louse	1392	22	CE7	1	C E 7	
+WA	wbm	louse	1392	22	si7	1	s i 7	
+DEANG	pce	louse	1392	22	sai	1	s a i	
+KHMU	kjg	louse	1392	22	se	1	s e	
+KSINMUL	puo	louse	1392	22	cey	1	c e y	
+KHASI	kha	louse	1392	22	ksi	1	k s i	
+MUNDARI	unr	louse	1392	22	si ku	1	s i _ k u	
+JEH	jeh	tree	906	23	loN	1	l o N	
+BAHNAR	bdq	tree	906	23	loN	1	l o N	
+CHRAU	crw	tree	906	23	Ch~o	2	Ch~ o	
+VIETNAMESE	vie	tree	906	23	kay	3	k a y	
+RUC	scb	tree	906	23	k3y	3	k 3 y	
+MON	mnw	tree	906	23	Ch~u	2	Ch~ u	
+NYAKUR	cbn	tree	906	23	Ch~u7	2	Ch~ u 7	
+KHMER	khm	tree	906	23	ta3m Zh~a3	2	t a 3 m _ Zh~ a 3	
+SEMAI	sea	tree	906	23	Zh~u7	2	Zh~ u 7	
+WA	wbm	tree	906	23	kh~au7	2	kh~ a u 7	
+DEANG	pce	tree	906	23	he	5	h e	
+KHMU	kjg	tree	906	23	s37oN	6	s 3 7 o N	
+KSINMUL	puo	tree	906	23	C37u3N	6	C 3 7 u 3 N	
+KHASI	kha	tree	906	23	dieN	7	d i e N	
+MUNDARI	unr	tree	906	23	daru	8	d a r u	
+VIETNAMESE	vie	seed	714	24	hot	1	h o t	
+RUC	scb	seed	714	24	kayaN	1	k a y a N	
+KHMER	khm	seed	714	24	grap	2	g r a p	
+KUI_THAILAND	kdt	seed	714	24	klaN	3	k l a N	
+SEMAI	sea	seed	714	24	sip	4	s i p	
+WA	wbm	seed	714	24	sok	5	s o k	
+DEANG	pce	seed	714	24	kau	6	k a u	
+KHMU	kjg	seed	714	24	p3liar	7	p 3 l i a r	
+KHASI	kha	seed	714	24	sinai	8	s i n a i	
+MUNDARI	unr	seed	714	24	hita	9	h i t a	
+JEH	jeh	leaf	628	25	la	1	l a	
+BAHNAR	bdq	leaf	628	25	hla	1	h l a	
+CHRAU	crw	leaf	628	25	la	1	l a	
+VIETNAMESE	vie	leaf	628	25	la	1	l a	
+RUC	scb	leaf	628	25	ula	1	u l a	
+MON	mnw	leaf	628	25	sla	1	s l a	
+NYAKUR	cbn	leaf	628	25	hla7	1	h l a 7	
+KHMER	khm	leaf	628	25	s3l3k	4	s 3 l 3 k	
+KUI_THAILAND	kdt	leaf	628	25	sla	1	s l a	
+SEMAI	sea	leaf	628	25	sla7	1	s l a 7	
+WA	wbm	leaf	628	25	hla7	1	h l a 7	
+DEANG	pce	leaf	628	25	hla	1	h l a	
+KHMU	kjg	leaf	628	25	la	1	l a	
+KSINMUL	puo	leaf	628	25	b3w	2	b 3 w	
+KHASI	kha	leaf	628	25	sla	1	s l a	
+MUNDARI	unr	leaf	628	25	sakam	3	s a k a m	
+JEH	jeh	root	670	26	riah	1	r i a h	
+BAHNAR	bdq	root	670	26	r3h	1	r 3 h	
+CHRAU	crw	root	670	26	diyieh	1	d i y i e h	
+VIETNAMESE	vie	root	670	26	re	1	r e	
+RUC	scb	root	670	26	liErih	1	l i E r i h	
+MON	mnw	root	670	26	ruih	1	r u i h	
+NYAKUR	cbn	root	670	26	rihrak	1	r i h r a k	
+KHMER	khm	root	670	26	r3k	1	r 3 k	
+KUI_THAILAND	kdt	root	670	26	rEh	1	r E h	
+SEMAI	sea	root	670	26	r7~es	1	r7~ e s	
+WA	wbm	root	670	26	riah	1	r i a h	
+DEANG	pce	root	670	26	riaih	1	r i a i h	
+KHMU	kjg	root	670	26	rias	1	r i a s	
+KSINMUL	puo	root	670	26	geh	1	g e h	
+KHASI	kha	root	670	26	tinrai	1	t i n r a i	
+MUNDARI	unr	root	670	26	red	1	r e d	
+JEH	jeh	bark	1204	27	k3duh	1	k 3 d u h	
+BAHNAR	bdq	bark	1204	27	hmok	2	h m o k	
+CHRAU	crw	bark	1204	27	mo7	2	m o 7	
+VIETNAMESE	vie	bark	1204	27	vo kay	3	v o _ k a y	
+RUC	scb	bark	1204	27	k3duh	1	k 3 d u h	
+MON	mnw	bark	1204	27	sakow	4	s a k o w	
+NYAKUR	cbn	bark	1204	27	Nku3r	4	N k u 3 r	
+KHMER	khm	bark	1204	27	s3mbak	2	s 3 m b a k	
+KUI_THAILAND	kdt	bark	1204	27	mph~ua7	2	m ph~ u a 7	
+SEMAI	sea	bark	1204	27	Ckop	5	C k o p	
+WA	wbm	bark	1204	27	hlo7	6	h l o 7	
+DEANG	pce	bark	1204	27	go7	10	g o 7	
+KHMU	kjg	bark	1204	27	h3mpok	2	h 3 m p o k	
+KSINMUL	puo	bark	1204	27	b3N	7	b 3 N	
+KHASI	kha	bark	1204	27	snep	8	s n e p	
+MUNDARI	unr	bark	1204	27	harta	9	h a r t a	
+JEH	jeh	skin	763	28	pal	1	p a l	
+BAHNAR	bdq	skin	763	28	3kar	2	3 k a r	
+CHRAU	crw	skin	763	28	nto	3	n t o	
+VIETNAMESE	vie	skin	763	28	Za	4	Z a	
+MON	mnw	skin	763	28	snam	5	s n a m	
+NYAKUR	cbn	skin	763	28	hnam	5	h n a m	
+KHMER	khm	skin	763	28	s3pEk	6	s 3 p E k	
+SEMAI	sea	skin	763	28	gt37	3	g t 3 7	
+WA	wbm	skin	763	28	hak	7	h a k	
+DEANG	pce	skin	763	28	hur	8	h u r	
+KHMU	kjg	skin	763	28	h3mpur	8	h 3 m p u r	
+KSINMUL	puo	skin	763	28	b3N	9	b 3 N	
+KHASI	kha	skin	763	28	kh~oh	10	kh~ o h	
+MUNDARI	unr	skin	763	28	ur	8	u r	
+JEH	jeh	meat	634	29	sinek	1	s i n e k	
+BAHNAR	bdq	meat	634	29	5em	2	5 e m	
+CHRAU	crw	meat	634	29	goN	3	g o N	
+VIETNAMESE	vie	meat	634	29	8it	1	8 i t	
+RUC	scb	meat	634	29	sit	1	s i t	
+MON	mnw	meat	634	29	Cun	4	C u n	
+NYAKUR	cbn	meat	634	29	hw~a7	5	hw~ a 7	
+KHMER	khm	meat	634	29	saC	1	s a C	
+KUI_THAILAND	kdt	meat	634	29	saC	1	s a C	
+SEMAI	sea	meat	634	29	sEC	1	s E C	
+WA	wbm	meat	634	29	ne7	6	n e 7	
+DEANG	pce	meat	634	29	yoN	7	y o N	
+KHMU	kjg	meat	634	29	ah	8	a h	
+KSINMUL	puo	meat	634	29	ksoN	9	k s o N	
+KHASI	kha	meat	634	29	doh	10	d o h	
+MUNDARI	unr	meat	634	29	Zilu	11	Z i l u	
+JEH	jeh	blood	946	30	ph~am	1	ph~ a m	
+BAHNAR	bdq	blood	946	30	ph~am	1	ph~ a m	
+CHRAU	crw	blood	946	30	n7ham	1	n 7 h a m	
+VIETNAMESE	vie	blood	946	30	mau	2	m a u	
+RUC	scb	blood	946	30	asam	1	a s a m	
+MON	mnw	blood	946	30	Ch~im	1	Ch~ i m	
+NYAKUR	cbn	blood	946	30	Ch~im	1	Ch~ i m	
+KHMER	khm	blood	946	30	Zh~am	1	Zh~ a m	
+KUI_THAILAND	kdt	blood	946	30	3ham	1	3 h a m	
+SEMAI	sea	blood	946	30	bh~ipm~	1	bh~ i pm~	
+WA	wbm	blood	946	30	nh~am	1	nh~ a m	
+DEANG	pce	blood	946	30	nh~am	1	nh~ a m	
+KHMU	kjg	blood	946	30	mam	1	m a m	
+KSINMUL	puo	blood	946	30	mi3m	1	m i 3 m	
+KHASI	kha	blood	946	30	snam	1	s n a m	
+MUNDARI	unr	blood	946	30	mayam	1	m a y a m	
+JEH	jeh	bone	1394	31	k3siaN	1	k 3 s i a N	
+BAHNAR	bdq	bone	1394	31	k3tiN	1	k 3 t i N	
+CHRAU	crw	bone	1394	31	ntiN	1	n t i N	
+VIETNAMESE	vie	bone	1394	31	SuoN	1	S u o N	
+RUC	scb	bone	1394	31	saN	1	s a N	
+MON	mnw	bone	1394	31	Zut	2	Z u t	
+NYAKUR	cbn	bone	1394	31	Ch~3lut	2	Ch~ 3 l u t	
+KHMER	khm	bone	1394	31	Ch7$3N	1	Ch7$ 3 N	
+KUI_THAILAND	kdt	bone	1394	31	Nh~aN	1	Nh~ a N	
+SEMAI	sea	bone	1394	31	Z7~akN~	1	Z7~ a kN~	
+WA	wbm	bone	1394	31	sisaN	1	s i s a N	
+DEANG	pce	bone	1394	31	"k""7~aN"	1	"k""7~ a N"	
+KHMU	kjg	bone	1394	31	C37aN	1	C 3 7 a N	
+KSINMUL	puo	bone	1394	31	laN	1	l a N	
+KHASI	kha	bone	1394	31	"sh""~ieN"	1	"s h""~ i e N"	
+MUNDARI	unr	bone	1394	31	ZaN	1	Z a N	
+JEH	jeh	fat	1282	32	p3dreN	1	p 3 d r e N	
+RUC	scb	fat	1282	32	kluN	3	k l u N	
+MON	mnw	fat	1282	32	kleN	3	k l e N	
+NYAKUR	cbn	fat	1282	32	k3li5	3	k 3 l i 5	
+KHMER	khm	fat	1282	32	kh~la5	3	kh~ l a 5	
+KUI_THAILAND	kdt	fat	1282	32	5Ch~EN	4	5 Ch~ E N	
+SEMAI	sea	fat	1282	32	l7~us	5	l7~ u s	
+WA	wbm	fat	1282	32	b3	6	b 3	
+MUNDARI	unr	fat	1282	32	itil	7	i t i l	
+JEH	jeh	egg	744	33	t3tap	1	t 3 t a p	
+CHRAU	crw	egg	744	33	Cap	1	C a p	
+VIETNAMESE	vie	egg	744	33	CuN	2	C u N	
+RUC	scb	egg	744	33	t3lul	8	t 3 l u l	
+MON	mnw	egg	744	33	kh~amhay	3	kh~ a m h a y	
+KHMER	khm	egg	744	33	boN	4	b o N	
+KUI_THAILAND	kdt	egg	744	33	nth$rEl	8	nth$ r E l	
+SEMAI	sea	egg	744	33	pNl3kN~	2	p N l 3 kN~	
+WA	wbm	egg	744	33	tom	5	t o m	
+DEANG	pce	egg	744	33	krau	6	k r a u	
+KHMU	kjg	egg	744	33	k3toN	7	k 3 t o N	
+KSINMUL	puo	egg	744	33	kloN	2	k l o N	
+KHASI	kha	egg	744	33	pilleN	2	p i ll e N	
+MUNDARI	unr	egg	744	33	Zarom	9	Z a r o m	
+JEH	jeh	horn	1393	34	t3koy	1	t 3 k o y	
+BAHNAR	bdq	horn	1393	34	ake	5	a k e	
+RUC	scb	horn	1393	34	kr3N	2	k r 3 N	
+MON	mnw	horn	1393	34	draN	2	d r a N	
+NYAKUR	cbn	horn	1393	34	th~raN	2	th~ r a N	
+KHMER	khm	horn	1393	34	s3nEN	3	s 3 n E N	
+KUI_THAILAND	kdt	horn	1393	34	t3kai	1	t 3 k a i	
+WA	wbm	horn	1393	34	ruN	2	r u N	
+DEANG	pce	horn	1393	34	nuN	6	n u N	
+KHMU	kjg	horn	1393	34	Centr~3N	2	C e n tr~ 3 N	
+KSINMUL	puo	horn	1393	34	C3lgan	4	C 3 l g a n	
+KHASI	kha	horn	1393	34	reN	2	r e N	
+MUNDARI	unr	horn	1393	34	diriN	2	d i r i N	
+JEH	jeh	tail	1220	35	teN	1	t e N	
+BAHNAR	bdq	tail	1220	35	kieN	1	k i e N	
+CHRAU	crw	tail	1220	35	tieN	1	t i e N	
+VIETNAMESE	vie	tail	1220	35	Zuoi	2	Z u o i	
+RUC	scb	tail	1220	35	tuoy	2	t u o y	
+MON	mnw	tail	1220	35	bata	3	b a t a	
+NYAKUR	cbn	tail	1220	35	p3ta7	3	p 3 t a 7	
+KHMER	khm	tail	1220	35	k3nd~uy	2	k 3 nd~ u y	
+KUI_THAILAND	kdt	tail	1220	35	sal	4	s a l	
+SEMAI	sea	tail	1220	35	snta7	3	s n t a 7	
+WA	wbm	tail	1220	35	sida7	3	s i d a 7	
+DEANG	pce	tail	1220	35	sta	3	s t a	
+KHMU	kjg	tail	1220	35	h3nta	3	h 3 n t a	
+KSINMUL	puo	tail	1220	35	h3lta	3	h 3 l t a	
+KHASI	kha	tail	1220	35	tidoN	1	t i d o N	
+MUNDARI	unr	tail	1220	35	Cadlom	5	C a d l o m	
+JEH	jeh	feather	1201	36	suk	1	s u k	
+BAHNAR	bdq	feather	1201	36	sok	1	s o k	
+CHRAU	crw	feather	1201	36	sino7 sum	1	s i n o 7 _ s u m	
+VIETNAMESE	vie	feather	1201	36	loN tim	2	l o N _ t i m	
+RUC	scb	feather	1201	36	usuk	1	u s u k	
+MON	mnw	feather	1201	36	s3neN	7	s 3 n e N	
+NYAKUR	cbn	feather	1201	36	Ch~okCh~ok	1	Ch~ o k Ch~ o k	
+KHMER	khm	feather	1201	36	slap	3	s l a p	
+KUI_THAILAND	kdt	feather	1201	36	so7	1	s o 7	
+SEMAI	sea	feather	1201	36	sntol	4	s n t o l	
+KHMU	kjg	feather	1201	36	kh~ul	5	kh~ u l	
+KSINMUL	puo	feather	1201	36	sok	1	s o k	
+KHASI	kha	feather	1201	36	sner	6	s n e r	
+MUNDARI	unr	feather	1201	36	il	5	i l	
+JEH	jeh	hair	1040	37	suk	1	s u k	
+BAHNAR	bdq	hair	1040	37	sok	1	s o k	
+CHRAU	crw	hair	1040	37	so7	1	s o 7	
+VIETNAMESE	vie	hair	1040	37	tok	1	t o k	
+RUC	scb	hair	1040	37	usuk	1	u s u k	
+MON	mnw	hair	1040	37	sok	1	s o k	
+NYAKUR	cbn	hair	1040	37	Ch~ok	1	Ch~ o k	
+KHMER	khm	hair	1040	37	sok	1	s o k	
+KUI_THAILAND	kdt	hair	1040	37	so7	1	s o 7	
+SEMAI	sea	hair	1040	37	sok	1	s o k	
+WA	wbm	hair	1040	37	hauk	1	h a u k	
+DEANG	pce	hair	1040	37	hu7	1	h u 7	
+KHMU	kjg	hair	1040	37	kl3	2	k l 3	
+KSINMUL	puo	hair	1040	37	sok	1	s o k	
+KHASI	kha	hair	1040	37	sh~niuh	1	sh~ n i u h	
+MUNDARI	unr	hair	1040	37	up	3	u p	
+JEH	jeh	head	1256	38	kal	1	k a l	
+BAHNAR	bdq	head	1256	38	k3l	1	k 3 l	
+CHRAU	crw	head	1256	38	vo7	2	v o 7	also: kamvo7
+RUC	scb	head	1256	38	kuluok	3	k u l u o k	
+MON	mnw	head	1256	38	kaduip	4	k a d u i p	
+NYAKUR	cbn	head	1256	38	k3d3p	4	k 3 d 3 p	
+KUI_THAILAND	kdt	head	1256	38	pla	5	p l a	
+SEMAI	sea	head	1256	38	kuy	9	k u y	
+WA	wbm	head	1256	38	kaiN	6	k a i N	
+DEANG	pce	head	1256	38	kiN	6	k i N	
+KHMU	kjg	head	1256	38	k3mpoN	7	k 3 m p o N	
+KSINMUL	puo	head	1256	38	3lu	5	3 l u	
+KHASI	kha	head	1256	38	kh~lih	11	kh~ l i h	
+MUNDARI	unr	head	1256	38	bo7	8	b o 7	
+JEH	jeh	ear	1247	39	pat	1	p a t	
+BAHNAR	bdq	ear	1247	39	don	2	d o n	
+CHRAU	crw	ear	1247	39	tor	4	t o r	
+VIETNAMESE	vie	ear	1247	39	tai	3	t a i	
+RUC	scb	ear	1247	39	say	3	s a y	
+MON	mnw	ear	1247	39	katow	4	k a t o w	
+NYAKUR	cbn	ear	1247	39	k3tuer	4	k 3 t u e r	
+KHMER	khm	ear	1247	39	tr~3Ch~i3k	5	tr~ 3 Ch~ i 3 k	
+KUI_THAILAND	kdt	ear	1247	39	k3tor	4	k 3 t o r	
+SEMAI	sea	ear	1247	39	ntakN	6	n t a k N	
+WA	wbm	ear	1247	39	yh~auk	5	yh~ a u k	
+DEANG	pce	ear	1247	39	yo7	5	y o 7	
+KHMU	kjg	ear	1247	39	hermey	7	h e r m e y	
+KSINMUL	puo	ear	1247	39	h3ltol	4	h 3 l t o l	
+KHASI	kha	ear	1247	39	lutur	4	l u t u r	
+MUNDARI	unr	ear	1247	39	lutur	4	l u t u r	
+JEH	jeh	eye	1248	40	mat	1	m a t	
+BAHNAR	bdq	eye	1248	40	mat	1	m a t	
+CHRAU	crw	eye	1248	40	mat	1	m a t	
+VIETNAMESE	vie	eye	1248	40	mat	1	m a t	
+MON	mnw	eye	1248	40	mat	1	m a t	
+NYAKUR	cbn	eye	1248	40	mat	1	m a t	
+KHMER	khm	eye	1248	40	bh~3n3k	2	bh~ 3 n 3 k	
+KUI_THAILAND	kdt	eye	1248	40	mat	1	m a t	
+SEMAI	sea	eye	1248	40	mat	1	m a t	
+WA	wbm	eye	1248	40	Nai	3	N a i	
+DEANG	pce	eye	1248	40	Nai	3	N a i	
+KHMU	kjg	eye	1248	40	mat	1	m a t	
+KSINMUL	puo	eye	1248	40	mat	1	m a t	
+KHASI	kha	eye	1248	40	kh~imat	1	kh~ i m a t	
+MUNDARI	unr	eye	1248	40	med	1	m e d	
+JEH	jeh	nose	1221	41	muh	1	m u h	
+BAHNAR	bdq	nose	1221	41	muh	1	m u h	
+CHRAU	crw	nose	1221	41	muh	1	m u h	
+VIETNAMESE	vie	nose	1221	41	mui	1	m u i	
+RUC	scb	nose	1221	41	mu3h	1	m u 3 h	
+MON	mnw	nose	1221	41	muh	1	m u h	
+NYAKUR	cbn	nose	1221	41	hmok	1	h m o k	
+KHMER	khm	nose	1221	41	Cr~3muh	1	Cr~ 3 m u h	
+KUI_THAILAND	kdt	nose	1221	41	muh	1	m u h	
+SEMAI	sea	nose	1221	41	muh	1	m u h	
+WA	wbm	nose	1221	41	m3ih	1	m 3 i h	
+DEANG	pce	nose	1221	41	muih	1	m u i h	
+KHMU	kjg	nose	1221	41	muh	1	m u h	
+KSINMUL	puo	nose	1221	41	moh	1	m o h	
+KHASI	kha	nose	1221	41	kh~mut	1	kh~ m u t	
+MUNDARI	unr	nose	1221	41	mu*	1	m u*	
+JEH	jeh	mouth	674	42	t3mun	1	t 3 m u n	
+BAHNAR	bdq	mouth	674	42	b3r	2	b 3 r	
+VIETNAMESE	vie	mouth	674	42	mieN	12	m i e N	
+RUC	scb	mouth	674	42	kaN	4	k a N	
+MON	mnw	mouth	674	42	paN	3	p a N	
+NYAKUR	cbn	mouth	674	42	paN	3	p a N	
+KHMER	khm	mouth	674	42	mat	5	m a t	
+KUI_THAILAND	kdt	mouth	674	42	noh	6	n o h	
+SEMAI	sea	mouth	674	42	mp~akN	3	mp~ a k N	
+WA	wbm	mouth	674	42	yh~3ih	7	yh~ 3 i h	
+DEANG	pce	mouth	674	42	sop	8	s o p	
+KHMU	kjg	mouth	674	42	t3noh	6	t 3 n o h	
+KSINMUL	puo	mouth	674	42	5uk	9	5 u k	
+KHASI	kha	mouth	674	42	sh~intur	10	sh~ i n t u r	
+MUNDARI	unr	mouth	674	42	moCa	11	m o C a	
+JEH	jeh	tooth	1380	43	sineN	1	s i n e N	
+BAHNAR	bdq	tooth	1380	43	s3ne5	1	s 3 n e 5	
+CHRAU	crw	tooth	1380	43	seC	2	s e C	
+VIETNAMESE	vie	tooth	1380	43	raN	3	r a N	
+RUC	scb	tooth	1380	43	kasaN	3	k a s a N	
+MON	mnw	tooth	1380	43	Nek	4	N e k	
+NYAKUR	cbn	tooth	1380	43	Ni3k	4	N i 3 k	
+KHMER	khm	tooth	1380	43	dh~3m3n	5	dh~ 3 m 3 n	
+KUI_THAILAND	kdt	tooth	1380	43	k3nE5	1	k 3 n E 5	
+SEMAI	sea	tooth	1380	43	lmu5	5	l m u 5	
+WA	wbm	tooth	1380	43	rh~aN	3	rh~ a N	
+DEANG	pce	tooth	1380	43	rh~aN	3	rh~ a N	
+KHMU	kjg	tooth	1380	43	raN	3	r a N	
+KSINMUL	puo	tooth	1380	43	h3gi3N	6	h 3 g i 3 N	
+KHASI	kha	tooth	1380	43	biniat	7	b i n i a t	
+JEH	jeh	tongue	1205	44	r3piat	1	r 3 p i a t	
+BAHNAR	bdq	tongue	1205	44	r3piet	1	r 3 p i e t	
+CHRAU	crw	tongue	1205	44	lapiet	1	l a p i e t	
+VIETNAMESE	vie	tongue	1205	44	luoi	2	l u o i	
+RUC	scb	tongue	1205	44	l3arh~	2	l 3 a rh~	
+MON	mnw	tongue	1205	44	katak	3	k a t a k	
+NYAKUR	cbn	tongue	1205	44	ntak	3	n t a k	
+KHMER	khm	tongue	1205	44	3ntak	3	3 n t a k	
+KUI_THAILAND	kdt	tongue	1205	44	nta7	3	n t a 7	
+SEMAI	sea	tongue	1205	44	lntak	3	l n t a k	
+WA	wbm	tongue	1205	44	dak	3	d a k	
+DEANG	pce	tongue	1205	44	kta7	3	k t a 7	
+KHMU	kjg	tongue	1205	44	h3ntak	3	h 3 n t a k	
+KSINMUL	puo	tongue	1205	44	h3ltak	3	h 3 l t a k	
+KHASI	kha	tongue	1205	44	th~illied	2	th~ i ll i e d	
+MUNDARI	unr	tongue	1205	44	le7	4	l e 7	
+JEH	jeh	nail (claw)	72	45	k3nialh~	1	k 3 n i a lh~	
+BAHNAR	bdq	nail (claw)	72	45	teNi3h	1	t e N i 3 h	
+CHRAU	crw	nail (claw)	72	45	can7hyeih	1	c a n 7 h y e i h	
+VIETNAMESE	vie	nail (claw)	72	45	moN	2	m o N	
+RUC	scb	nail (claw)	72	45	k3ntoN	3	k 3 n t o N	
+MON	mnw	nail (claw)	72	45	sanem	4	s a n e m	
+NYAKUR	cbn	nail (claw)	72	45	Nh~li3m	4	Nh~ l i 3 m	
+KHMER	khm	nail (claw)	72	45	kr3Cok	5	k r 3 C o k	
+KUI_THAILAND	kdt	nail (claw)	72	45	nth$rEh	6	nth$ r E h	
+SEMAI	sea	nail (claw)	72	45	C3nros	6	C 3 n r o s	
+WA	wbm	nail (claw)	72	45	Nh~im	4	Nh~ i m	
+DEANG	pce	nail (claw)	72	45	arh~im	4	a rh~ i m	
+KHMU	kjg	nail (claw)	72	45	t3mmoN	7	t 3 mm o N	
+KSINMUL	puo	nail (claw)	72	45	moNsu3N	7	m o N s u 3 N	
+KHASI	kha	nail (claw)	72	45	tirsim	4	t i r s i m	
+MUNDARI	unr	nail (claw)	72	45	rama	9	r a m a	
+BAHNAR	bdq	foot	1301	46	t3paNZ3N	1	t 3 p a N Z 3 N	
+CHRAU	crw	foot	1301	46	jaN	1	j a N	
+VIETNAMESE	vie	foot	1301	46	tan	1	t a n	
+RUC	scb	foot	1301	46	CiN	1	C i N	
+MON	mnw	foot	1301	46	ZoN	1	Z o N	
+NYAKUR	cbn	foot	1301	46	Ch~uN	1	Ch~ u N	
+KHMER	khm	foot	1301	46	Za3N	1	Z a 3 N	
+KUI_THAILAND	kdt	foot	1301	46	Z3N	1	Z 3 N	
+SEMAI	sea	foot	1301	46	ZukN	1	Z u k N	
+WA	wbm	foot	1301	46	CauN	1	C a u N	
+DEANG	pce	foot	1301	46	Z3N	1	Z 3 N	
+KHMU	kjg	foot	1301	46	C3aN	1	C 3 a N	
+KSINMUL	puo	foot	1301	46	zuN	1	z u N	
+KHASI	kha	foot	1301	46	kinZat	2	k i n Z a t	
+MUNDARI	unr	foot	1301	46	kata	3	k a t a	
+JEH	jeh	knee	1371	47	kroN	1	k r o N	
+CHRAU	crw	knee	1371	47	ko7 kruN	1	k o 7 _ k r u N	
+VIETNAMESE	vie	knee	1371	47	dau goi	2	d a u _ g o i	
+RUC	scb	knee	1371	47	kuluok tukul	2	k u l u o k _ t u k u l	
+MON	mnw	knee	1371	47	kboaN	3	k b o a N	
+NYAKUR	cbn	knee	1371	47	k3boN	3	k 3 b o N	
+KHMER	khm	knee	1371	47	Z3NgaN	4	Z 3 N g a N	
+KUI_THAILAND	kdt	knee	1371	47	plat3kol	2	p l a t 3 k o l	
+SEMAI	sea	knee	1371	47	kurol	5	k u r o l	
+WA	wbm	knee	1371	47	p3m NoN	4	p 3 m _ N o N	
+DEANG	pce	knee	1371	47	kir kEr	10	k i r _ k E r	
+KHMU	kjg	knee	1371	47	k3nun	9	k 3 n u n	
+KSINMUL	puo	knee	1371	47	3lum3ldil	6	3 l u m 3 l d i l	
+KHASI	kha	knee	1371	47	kh~osiw	7	kh~ o s i w	
+JEH	jeh	hand	1277	48	ti	1	t i	
+BAHNAR	bdq	hand	1277	48	ti	1	t i	
+CHRAU	crw	hand	1277	48	ti	1	t i	
+VIETNAMESE	vie	hand	1277	48	tay	1	t a y	
+RUC	scb	hand	1277	48	si	1	s i	
+MON	mnw	hand	1277	48	tay	1	t a y	
+NYAKUR	cbn	hand	1277	48	tEy	1	t E y	
+KHMER	khm	hand	1277	48	tay	1	t a y	
+KUI_THAILAND	kdt	hand	1277	48	te	1	t e	
+SEMAI	sea	hand	1277	48	t3kN	1	t 3 k N	
+WA	wbm	hand	1277	48	tai7	1	t a i 7	
+DEANG	pce	hand	1277	48	tai	1	t a i	
+KHMU	kjg	hand	1277	48	k3takti	1	k 3 t a k t i	
+KSINMUL	puo	hand	1277	48	k3sap	2	k 3 s a p	
+KHASI	kha	hand	1277	48	kti	1	k t i	
+MUNDARI	unr	hand	1277	48	ti	1	t i	
+JEH	jeh	belly	1251	49	p3dok	1	p 3 d o k	
+RUC	scb	belly	1251	49	kd3l	3	k d 3 l	
+MON	mnw	belly	1251	49	buN	4	b u N	
+NYAKUR	cbn	belly	1251	49	ph~uN	4	ph~ u N	
+KHMER	khm	belly	1251	49	boh	5	b o h	
+KUI_THAILAND	kdt	belly	1251	49	ph~uN	4	ph~ u N	
+SEMAI	sea	belly	1251	49	k3t	6	k 3 t	
+WA	wbm	belly	1251	49	vaik	7	v a i k	
+DEANG	pce	belly	1251	49	vE7	7	v E 7	
+KHMU	kjg	belly	1251	49	poN	4	p o N	
+KSINMUL	puo	belly	1251	49	ku	8	k u	
+KHASI	kha	belly	1251	49	kipoh	5	k i p o h	
+MUNDARI	unr	belly	1251	49	laZ	2	l a Z	
+BAHNAR	bdq	neck	1333	50	ako	1	a k o	
+CHRAU	crw	neck	1333	50	nko	1	n k o	
+VIETNAMESE	vie	neck	1333	50	ko	1	k o	
+MON	mnw	neck	1333	50	ka7	1	k a 7	
+NYAKUR	cbn	neck	1333	50	ko7	1	k o 7	
+KHMER	khm	neck	1333	50	ko	1	k o	
+KUI_THAILAND	kdt	neck	1333	50	kaN	2	k a N	
+SEMAI	sea	neck	1333	50	taN3n	3	t a N 3 n	
+WA	wbm	neck	1333	50	Nok	4	N o k	
+DEANG	pce	neck	1333	50	amoN	5	a m o N	
+KHMU	kjg	neck	1333	50	k3ntuar	6	k 3 n t u a r	
+KSINMUL	puo	neck	1333	50	kok	9	k o k	
+KHASI	kha	neck	1333	50	rindaN	7	r i n d a N	
+MUNDARI	unr	neck	1333	50	hoto7	8	h o t o 7	
+JEH	jeh	breast	1402	51	tuh	1	t u h	
+BAHNAR	bdq	breast	1402	51	toh	1	t o h	
+CHRAU	crw	breast	1402	51	gatoh	1	g a t o h	
+VIETNAMESE	vie	breast	1402	51	Nuk	2	N u k	
+RUC	scb	breast	1402	51	n3y	3	n 3 y	
+MON	mnw	breast	1402	51	tah	1	t a h	
+NYAKUR	cbn	breast	1402	51	toh	1	t o h	
+KHMER	khm	breast	1402	51	toh	1	t o h	
+KUI_THAILAND	kdt	breast	1402	51	toh	1	t o h	
+SEMAI	sea	breast	1402	51	nt~3h	1	nt~ 3 h	
+WA	wbm	breast	1402	51	t3ih	1	t 3 i h	
+DEANG	pce	breast	1402	51	bu	2	b u	
+KHMU	kjg	breast	1402	51	pu	2	p u	
+KSINMUL	puo	breast	1402	51	um	4	u m	
+KHASI	kha	breast	1402	51	sh~adem	5	sh~ a d e m	
+MUNDARI	unr	breast	1402	51	nunu	6	n u n u	
+JEH	jeh	heart	1223	52	noyh~	1	n o yh~	
+BAHNAR	bdq	heart	1223	52	nuih	1	n u i h	
+CHRAU	crw	heart	1223	52	play nuih	1	p l a y _ n u i h	
+MON	mnw	heart	1223	52	gruih	2	g r u i h	
+NYAKUR	cbn	heart	1223	52	5y~um	3	5y~ u m	
+KUI_THAILAND	kdt	heart	1223	52	ph~am	3	ph~ a m	
+SEMAI	sea	heart	1223	52	nus	1	n u s	
+WA	wbm	heart	1223	52	rh~om	3	rh~ o m	
+DEANG	pce	heart	1223	52	noih	1	n o i h	
+KHMU	kjg	heart	1223	52	h3rn3am	3	h 3 r n 3 a m	
+KSINMUL	puo	heart	1223	52	en	4	e n	
+KHASI	kha	heart	1223	52	kloN snam	5	k l o N _ s n a m	
+JEH	jeh	liver	1224	53	klem	1	k l e m	
+BAHNAR	bdq	liver	1224	53	kl3m	1	k l 3 m	
+CHRAU	crw	liver	1224	53	kh~lom	1	kh~ l o m	
+RUC	scb	liver	1224	53	lo3m	1	l o 3 m	
+MON	mnw	liver	1224	53	gruih	2	g r u i h	
+NYAKUR	cbn	liver	1224	53	kh~rih	2	kh~ r i h	
+KHMER	khm	liver	1224	53	th~la3m	1	th~ l a 3 m	
+KUI_THAILAND	kdt	liver	1224	53	luam	1	l u a m	
+SEMAI	sea	liver	1224	53	ris	4	r i s	
+WA	wbm	liver	1224	53	tom	1	t o m	
+DEANG	pce	liver	1224	53	ktom	1	k t o m	
+KHMU	kjg	liver	1224	53	t3lom	1	t 3 l o m	
+KSINMUL	puo	liver	1224	53	t3lom	1	t 3 l o m	
+KHASI	kha	liver	1224	53	ba im	1	b a _ i m	
+MUNDARI	unr	liver	1224	53	im	1	i m	
+JEH	jeh	drink	1401	54	hut	1	h u t	
+BAHNAR	bdq	drink	1401	54	5a	2	5 a	
+CHRAU	crw	drink	1401	54	huC	1	h u C	
+VIETNAMESE	vie	drink	1401	54	uoN	3	u o N	
+RUC	scb	drink	1401	54	5u	2	5 u	
+MON	mnw	drink	1401	54	suN	5	s u N	
+NYAKUR	cbn	drink	1401	54	Ch~oN	5	Ch~ o N	
+KHMER	khm	drink	1401	54	ph~3k	6	ph~ 3 k	
+KUI_THAILAND	kdt	drink	1401	54	NuaC	4	N u a C	
+SEMAI	sea	drink	1401	54	Nut	4	N u t	
+WA	wbm	drink	1401	54	rh~3p	7	rh~ 3 p	
+DEANG	pce	drink	1401	54	rh~3p	7	rh~ 3 p	
+KHMU	kjg	drink	1401	54	uak	8	u a k	
+KSINMUL	puo	drink	1401	54	uk	8	u k	
+KHASI	kha	drink	1401	54	dih	9	d i h	
+MUNDARI	unr	drink	1401	54	nu	2	n u	
+JEH	jeh	eat	1336	55	Ca	1	C a	
+BAHNAR	bdq	eat	1336	55	sa	1	s a	
+CHRAU	crw	eat	1336	55	sa	1	s a	
+VIETNAMESE	vie	eat	1336	55	an	2	a n	
+RUC	scb	eat	1336	55	an	2	a n	
+MON	mnw	eat	1336	55	Ca	1	C a	
+NYAKUR	cbn	eat	1336	55	Ca7	1	C a 7	
+KHMER	khm	eat	1336	55	5am	3	5 a m	
+KUI_THAILAND	kdt	eat	1336	55	Ca	1	C a	
+SEMAI	sea	eat	1336	55	Ca7	1	C a 7	
+WA	wbm	eat	1336	55	som	4	s o m	
+DEANG	pce	eat	1336	55	hom	4	h o m	
+KHMU	kjg	eat	1336	55	p3	6	p 3	
+KSINMUL	puo	eat	1336	55	Ca	1	C a	
+KHASI	kha	eat	1336	55	Zom	7	Z o m	
+MUNDARI	unr	eat	1336	55	Zom	4	Z o m	
+JEH	jeh	bite	1403	56	kap	1	k a p	
+BAHNAR	bdq	bite	1403	56	kap	1	k a p	
+RUC	scb	bite	1403	56	kom	2	k o m	
+MON	mnw	bite	1403	56	kit	3	k i t	
+NYAKUR	cbn	bite	1403	56	k3t	3	k 3 t	
+KHMER	khm	bite	1403	56	kh~am	2	kh~ a m	
+KUI_THAILAND	kdt	bite	1403	56	kap	1	k a p	
+SEMAI	sea	bite	1403	56	kap	1	k a p	
+WA	wbm	bite	1403	56	kiat	3	k i a t	
+DEANG	pce	bite	1403	56	ga7	4	g a 7	
+KHMU	kjg	bite	1403	56	pok	5	p o k	
+KSINMUL	puo	bite	1403	56	ak	6	a k	
+KHASI	kha	bite	1403	56	dait	7	d a i t	
+MUNDARI	unr	bite	1403	56	hua	1	h u a	
+JEH	jeh	see	1409	57	tau	1	t a u	
+BAHNAR	bdq	see	1409	57	boh	2	b o h	
+CHRAU	crw	see	1409	57	say	13	s a y	
+VIETNAMESE	vie	see	1409	57	%8ay	3	% 8 a y	probably borrowed from Old Chinese
+RUC	scb	see	1409	57	C3N	4	C 3 N	
+MON	mnw	see	1409	57	5at	5	5 a t	
+NYAKUR	cbn	see	1409	57	ma3l	6	m a 3 l	
+KHMER	khm	see	1409	57	ma3l	7	m a 3 l	
+KUI_THAILAND	kdt	see	1409	57	sir	8	s i r	
+SEMAI	sea	see	1409	57	nEN	11	n E N	
+WA	wbm	see	1409	57	yau7	12	y a u 7	
+DEANG	pce	see	1409	57	y3	12	y 3	
+KHMU	kjg	see	1409	57	kun	14	k u n	
+KSINMUL	puo	see	1409	57	di3	3	d i 3	
+KHASI	kha	see	1409	57	kh~imih	6	kh~ i m i h	
+MUNDARI	unr	see	1409	57	lel	15	l e l	
+JEH	jeh	hear	1408	58	5aN	1	5 a N	
+BAHNAR	bdq	hear	1408	58	k3teN	2	k 3 t e N	
+CHRAU	crw	hear	1408	58	CaN	3	C a N	
+VIETNAMESE	vie	hear	1408	58	Nhe	4	N h e	
+RUC	scb	hear	1408	58	CamaN	5	C a m a N	
+MON	mnw	hear	1408	58	miN	5	m i N	
+NYAKUR	cbn	hear	1408	58	kh~3m35	5	kh~ 3 m 3 5	
+KHMER	khm	hear	1408	58	l3	6	l 3	
+KUI_THAILAND	kdt	hear	1408	58	saN	7	s a N	
+SEMAI	sea	hear	1408	58	g3rtek	2	g 3 r t e k	
+WA	wbm	hear	1408	58	mh~oN	5	mh~ o N	
+DEANG	pce	hear	1408	58	sNauy3	8	s N a u y 3	
+KHMU	kjg	hear	1408	58	meC	10	m e C	
+KSINMUL	puo	hear	1408	58	al	11	a l	
+KHASI	kha	hear	1408	58	sNow	9	s N o w	
+MUNDARI	unr	hear	1408	58	ayum	12	a y u m	
+JEH	jeh	know	1410	59	lo	1	l o	
+BAHNAR	bdq	know	1410	59	bat	2	b a t	
+CHRAU	crw	know	1410	59	gut	3	g u t	
+VIETNAMESE	vie	know	1410	59	biet	2	b i e t	
+RUC	scb	know	1410	59	hi	4	h i	
+MON	mnw	know	1410	59	tim	5	t i m	
+NYAKUR	cbn	know	1410	59	C3d3m	5	C 3 d 3 m	
+KHMER	khm	know	1410	59	t3N	6	t 3 N	
+KUI_THAILAND	kdt	know	1410	59	di5	6	d i 5	
+WA	wbm	know	1410	59	yuN	12	y u N	
+DEANG	pce	know	1410	59	nap	7	n a p	
+KHMU	kjg	know	1410	59	n3N	8	n 3 N	
+KSINMUL	puo	know	1410	59	zu3	9	z u 3	
+KHASI	kha	know	1410	59	tip	10	t i p	
+MUNDARI	unr	know	1410	59	itu	11	i t u	
+JEH	jeh	sleep	1585	60	kat	1	k a t	
+BAHNAR	bdq	sleep	1585	60	tep	2	t e p	
+RUC	scb	sleep	1585	60	53p	5	5 3 p	
+MON	mnw	sleep	1585	60	stik	6	s t i k	
+NYAKUR	cbn	sleep	1585	60	pu5Nkuy	7	p u 5 N k u y	
+KHMER	khm	sleep	1585	60	t3k	6	t 3 k	
+KUI_THAILAND	kdt	sleep	1585	60	NEt	8	N E t	
+SEMAI	sea	sleep	1585	60	bEt	3	b E t	
+WA	wbm	sleep	1585	60	it	9	i t	
+DEANG	pce	sleep	1585	60	it	9	i t	
+KHMU	kjg	sleep	1585	60	sis	11	s i s	
+KSINMUL	puo	sleep	1585	60	em	12	e m	
+KHASI	kha	sleep	1585	60	th~iah	13	th~ i a h	
+MUNDARI	unr	sleep	1585	60	durum	14	d u r u m	
+JEH	jeh	die	1494	61	k3Ch~iat	1	k 3 Ch~ i a t	
+BAHNAR	bdq	die	1494	61	k3teC	7	k 3 t e C	
+CHRAU	crw	die	1494	61	Cut	1	C u t	
+VIETNAMESE	vie	die	1494	61	tet	1	t e t	
+RUC	scb	die	1494	61	kuCit	1	k u C i t	
+MON	mnw	die	1494	61	khy$uit	1	khy$ u i t	
+NYAKUR	cbn	die	1494	61	k3CEt	1	k 3 C E t	
+KHMER	khm	die	1494	61	slap	2	s l a p	
+KUI_THAILAND	kdt	die	1494	61	lah	3	l a h	
+SEMAI	sea	die	1494	61	dat	4	d a t	
+WA	wbm	die	1494	61	yum	5	y u m	
+DEANG	pce	die	1494	61	yam	5	y a m	
+KHMU	kjg	die	1494	61	han	6	h a n	
+KSINMUL	puo	die	1494	61	si3n	6	s i 3 n	
+KHASI	kha	die	1494	61	iap noh	2	i a p _ n o h	
+MUNDARI	unr	die	1494	61	goZu7	1	g o Z u 7	
+JEH	jeh	kill	1417	62	Zah	7	Z a h	
+BAHNAR	bdq	kill	1417	62	p3loC	2	p 3 l o C	
+CHRAU	crw	kill	1417	62	taCut	1	t a C u t	
+VIETNAMESE	vie	kill	1417	62	giet	1	g i e t	
+RUC	scb	kill	1417	62	kaCit	1	k a C i t	
+MON	mnw	kill	1417	62	gaCuit	1	g a C u i t	
+NYAKUR	cbn	kill	1417	62	k3CEt	1	k 3 C E t	
+KHMER	khm	kill	1417	62	s3mlap	3	s 3 m l a p	
+KUI_THAILAND	kdt	kill	1417	62	k3CEt	1	k 3 C E t	
+SEMAI	sea	kill	1417	62	p3rdat	4	p 3 r d a t	
+WA	wbm	kill	1417	62	pa3h	8	p a 3 h	
+DEANG	pce	kill	1417	62	Nah	5	N a h	
+KHMU	kjg	kill	1417	62	ph~an	6	ph~ a n	
+KSINMUL	puo	kill	1417	62	p3si3n	6	p 3 s i 3 n	
+KHASI	kha	kill	1417	62	piniap	3	p i n i a p	
+MUNDARI	unr	kill	1417	62	gie7	1	g i e 7	
+JEH	jeh	swim	1439	63	p3loi	1	p 3 l o i	
+BAHNAR	bdq	swim	1439	63	gl3i	1	g l 3 i	
+RUC	scb	swim	1439	63	aya	3	a y a	
+MON	mnw	swim	1439	63	biN	4	b i N	
+NYAKUR	cbn	swim	1439	63	bi5	4	b i 5	
+KHMER	khm	swim	1439	63	hel	5	h e l	
+KUI_THAILAND	kdt	swim	1439	63	loi	1	l o i	
+SEMAI	sea	swim	1439	63	loy	1	l o y	
+WA	wbm	swim	1439	63	loi	1	l o i	
+DEANG	pce	swim	1439	63	lam Na	8	l a m _ N a	
+KHMU	kjg	swim	1439	63	way	5	w a y	
+KSINMUL	puo	swim	1439	63	loy	1	l o y	
+KHASI	kha	swim	1439	63	ZiNi	6	Z i N i	
+MUNDARI	unr	swim	1439	63	oyar	7	o y a r	
+JEH	jeh	fly	1441	64	t3pal	1	t 3 p a l	
+BAHNAR	bdq	fly	1441	64	par	1	p a r	
+CHRAU	crw	fly	1441	64	par	1	p a r	
+VIETNAMESE	vie	fly	1441	64	bay	1	b a y	
+RUC	scb	fly	1441	64	p3l	1	p 3 l	
+MON	mnw	fly	1441	64	paw	1	p a w	
+NYAKUR	cbn	fly	1441	64	ph~ar	1	ph~ a r	
+KHMER	khm	fly	1441	64	ha3r	2	h a 3 r	
+KUI_THAILAND	kdt	fly	1441	64	par	1	p a r	
+SEMAI	sea	fly	1441	64	hEkN	3	h E k N	
+WA	wbm	fly	1441	64	pu	1	p u	
+DEANG	pce	fly	1441	64	ph~ru	5	ph~ r u	
+KHMU	kjg	fly	1441	64	tir	6	t i r	
+KSINMUL	puo	fly	1441	64	pal	1	p a l	
+KHASI	kha	fly	1441	64	her	2	h e r	
+MUNDARI	unr	fly	1441	64	apir	1	a p i r	
+JEH	jeh	walk	1443	65	Ciu	1	C i u	
+BAHNAR	bdq	walk	1443	65	ano	2	a n o	
+CHRAU	crw	walk	1443	65	sa7	3	s a 7	also: han
+VIETNAMESE	vie	walk	1443	65	di	4	d i	
+RUC	scb	walk	1443	65	ti	4	t i	
+NYAKUR	cbn	walk	1443	65	ar	5	a r	
+KHMER	khm	walk	1443	65	ta3r	6	t a 3 r	
+KUI_THAILAND	kdt	walk	1443	65	huC	7	h u C	
+SEMAI	sea	walk	1443	65	Cip	8	C i p	
+WA	wbm	walk	1443	65	hu	9	h u	
+DEANG	pce	walk	1443	65	hau	9	h a u	
+KHMU	kjg	walk	1443	65	yoh	10	y o h	
+KSINMUL	puo	walk	1443	65	zu	10	z u	
+KHASI	kha	walk	1443	65	iaid	11	i a i d	
+MUNDARI	unr	walk	1443	65	sen	12	s e n	
+RUC	scb	come	1446	66	ti	1	t i	
+MON	mnw	come	1446	66	kluN	2	k l u N	
+NYAKUR	cbn	come	1446	66	loN	2	l o N	
+KHMER	khm	come	1446	66	mok	3	m o k	
+KUI_THAILAND	kdt	come	1446	66	Cau	4	C a u	
+SEMAI	sea	come	1446	66	bEy	5	b E y	
+WA	wbm	come	1446	66	hoik	6	h o i k	
+DEANG	pce	come	1446	66	rot	7	r o t	
+KHMU	kjg	come	1446	66	kay	8	k a y	
+KSINMUL	puo	come	1446	66	pleh	9	p l e h	
+KHASI	kha	come	1446	66	wan	10	w a n	
+MUNDARI	unr	come	1446	66	hiZu7	11	h i Z u 7	
+JEH	jeh	lie	1411	67	kat	1	k a t	
+BAHNAR	bdq	lie	1411	67	p3som	2	p 3 s o m	
+CHRAU	crw	lie	1411	67	vi7	3	v i 7	
+VIETNAMESE	vie	lie	1411	67	Nu	4	N u	also: nam
+RUC	scb	lie	1411	67	n3p	5	n 3 p	
+MON	mnw	lie	1411	67	wat	3	w a t	
+NYAKUR	cbn	lie	1411	67	pu5	12	p u 5	
+KHMER	khm	lie	1411	67	g3N	6	g 3 N	
+KUI_THAILAND	kdt	lie	1411	67	tiC	7	t i C	
+SEMAI	sea	lie	1411	67	da7	8	d a 7	
+WA	wbm	lie	1411	67	noi	9	n o i	
+KHMU	kjg	lie	1411	67	Nim	10	N i m	
+KSINMUL	puo	lie	1411	67	em	10	e m	
+KHASI	kha	lie	1411	67	sh~aniah	11	sh~ a n i a h	
+MUNDARI	unr	lie	1411	67	giti7	7	g i t i 7	
+JEH	jeh	sit	1416	68	sinan	1	s i n a n	
+CHRAU	crw	sit	1416	68	gu7	2	g u 7	
+VIETNAMESE	vie	sit	1416	68	Noi	3	N o i	
+RUC	scb	sit	1416	68	Noy	3	N o y	
+MON	mnw	sit	1416	68	gaZa7	4	g a Z a 7	
+NYAKUR	cbn	sit	1416	68	th~oN	5	th~ o N	
+KHMER	khm	sit	1416	68	3Nguy	3	3 N g u y	
+SEMAI	sea	sit	1416	68	g3y	3	g 3 y	
+WA	wbm	sit	1416	68	Nom	6	N o m	
+DEANG	pce	sit	1416	68	Noi	3	N o i	
+KHMU	kjg	sit	1416	68	ten	7	t e n	also: tan
+KSINMUL	puo	sit	1416	68	kli3n	8	k l i 3 n	
+KHASI	kha	sit	1416	68	sh~oN	9	sh~ o N	
+MUNDARI	unr	sit	1416	68	dub	10	d u b	
+BAHNAR	bdq	stand	1442	69	doN	1	d o N	
+VIETNAMESE	vie	stand	1442	69	duN Zay	1	d u N _ Z a y	
+RUC	scb	stand	1442	69	taN	1	t a N	
+MON	mnw	stand	1442	69	tuiw	2	t u i w	
+NYAKUR	cbn	stand	1442	69	y3n	3	y 3 n	
+KHMER	khm	stand	1442	69	Zh~ar	4	Zh~ a r	
+KUI_THAILAND	kdt	stand	1442	69	tey3N	3	t e y 3 N	
+SEMAI	sea	stand	1442	69	Zi5Z3k	3	Z i 5 Z 3 k	
+WA	wbm	stand	1442	69	CuN	5	C u N	
+DEANG	pce	stand	1442	69	ZaN	3	Z a N	
+KHMU	kjg	stand	1442	69	t3n	1	t 3 n	
+KSINMUL	puo	stand	1442	69	Cal	6	C a l	
+KHASI	kha	stand	1442	69	ieN	3	i e N	
+MUNDARI	unr	stand	1442	69	tiNgu	1	t i N g u	
+JEH	jeh	give	1447	70	doh	1	d o h	
+BAHNAR	bdq	give	1447	70	an	2	a n	
+CHRAU	crw	give	1447	70	an	2	a n	also: iun
+VIETNAMESE	vie	give	1447	70	to	3	t o	
+MON	mnw	give	1447	70	kuiw	4	k u i w	
+NYAKUR	cbn	give	1447	70	kul	4	k u l	
+KHMER	khm	give	1447	70	oy	10	o y	
+KUI_THAILAND	kdt	give	1447	70	an	2	a n	
+SEMAI	sea	give	1447	70	ok	5	o k	
+WA	wbm	give	1447	70	to7	6	t o 7	
+DEANG	pce	give	1447	70	don	9	d o n	
+KHMU	kjg	give	1447	70	un	2	u n	
+KSINMUL	puo	give	1447	70	mah	7	m a h	
+MUNDARI	unr	give	1447	70	om	8	o m	
+JEH	jeh	speak	1623	71	t3tah	1	t 3 t a h	
+BAHNAR	bdq	speak	1623	71	p3ma	2	p 3 m a	
+CHRAU	crw	speak	1623	71	pa5	3	p a 5	
+VIETNAMESE	vie	speak	1623	71	raN	1	r a N	
+RUC	scb	speak	1623	71	Col	4	C o l	
+MON	mnw	speak	1623	71	huim	5	h u i m	
+NYAKUR	cbn	speak	1623	71	ph~ut	7	ph~ u t	
+KHMER	khm	speak	1623	71	sr3ti	6	s r 3 t i	
+SEMAI	sea	speak	1623	71	pder	1	p d e r	
+WA	wbm	speak	1623	71	krai	8	k r a i	
+DEANG	pce	speak	1623	71	grai	8	g r a i	
+KHMU	kjg	speak	1623	71	lo	9	l o	
+KSINMUL	puo	speak	1623	71	waw	10	w a w	
+KHASI	kha	speak	1623	71	oN	11	o N	
+MUNDARI	unr	speak	1623	71	men	12	m e n	
+JEH	jeh	sun	1343	72	matNay	1	m a t N a y	
+BAHNAR	bdq	sun	1343	72	nar	2	n a r	
+CHRAU	crw	sun	1343	72	mat nar	2	m a t _ n a r	
+VIETNAMESE	vie	sun	1343	72	mat Coi	3	m a t _ C o i	
+RUC	scb	sun	1343	72	m3tpl3y	3	m 3 t p l 3 y	
+MON	mnw	sun	1343	72	tNay	1	t N a y	
+NYAKUR	cbn	sun	1343	72	ha*y	1	h a* y	
+KHMER	khm	sun	1343	72	th~3Nay	1	th~ 3 N a y	
+KUI_THAILAND	kdt	sun	1343	72	m3niaN	4	m 3 n i a N	
+SEMAI	sea	sun	1343	72	matZis	5	m a t Z i s	
+WA	wbm	sun	1343	72	siNai7	1	s i N a i 7	
+DEANG	pce	sun	1343	72	sNoi	1	s N o i	
+KHMU	kjg	sun	1343	72	matpri	3	m a t p r i	
+KSINMUL	puo	sun	1343	72	C3lNe	1	C 3 l N e	
+KHASI	kha	sun	1343	72	sNi	1	s N i	
+MUNDARI	unr	sun	1343	72	siNgi	1	s i N g i	
+JEH	jeh	moon	1313	73	kh~ei	1	kh~ e i	
+BAHNAR	bdq	moon	1313	73	kh~ei	1	kh~ e i	
+CHRAU	crw	moon	1313	73	kh~ay	1	kh~ a y	
+VIETNAMESE	vie	moon	1313	73	CaN	2	C a N	
+MON	mnw	moon	1313	73	gatu	3	g a t u	
+NYAKUR	cbn	moon	1313	73	ntu7	3	n t u 7	
+KHMER	khm	moon	1313	73	kh~E	1	kh~ E	
+KUI_THAILAND	kdt	moon	1313	73	mph$riaNsai	2	mph$ r i a N s a i	
+SEMAI	sea	moon	1313	73	gCE7	1	g C E 7	
+WA	wbm	moon	1313	73	kh~i7	1	kh~ i 7	
+DEANG	pce	moon	1313	73	plaN kiar	2	p l a N _ k i a r	
+KHMU	kjg	moon	1313	73	moN	5	m o N	
+KSINMUL	puo	moon	1313	73	blah	6	b l a h	
+KHASI	kha	moon	1313	73	binai	7	b i n a i	
+JEH	jeh	star	1430	74	hloN	1	h l o N	
+BAHNAR	bdq	star	1430	74	s3NloN	1	s 3 N l o N	
+CHRAU	crw	star	1430	74	sima5	2	s i m a 5	
+RUC	scb	star	1430	74	kumi5	2	k u m i 5	
+MON	mnw	star	1430	74	saman	2	s a m a n	
+KHMER	khm	star	1430	74	ph~3kay	3	ph~ 3 k a y	
+KUI_THAILAND	kdt	star	1430	74	ntar	4	n t a r	
+SEMAI	sea	star	1430	74	prloy	5	p r l o y	
+WA	wbm	star	1430	74	sim7~uiN	2	s i m7~ u i N	
+DEANG	pce	star	1430	74	sman	2	s m a n	
+KHMU	kjg	star	1430	74	s3rmin	2	s 3 r m i n	
+KSINMUL	puo	star	1430	74	m35	2	m 3 5	
+KHASI	kha	star	1430	74	kh~lur	5	kh~ l u r	
+MUNDARI	unr	star	1430	74	ipil	6	i p i l	
+JEH	jeh	water	948	75	dak	1	d a k	
+BAHNAR	bdq	water	948	75	dak	1	d a k	
+CHRAU	crw	water	948	75	da7	1	d a 7	
+VIETNAMESE	vie	water	948	75	nuok	1	n u o k	
+RUC	scb	water	948	75	da7	1	d a 7	
+MON	mnw	water	948	75	dak	1	d a k	
+NYAKUR	cbn	water	948	75	dak	1	d a k	
+KHMER	khm	water	948	75	d3k	1	d 3 k	
+KUI_THAILAND	kdt	water	948	75	dia7	1	d i a 7	
+SEMAI	sea	water	948	75	tew	2	t e w	
+WA	wbm	water	948	75	rom	3	r o m	
+DEANG	pce	water	948	75	om	3	o m	
+KHMU	kjg	water	948	75	om	3	o m	
+KSINMUL	puo	water	948	75	hot	4	h o t	
+KHASI	kha	water	948	75	um	3	u m	
+MUNDARI	unr	water	948	75	da7	1	d a 7	
+JEH	jeh	rain	658	76	mriah	1	m r i a h	
+BAHNAR	bdq	rain	658	76	mi	2	m i	
+CHRAU	crw	rain	658	76	mi	2	m i	
+VIETNAMESE	vie	rain	658	76	mua	2	m u a	
+RUC	scb	rain	658	76	kum3a	2	k u m 3 a	
+MON	mnw	rain	658	76	bray	1	b r a y	
+NYAKUR	cbn	rain	658	76	ph~rEy	1	ph~ r E y	
+KHMER	khm	rain	658	76	bh~li3N	3	bh~ l i 3 N	
+KUI_THAILAND	kdt	rain	658	76	m3mia	2	m 3 m i a	
+SEMAI	sea	rain	658	76	mani7	4	m a n i 7	
+WA	wbm	rain	658	76	lh~E7	5	lh~ E 7	
+DEANG	pce	rain	658	76	klai	6	k l a i	
+KHMU	kjg	rain	658	76	k3ma	2	k 3 m a	
+KSINMUL	puo	rain	658	76	3m3	2	3 m 3	
+KHASI	kha	rain	658	76	slap	7	s l a p	
+MUNDARI	unr	rain	658	76	gama	2	g a m a	
+JEH	jeh	stone	857	77	t3mou	1	t 3 m o u	
+BAHNAR	bdq	stone	857	77	t3mo	1	t 3 m o	
+CHRAU	crw	stone	857	77	tamo	1	t a m o	
+VIETNAMESE	vie	stone	857	77	da	2	d a	
+RUC	scb	stone	857	77	lata	2	l a t a	
+MON	mnw	stone	857	77	tmo7	1	t m o 7	
+NYAKUR	cbn	stone	857	77	hmo7	1	h m o 7	
+KHMER	khm	stone	857	77	th~3mo	1	th~ 3 m o	
+KUI_THAILAND	kdt	stone	857	77	t3mau	1	t 3 m a u	
+WA	wbm	stone	857	77	si mau7	1	s i _ m a u 7	
+DEANG	pce	stone	857	77	mau	1	m a u	
+KHMU	kjg	stone	857	77	klaN	3	k l a N	
+KSINMUL	puo	stone	857	77	3li3N	3	3 l i 3 N	
+KHASI	kha	stone	857	77	maw	1	m a w	
+MUNDARI	unr	stone	857	77	diri	4	d i r i	
+JEH	jeh	sand	671	78	Coih	1	C o i h	
+BAHNAR	bdq	sand	671	78	Cu3h	1	C u 3 h	
+CHRAU	crw	sand	671	78	Cw~oh	1	Cw~ o h	
+VIETNAMESE	vie	sand	671	78	kat	2	k a t	
+RUC	scb	sand	671	78	t3kaC	2	t 3 k a C	
+MON	mnw	sand	671	78	bti	3	b t i	
+NYAKUR	cbn	sand	671	78	nt3l	3	n t 3 l	
+KHMER	khm	sand	671	78	kh~3saC	2	kh~ 3 s a C	
+WA	wbm	sand	671	78	mh~aik	2	mh~ a i k	
+DEANG	pce	sand	671	78	kh~ai7	2	kh~ a i 7	
+KHMU	kjg	sand	671	78	Cr~es	4	Cr~ e s	
+KHASI	kha	sand	671	78	sh~iap	5	sh~ i a p	
+MUNDARI	unr	sand	671	78	gitil	3	g i t i l	
+JEH	jeh	earth	1228	79	neh	2	n e h	
+BAHNAR	bdq	earth	1228	79	tEh	1	t E h	
+CHRAU	crw	earth	1228	79	nteh	1	n t e h	
+VIETNAMESE	vie	earth	1228	79	dat	1	d a t	
+MON	mnw	earth	1228	79	ti	1	t i	
+NYAKUR	cbn	earth	1228	79	ti7	1	t i 7	
+KHMER	khm	earth	1228	79	ti	1	t i	
+KUI_THAILAND	kdt	earth	1228	79	k3tE7	1	k 3 t E 7	
+SEMAI	sea	earth	1228	79	te7	1	t e 7	
+WA	wbm	earth	1228	79	tE7	1	t E 7	
+DEANG	pce	earth	1228	79	"k""tai"	1	"k"" t a i"	
+KHMU	kjg	earth	1228	79	p3te	1	p 3 t e	
+KSINMUL	puo	earth	1228	79	k3te	1	k 3 t e	
+KHASI	kha	earth	1228	79	pirth~ei	1	p i r th~ e i	
+MUNDARI	unr	earth	1228	79	ote	1	o t e	
+JEH	jeh	cloud	1489	80	k3sok	1	k 3 s o k	
+BAHNAR	bdq	cloud	1489	80	h3m3l	2	h 3 m 3 l	
+CHRAU	crw	cloud	1489	80	tu7	3	t u 7	
+VIETNAMESE	vie	cloud	1489	80	maj	2	m a j	
+RUC	scb	cloud	1489	80	m3l	2	m 3 l	
+MON	mnw	cloud	1489	80	matbrai	4	m a t b r a i	
+NYAKUR	cbn	cloud	1489	80	mok	5	m o k	
+KHMER	khm	cloud	1489	80	b3bok	5	b 3 b o k	
+KUI_THAILAND	kdt	cloud	1489	80	hl3t	6	h l 3 t	
+WA	wbm	cloud	1489	80	pai7om	7	p a i 7 o m	
+DEANG	pce	cloud	1489	80	nh7$ut	8	nh7$ u t	
+KHMU	kjg	cloud	1489	80	put	8	p u t	
+KSINMUL	puo	cloud	1489	80	mok	5	m o k	
+KHASI	kha	cloud	1489	80	"ly""~oh"	9	"l y""~ o h"	
+MUNDARI	unr	cloud	1489	80	rimil	2	r i m i l	
+JEH	jeh	smoke	778	81	hnuai	1	h n u a i	
+BAHNAR	bdq	smoke	778	81	5ui	1	5 u i	
+CHRAU	crw	smoke	778	81	5u7	2	5 u 7	
+VIETNAMESE	vie	smoke	778	81	kx~oi	1	kx~ o i	
+RUC	scb	smoke	778	81	kahoy	1	k a h o y	
+MON	mnw	smoke	778	81	yak	2	y a k	
+NYAKUR	cbn	smoke	778	81	yak	2	y a k	
+KHMER	khm	smoke	778	81	ph~3sEN	3	ph~ 3 s E N	
+KUI_THAILAND	kdt	smoke	778	81	mp~i7	4	mp~ i 7	
+SEMAI	sea	smoke	778	81	Cul	5	C u l	
+WA	wbm	smoke	778	81	tau7	6	t a u 7	
+DEANG	pce	smoke	778	81	to7	6	t o 7	
+KHMU	kjg	smoke	778	81	p3t3	6	p 3 t 3	
+KSINMUL	puo	smoke	778	81	p3tow	6	p 3 t o w	
+KHASI	kha	smoke	778	81	nd~em	7	nd~ e m	
+MUNDARI	unr	smoke	778	81	sukul	8	s u k u l	
+JEH	jeh	fire	221	82	on	1	o n	
+BAHNAR	bdq	fire	221	82	u5	1	u 5	
+CHRAU	crw	fire	221	82	u5	1	u 5	
+VIETNAMESE	vie	fire	221	82	lua	2	l u a	
+RUC	scb	fire	221	82	kurh~	3	k u rh~	
+MON	mnw	fire	221	82	pamat	4	p a m a t	
+NYAKUR	cbn	fire	221	82	k3mat	4	k 3 m a t	
+KHMER	khm	fire	221	82	bh~la3N	5	bh~ l a 3 N	
+KUI_THAILAND	kdt	fire	221	82	uh	1	u h	
+SEMAI	sea	fire	221	82	os	1	o s	
+WA	wbm	fire	221	82	Nu	7	N u	
+DEANG	pce	fire	221	82	Nar	7	N a r	
+KHMU	kjg	fire	221	82	p3rl3a	2	p 3 r l 3 a	
+KSINMUL	puo	fire	221	82	h3goN	8	h 3 g o N	
+KHASI	kha	fire	221	82	diN	9	d i N	
+MUNDARI	unr	fire	221	82	seNgel	10	s e N g e l	
+JEH	jeh	ashes	646	83	luN lok	1	l u N _ l o k	
+BAHNAR	bdq	ashes	646	83	h3yok	9	h 3 y o k	
+CHRAU	crw	ashes	646	83	vuh	3	v u h	
+VIETNAMESE	vie	ashes	646	83	Co	10	C o	
+RUC	scb	ashes	646	83	t3pEh	3	t 3 p E h	
+MON	mnw	ashes	646	83	pateN	2	p a t e N	
+NYAKUR	cbn	ashes	646	83	p3ti5	2	p 3 t i 5	
+KHMER	khm	ashes	646	83	ph~Eh	3	ph~ E h	
+KUI_THAILAND	kdt	ashes	646	83	ph~a7	4	ph~ a 7	
+SEMAI	sea	ashes	646	83	gNh3l	11	g N h 3 l	
+WA	wbm	ashes	646	83	5au7	5	5 a u 7	
+DEANG	pce	ashes	646	83	"k""faN"	6	"k"" f a N"	
+KHMU	kjg	ashes	646	83	poh	3	p o h	
+KSINMUL	puo	ashes	646	83	3boh	3	3 b o h	
+KHASI	kha	ashes	646	83	dipei	3	d i p e i	
+MUNDARI	unr	ashes	646	83	toroe7	8	t o r o e 7	
+CHRAU	crw	burn	2102	84	Nit	1	N i t	
+RUC	scb	burn	2102	84	takat	3	t a k a t	
+MON	mnw	burn	2102	84	tau	4	t a u	
+NYAKUR	cbn	burn	2102	84	kh~lak	5	kh~ l a k	
+KHMER	khm	burn	2102	84	tut	2	t u t	
+KUI_THAILAND	kdt	burn	2102	84	CaN	9	C a N	
+WA	wbm	burn	2102	84	k3ik	10	k 3 i k	
+KHMU	kjg	burn	2102	84	pok	6	p o k	
+KHASI	kha	burn	2102	84	iN	7	i N	
+MUNDARI	unr	burn	2102	84	ro	8	r o	
+JEH	jeh	road (path)	667	85	traN	1	t r a N	
+BAHNAR	bdq	road (path)	667	85	troN	1	t r o N	
+CHRAU	crw	road (path)	667	85	tr~oN	1	tr~ o N	
+VIETNAMESE	vie	road (path)	667	85	duoN	1	d u o N	
+MON	mnw	road (path)	667	85	traw	2	t r a w	
+NYAKUR	cbn	road (path)	667	85	trew	2	t r e w	
+KHMER	khm	road (path)	667	85	Z3luw th~3nal	2	Z 3 l u w _ th~ 3 n a l	
+KUI_THAILAND	kdt	road (path)	667	85	k3na	4	k 3 n a	
+SEMAI	sea	road (path)	667	85	nuN	5	n u N	
+WA	wbm	road (path)	667	85	kra7	6	k r a 7	
+DEANG	pce	road (path)	667	85	ndEN	3	n d E N	
+KHMU	kjg	road (path)	667	85	Nor	6	N o r	
+KSINMUL	puo	road (path)	667	85	tum	8	t u m	
+KHASI	kha	road (path)	667	85	surok	9	s u r o k	
+MUNDARI	unr	road (path)	667	85	hora	5	h o r a	
+JEH	jeh	mountain	639	86	Nuk	1	N u k	
+BAHNAR	bdq	mountain	639	86	koN	2	k o N	
+CHRAU	crw	mountain	639	86	guN	2	g u N	
+VIETNAMESE	vie	mountain	639	86	nui	3	n u i	
+RUC	scb	mountain	639	86	C3t	4	C 3 t	
+MON	mnw	mountain	639	86	duiw	3	d u i w	
+NYAKUR	cbn	mountain	639	86	kur	10	k u r	
+KHMER	khm	mountain	639	86	bh~3nom	5	bh~ 3 n o m	
+KUI_THAILAND	kdt	mountain	639	86	bru	6	b r u	
+SEMAI	sea	mountain	639	86	lot	7	l o t	
+WA	wbm	mountain	639	86	goN	2	g o N	
+DEANG	pce	mountain	639	86	svr	8	s v r	
+KHMU	kjg	mountain	639	86	mok	11	m o k	
+KSINMUL	puo	mountain	639	86	kh~egaN	2	kh~ e g a N	
+KHASI	kha	mountain	639	86	limbah	9	l i m b a h	
+MUNDARI	unr	mountain	639	86	buru	6	b u r u	
+JEH	jeh	red	156	87	dum	1	d u m	
+BAHNAR	bdq	red	156	87	bre	1	b r e	
+CHRAU	crw	red	156	87	prho	3	p r h o	
+VIETNAMESE	vie	red	156	87	do	4	d o	
+RUC	scb	red	156	87	to	4	t o	
+MON	mnw	red	156	87	bkat	5	b k a t	
+NYAKUR	cbn	red	156	87	ph~3l35	6	ph~ 3 l 3 5	
+KHMER	khm	red	156	87	kr3ham	7	k r 3 h a m	
+KUI_THAILAND	kdt	red	156	87	ksaw	8	k s a w	
+SEMAI	sea	red	156	87	rNa5	9	r N a 5	
+WA	wbm	red	156	87	rauh	10	r a u h	
+DEANG	pce	red	156	87	r3N	6	r 3 N	
+KHMU	kjg	red	156	87	yim	11	y i m	
+KSINMUL	puo	red	156	87	k37et	12	k 3 7 e t	
+KHASI	kha	red	156	87	saw	8	s a w	
+MUNDARI	unr	red	156	87	ara7	13	a r a 7	
+JEH	jeh	green	1425	88	drih	1	d r i h	
+BAHNAR	bdq	green	1425	88	Z3k	2	Z 3 k	
+MON	mnw	green	1425	88	saNeak	2	s a N e a k	
+NYAKUR	cbn	green	1425	88	l3Cok	3	l 3 C o k	
+KHMER	khm	green	1425	88	paytaN	4	p a y t a N	
+WA	wbm	green	1425	88	klai	5	k l a i	
+DEANG	pce	green	1425	88	5iar	6	5 i a r	
+KHMU	kjg	green	1425	88	C3Nar	6	C 3 N a r	
+KSINMUL	puo	green	1425	88	le	5	l e	
+MUNDARI	unr	green	1425	88	gaded	8	g a d e d	
+JEH	jeh	yellow	1424	89	driN	1	d r i N	
+BAHNAR	bdq	yellow	1424	89	dreN	1	d r e N	
+CHRAU	crw	yellow	1424	89	ramut	2	r a m u t	
+VIETNAMESE	vie	yellow	1424	89	vaN	8	v a N	
+RUC	scb	yellow	1424	89	vaN	8	v a N	
+MON	mnw	yellow	1424	89	damit	2	d a m i t	
+NYAKUR	cbn	yellow	1424	89	p3Cu5	3	p 3 C u 5	
+KHMER	khm	yellow	1424	89	l3N	9	l 3 N	
+SEMAI	sea	yellow	1424	89	ph~ok	4	ph~ o k	
+WA	wbm	yellow	1424	89	lh~3N	9	lh~ 3 N	
+DEANG	pce	yellow	1424	89	t3N	5	t 3 N	
+KHMU	kjg	yellow	1424	89	si l3N	9	s i _ l 3 N	
+KSINMUL	puo	yellow	1424	89	l3N	9	l 3 N	
+KHASI	kha	yellow	1424	89	stem	6	s t e m	
+MUNDARI	unr	yellow	1424	89	sa saN	7	s a _ s a N	
+JEH	jeh	white	1335	90	t3bok	1	t 3 b o k	
+BAHNAR	bdq	white	1335	90	kok	9	k o k	
+CHRAU	crw	white	1335	90	vo7	1	v o 7	also: kanaN
+VIETNAMESE	vie	white	1335	90	CaN	2	C a N	
+RUC	scb	white	1335	90	t3kal	3	t 3 k a l	
+MON	mnw	white	1335	90	bu	10	b u	
+NYAKUR	cbn	white	1335	90	Ch~uN	4	Ch~ u N	
+KHMER	khm	white	1335	90	so	5	s o	
+KUI_THAILAND	kdt	white	1335	90	bua7	1	b u a 7	
+SEMAI	sea	white	1335	90	by~Ek	6	by~ E k	
+WA	wbm	white	1335	90	paiN	11	p a i N	
+DEANG	pce	white	1335	90	blo7	6	b l o 7	
+KHMU	kjg	white	1335	90	klok	6	k l o k	
+KSINMUL	puo	white	1335	90	lu3k	6	l u 3 k	
+KHASI	kha	white	1335	90	lih	7	l i h	
+JEH	jeh	black	163	91	5uN	1	5 u N	
+BAHNAR	bdq	black	163	91	gam	2	g a m	
+CHRAU	crw	black	163	91	ju7	3	j u 7	also: sindoC
+VIETNAMESE	vie	black	163	91	den	4	d e n	
+RUC	scb	black	163	91	tEntEn	4	t E n t E n	
+MON	mnw	black	163	91	l3mCok	5	l 3 m C o k	
+NYAKUR	cbn	black	163	91	ph~li3t	6	ph~ l i 3 t	
+KHMER	khm	black	163	91	kh~3maw	7	kh~ 3 m a w	
+KUI_THAILAND	kdt	black	163	91	tw~E5	8	tw~ E 5	
+SEMAI	sea	black	163	91	bl7$ak	9	bl7$ a k	
+WA	wbm	black	163	91	luN	10	l u N	
+DEANG	pce	black	163	91	vaN	8	v a N	
+KHMU	kjg	black	163	91	h3aN	1	h 3 a N	
+KSINMUL	puo	black	163	91	oC	9	o C	
+KHASI	kha	black	163	91	ioN	10	i o N	
+MUNDARI	unr	black	163	91	hend~e	11	h e nd~ e	
+JEH	jeh	night	1233	92	maN	1	m a N	
+BAHNAR	bdq	night	1233	92	maN	1	m a N	
+CHRAU	crw	night	1233	92	maN	1	m a N	also: naN
+VIETNAMESE	vie	night	1233	92	dem	2	d e m	
+MON	mnw	night	1233	92	btam	2	b t a m	
+NYAKUR	cbn	night	1233	92	p3tam	2	p 3 t a m	
+KHMER	khm	night	1233	92	yop	4	y o p	
+KUI_THAILAND	kdt	night	1233	92	kh~riau	5	kh~ r i a u	
+SEMAI	sea	night	1233	92	t3pm~	2	t 3 pm~	
+WA	wbm	night	1233	92	pomsom	6	p o m s o m	
+DEANG	pce	night	1233	92	s3m	7	s 3 m	
+KHMU	kjg	night	1233	92	p3s3am	6	p 3 s 3 a m	
+KSINMUL	puo	night	1233	92	p3t	8	p 3 t	
+KHASI	kha	night	1233	92	miet	8	m i e t	
+VIETNAMESE	vie	warm	1232	93	noN	1	n o N	
+RUC	scb	warm	1232	93	t3l	2	t 3 l	
+MON	mnw	warm	1232	93	guim	3	g u i m	
+NYAKUR	cbn	warm	1232	93	r37u5	4	r 3 7 u 5	
+KHMER	khm	warm	1232	93	k3daw	5	k 3 d a w	
+DEANG	pce	warm	1232	93	un	6	u n	
+KHMU	kjg	warm	1232	93	N3k3m	3	N 3 k 3 m	
+KSINMUL	puo	warm	1232	93	g3m	3	g 3 m	
+MUNDARI	unr	warm	1232	93	lolo	7	l o l o	
+JEH	jeh	cold	1287	94	r3teh	1	r 3 t e h	
+BAHNAR	bdq	cold	1287	94	t3Niet	2	t 3 N i e t	
+CHRAU	crw	cold	1287	94	takat	3	t a k a t	
+RUC	scb	cold	1287	94	lubat	4	l u b a t	
+MON	mnw	cold	1287	94	goak	5	g o a k	
+NYAKUR	cbn	cold	1287	94	t3kat	3	t 3 k a t	
+KHMER	khm	cold	1287	94	tr~3Zak	6	tr~ 3 Z a k	
+KUI_THAILAND	kdt	cold	1287	94	CNEt	2	C N E t	
+SEMAI	sea	cold	1287	94	sNEC	2	s N E C	
+WA	wbm	cold	1287	94	kuat	3	k u a t	
+DEANG	pce	cold	1287	94	kat	3	k a t	
+KHMU	kjg	cold	1287	94	Nar	7	N a r	
+KSINMUL	puo	cold	1287	94	kh~reat	3	kh~ r e a t	
+KHASI	kha	cold	1287	94	khr$eat	8	khr$ e a t	
+MUNDARI	unr	cold	1287	94	tutukan	9	t u t u k a n	
+JEH	jeh	full	1429	95	biN	1	b i N	
+BAHNAR	bdq	full	1429	95	be4	1	b e 4	
+CHRAU	crw	full	1429	95	ve5	1	v e 5	
+VIETNAMESE	vie	full	1429	95	day	2	d a y	
+RUC	scb	full	1429	95	blam	3	b l a m	
+MON	mnw	full	1429	95	peN	1	p e N	
+NYAKUR	cbn	full	1429	95	pi4	1	p i 4	
+KHMER	khm	full	1429	95	b3n	1	b 3 n	
+SEMAI	sea	full	1429	95	t3bek	1	t 3 b e k	
+WA	wbm	full	1429	95	nauk	5	n a u k	
+DEANG	pce	full	1429	95	no7	5	n o 7	
+KHMU	kjg	full	1429	95	kin	6	k i n	
+KSINMUL	puo	full	1429	95	ki5	6	k i 5	
+KHASI	kha	full	1429	95	dap	7	d a p	
+JEH	jeh	new	1231	96	nao	1	n a o	
+BAHNAR	bdq	new	1231	96	hlE	2	h l E	
+CHRAU	crw	new	1231	96	me	3	m e	
+VIETNAMESE	vie	new	1231	96	moi	3	m o i	
+RUC	scb	new	1231	96	b3y	4	b 3 y	
+MON	mnw	new	1231	96	tami	3	t a m i	
+NYAKUR	cbn	new	1231	96	t3mi7	3	t 3 m i 7	
+KHMER	khm	new	1231	96	th~mi	3	th~ m i	
+KUI_THAILAND	kdt	new	1231	96	tmai	3	t m a i	
+SEMAI	sea	new	1231	96	pay	4	p a y	
+WA	wbm	new	1231	96	kh~rau7	5	kh~ r a u 7	
+DEANG	pce	new	1231	96	kmai	3	k m a i	
+KHMU	kjg	new	1231	96	h3nme	3	h 3 n m e	
+KSINMUL	puo	new	1231	96	h3me	3	h 3 m e	
+KHASI	kha	new	1231	96	th~immai	3	th~ i mm a i	
+JEH	jeh	good	1035	97	liam	1	l i a m	
+BAHNAR	bdq	good	1035	97	liEm	1	l i E m	
+CHRAU	crw	good	1035	97	yah	2	y a h	
+VIETNAMESE	vie	good	1035	97	tot	3	t o t	
+RUC	scb	good	1035	97	yah	14	y a h	
+MON	mnw	good	1035	97	kh~uih	4	kh~ u i h	
+NYAKUR	cbn	good	1035	97	hnap	5	h n a p	
+KHMER	khm	good	1035	97	l37o	6	l 3 7 o	
+SEMAI	sea	good	1035	97	bor	7	b o r	
+WA	wbm	good	1035	97	mh~3m	8	mh~ 3 m	
+DEANG	pce	good	1035	97	mh~3m	9	mh~ 3 m	
+KHMU	kjg	good	1035	97	l3	10	l 3	
+KSINMUL	puo	good	1035	97	tuh	11	t u h	
+KHASI	kha	good	1035	97	babha	12	b a b h a	
+MUNDARI	unr	good	1035	97	bugi	13	b u g i	
+BAHNAR	bdq	round	1395	98	h3pom	1	h 3 p o m	
+RUC	scb	round	1395	98	klon	2	k l o n	
+MON	mnw	round	1395	98	kh~dom	1	kh~ d o m	
+NYAKUR	cbn	round	1395	98	k3lpum	1	k 3 l p u m	
+KHMER	khm	round	1395	98	mul	3	m u l	
+KUI_THAILAND	kdt	round	1395	98	dul	4	d u l	
+WA	wbm	round	1395	98	lomle	5	l o m l e	
+KHMU	kjg	round	1395	98	mon	3	m o n	
+KSINMUL	puo	round	1395	98	mon	3	m o n	
+KHASI	kha	round	1395	98	pillun	2	p i ll u n	
+JEH	jeh	dry	1398	99	raN	1	r a N	
+BAHNAR	bdq	dry	1398	99	hreN	1	h r e N	
+CHRAU	crw	dry	1398	99	sah	1	s a h	also: ra5
+MON	mnw	dry	1398	99	s3mkah	4	s 3 m k a h	
+NYAKUR	cbn	dry	1398	99	C3kas	4	C 3 k a s	
+KHMER	khm	dry	1398	99	sNu3t	5	s N u 3 t	
+KUI_THAILAND	kdt	dry	1398	99	s7at	6	s 7 a t	
+SEMAI	sea	dry	1398	99	hoC	7	h o C	
+WA	wbm	dry	1398	99	kroh	2	k r o h	
+KHMU	kjg	dry	1398	99	ras	2	r a s	
+KHASI	kha	dry	1398	99	rikh~iaN	8	r i kh~ i a N	
+MUNDARI	unr	dry	1398	99	roro	2	r o r o	
+JEH	jeh	name	1405	100	t3li7	1	t 3 l i 7	
+CHRAU	crw	name	1405	100	sa7	2	s a 7	
+VIETNAMESE	vie	name	1405	100	ten	3	t e n	
+KHMER	khm	name	1405	100	Zh~3maoh	4	Zh~ 3 m a o h	
+KUI_THAILAND	kdt	name	1405	100	m3h	4	m 3 h	
+SEMAI	sea	name	1405	100	muh	4	m u h	
+WA	wbm	name	1405	100	ka37	5	k a 3 7	
+KHASI	kha	name	1405	100	kirteN	3	k i r t e N	
+MUNDARI	unr	name	1405	100	nutum	7	n u t u m	also: num

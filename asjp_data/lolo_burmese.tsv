@@ -1,0 +1,571 @@
+language	iso_code	concept	global_id	local_id	asjp	cogid	tokens	notes
+BURMESE	mya	I	1209	1	kyw$antau	1	kyw$ a n t a u	
+ZAIWA	atb	I	1209	1	No	2	N o	
+AKHA	ahk	I	1209	1	Na	2	N a	
+BIYUE	byo	I	1209	1	Na	2	N a	
+MPI	mpz	I	1209	1	No	2	N o	
+BISU	bzi	I	1209	1	ga	2	g a	
+JINO	jiu	I	1209	1	No	2	N o	
+LAHU	lhu	I	1209	1	Na	2	N a	
+XIDE	iii	I	1209	1	Na	2	N a	
+DAFANG	yig	I	1209	1	No	2	N o	
+NANJIANG	ywt	I	1209	1	No	2	N o	
+LISU	lis	I	1209	1	Nua	2	N u a	
+NUSU	nuf	I	1209	1	Na	2	N a	
+ACHANG	acn	I	1209	1	No	2	N o	
+NAXI	nbf	I	1209	1	N3	2	N 3	
+BURMESE	mya	come	1446	66	la	1	l a	
+ZAIWA	atb	come	1446	66	le	1	l e	
+AKHA	ahk	come	1446	66	la7	1	l a 7	
+BIYUE	byo	come	1446	66	la	1	l a	also: l3
+MPI	mpz	come	1446	66	lo	1	l o	also: l3
+BISU	bzi	come	1446	66	la	1	l a	also: l3
+JINO	jiu	come	1446	66	lo	1	l o	
+LAHU	lhu	come	1446	66	la	1	l a	
+XIDE	iii	come	1446	66	la	1	l a	
+DAFANG	yig	come	1446	66	lo	1	l o	also: li
+NANJIANG	ywt	come	1446	66	la	1	l a	
+LISU	lis	come	1446	66	la	1	l a	
+NUSU	nuf	come	1446	66	la	1	l a	
+ACHANG	acn	come	1446	66	Z3	2	Z 3	
+NAXI	nbf	come	1446	66	l3	2	l 3	also: ch~3
+BURMESE	mya	water	948	75	riy	1	r i y	
+ZAIWA	atb	water	948	75	iCh~o	1	i Ch~ o	
+AKHA	ahk	water	948	75	ity~u	1	i ty~ u	
+BIYUE	byo	water	948	75	vch~v7	1	v ch~ v 7	
+MPI	mpz	water	948	75	ch~o7	3	ch~ o 7	
+BISU	bzi	water	948	75	laN	4	l a N	
+JINO	jiu	water	948	75	e Ch~o	1	e _ Ch~ o	
+LAHU	lhu	water	948	75	ika7	1	i k a 7	
+XIDE	iii	water	948	75	y3	1	y 3	
+DAFANG	yig	water	948	75	yi	1	y i	
+NANJIANG	ywt	water	948	75	x3	1	x 3	
+LISU	lis	water	948	75	ejE	1	e j E	
+NUSU	nuf	water	948	75	rigra	1	r i g r a	
+ACHANG	acn	water	948	75	ti	4	t i	
+NAXI	nbf	water	948	75	dy~i	1	dy~ i	
+BURMESE	mya	mountain	639	86	tauN	1	t a u N	
+ZAIWA	atb	mountain	639	86	pum	2	p u m	
+AKHA	ahk	mountain	639	86	gody~o	3	g o dy~ o	
+BIYUE	byo	mountain	639	86	yumo	4	y u m o	
+MPI	mpz	mountain	639	86	opy~o	2	o py~ o	
+BISU	bzi	mountain	639	86	tasE	5	t a s E	
+JINO	jiu	mountain	639	86	x3 th~a	5	x 3 _ th~ a	
+LAHU	lhu	mountain	639	86	qh~o	3	qh~ o	
+XIDE	iii	mountain	639	86	bo	2	b o	
+DAFANG	yig	mountain	639	86	b3	2	b 3	
+NANJIANG	ywt	mountain	639	86	kh~uj3	3	kh~ u j 3	
+LISU	lis	mountain	639	86	ko	3	k o	
+NUSU	nuf	mountain	639	86	5ua	7	5 u a	also: la*
+ACHANG	acn	mountain	639	86	pum	2	p u m	
+NAXI	nbf	mountain	639	86	ko	3	k o	also: nd~y
+BURMESE	mya	sun	1343	72	niy	1	n i y	
+ZAIWA	atb	sun	1343	72	pui	2	p u i	
+AKHA	ahk	sun	1343	72	naNma	1	n a N m a	
+BIYUE	byo	sun	1343	72	5imo	1	5 i m o	
+MPI	mpz	sun	1343	72	5iwo	1	5 i w o	
+BISU	bzi	sun	1343	72	muNhn3N	1	m u N h n 3 N	
+JINO	jiu	sun	1343	72	53 o	1	5 3 _ o	
+LAHU	lhu	sun	1343	72	mini	1	m i n i	
+XIDE	iii	sun	1343	72	hobu	3	h o b u	
+DAFANG	yig	sun	1343	72	ndy$y	1	ndy$ y	
+NANJIANG	ywt	sun	1343	72	amux3	4	a m u x 3	
+LISU	lis	sun	1343	72	m3mi	1	m 3 m i	
+NUSU	nuf	sun	1343	72	5ia	1	5 i a	
+ACHANG	acn	sun	1343	72	nimo	1	n i m o	also: pui
+NAXI	nbf	sun	1343	72	5ime	1	5 i m e	
+BURMESE	mya	star	1430	74	kray	1	k r a y	
+ZAIWA	atb	star	1430	74	ky~i	1	ky~ i	
+AKHA	ahk	star	1430	74	agy~	1	a gy~	
+BIYUE	byo	star	1430	74	mici	1	m i c i	
+MPI	mpz	star	1430	74	piki	1	p i k i	
+BISU	bzi	star	1430	74	3k3	1	3 k 3	
+JINO	jiu	star	1430	74	pu ki	1	p u _ k i	
+LAHU	lhu	star	1430	74	m37k3	1	m 3 7 k 3	
+XIDE	iii	star	1430	74	mc3	1	m c 3	
+DAFANG	yig	star	1430	74	camo	1	c a m o	
+NANJIANG	ywt	star	1430	74	ce	1	c e	
+LISU	lis	star	1430	74	komaze	1	k o m a z e	
+NUSU	nuf	star	1430	74	krelo	1	k r e l o	
+ACHANG	acn	star	1430	74	kh~Ze	1	kh~ Z e	
+NAXI	nbf	star	1430	74	k3	1	k 3	
+BURMESE	mya	one	1493	11	taT	1	t a T	
+ZAIWA	atb	one	1493	11	Za	1	Z a	
+AKHA	ahk	one	1493	11	tith~i	1	t i th~ i	
+BIYUE	byo	one	1493	11	th~3	1	th~ 3	
+MPI	mpz	one	1493	11	th~37	3	th~ 3 7	
+BISU	bzi	one	1493	11	t3	1	t 3	
+JINO	jiu	one	1493	11	th~i	1	th~ i	
+LAHU	lhu	one	1493	11	te	1	t e	
+XIDE	iii	one	1493	11	ch~3	1	ch~ 3	
+DAFANG	yig	one	1493	11	th~a	1	th~ a	
+NANJIANG	ywt	one	1493	11	Ch~3	1	Ch~ 3	
+LISU	lis	one	1493	11	th~i	1	th~ i	
+NUSU	nuf	one	1493	11	th~i	1	th~ i	
+ACHANG	acn	one	1493	11	ta	1	t a	
+NAXI	nbf	one	1493	11	d3	1	d 3	
+BURMESE	mya	two	1498	12	hnaT	1	h n a T	
+AKHA	ahk	two	1498	12	ny~i	1	ny~ i	
+BIYUE	byo	two	1498	12	ne7	1	n e 7	
+MPI	mpz	two	1498	12	5i	1	5 i	
+BISU	bzi	two	1498	12	ni	1	n i	
+JINO	jiu	two	1498	12	ni	1	n i	
+LAHU	lhu	two	1498	12	ni	1	n i	
+XIDE	iii	two	1498	12	5i	1	5 i	
+DAFANG	yig	two	1498	12	5i	1	5 i	
+LISU	lis	two	1498	12	5i	1	5 i	
+ACHANG	acn	two	1498	12	s3k	3	s 3 k	
+NAXI	nbf	two	1498	12	5i	1	5 i	
+BURMESE	mya	stone	857	77	ky~auk	1	ky~ a u k	
+ZAIWA	atb	stone	857	77	luko7	1	l u k o 7	
+AKHA	ahk	stone	857	77	xh~alo	1	xh~ a l o	
+BIYUE	byo	stone	857	77	lv7mo	1	l v 7 m o	
+MPI	mpz	stone	857	77	solo7	1	s o l o 7	
+BISU	bzi	stone	857	77	loba	1	l o b a	
+JINO	jiu	stone	857	77	lo mo	1	l o _ m o	
+LAHU	lhu	stone	857	77	xap3	1	x a p 3	
+XIDE	iii	stone	857	77	luma	1	l u m a	
+DAFANG	yig	stone	857	77	lomo	1	l o m o	
+NANJIANG	ywt	stone	857	77	kalo	1	k a l o	
+LISU	lis	stone	857	77	loch~3	1	l o ch~ 3	
+NUSU	nuf	stone	857	77	lu7	1	l u 7	
+ACHANG	acn	stone	857	77	liNko7	1	l i N k o 7	
+NAXI	nbf	stone	857	77	lvpa	1	l v p a	
+BURMESE	mya	skin	763	28	are	1	a r e	
+ZAIWA	atb	skin	763	28	Soku7	2	S o k u 7	
+AKHA	ahk	skin	763	28	baxo7	2	b a x o 7	
+BIYUE	byo	skin	763	28	oci	3	o c i	
+MPI	mpz	skin	763	28	okh~o	2	o kh~ o	
+BISU	bzi	skin	763	28	aNkho	2	a N k h o	
+JINO	jiu	skin	763	28	a kh~o	2	a _ kh~ o	
+LAHU	lhu	skin	763	28	og3	3	o g 3	
+XIDE	iii	skin	763	28	ndy$iS3	3	ndy$ i S 3	
+DAFANG	yig	skin	763	28	ndy~i	3	n dy~ i	
+NANJIANG	ywt	skin	763	28	d3Cu	3	d 3 C u	
+LISU	lis	skin	763	28	koji	3	k o j i	
+NUSU	nuf	skin	763	28	kh~uri	1	kh~ u r i	
+ACHANG	acn	skin	763	28	aZ3	1	a Z 3	
+NAXI	nbf	skin	763	28	x3	1	x 3	
+BURMESE	mya	fire	221	82	mi	1	m i	
+ZAIWA	atb	fire	221	82	my~3	1	my~ 3	
+AKHA	ahk	fire	221	82	mica	1	m i c a	
+BIYUE	byo	fire	221	82	mico	1	m i c o	
+MPI	mpz	fire	221	82	mi	1	m i	
+BISU	bzi	fire	221	82	bith~o	1	b i th~ o	
+JINO	jiu	fire	221	82	mi	1	m i	
+LAHU	lhu	fire	221	82	ami	1	a m i	
+XIDE	iii	fire	221	82	mtu	1	m t u	
+DAFANG	yig	fire	221	82	mto	1	m t o	
+NANJIANG	ywt	fire	221	82	ato	3	a t o	
+LISU	lis	fire	221	82	ato	3	a t o	
+NUSU	nuf	fire	221	82	mi	1	m i	
+NAXI	nbf	fire	221	82	mi	1	m i	
+BURMESE	mya	fish	227	19	Na	1	N a	
+ZAIWA	atb	fish	227	19	Noco	1	N o c o	
+AKHA	ahk	fish	227	19	Nasyh$a	1	N a syh$ a	
+BIYUE	byo	fish	227	19	Noso	1	N o s o	
+MPI	mpz	fish	227	19	No	1	N o	
+BISU	bzi	fish	227	19	loNtE	2	l o N t E	
+JINO	jiu	fish	227	19	Nh~o So	1	Nh~ o _ S o	
+LAHU	lhu	fish	227	19	Na	1	N a	
+XIDE	iii	fish	227	19	h3	1	h 3	
+DAFANG	yig	fish	227	19	No	1	N o	
+LISU	lis	fish	227	19	Nua	1	N u a	
+NUSU	nuf	fish	227	19	Na	1	N a	
+ACHANG	acn	fish	227	19	NaSua	1	N a S u a	
+BURMESE	mya	dog	2009	21	khw$e	1	khw$ e	
+ZAIWA	atb	dog	2009	21	kh~ui	1	kh~ u i	
+AKHA	ahk	dog	2009	21	a7khy$	1	a 7 khy$	
+BIYUE	byo	dog	2009	21	kh~3	1	kh~ 3	
+MPI	mpz	dog	2009	21	kh~3	1	kh~ 3	
+BISU	bzi	dog	2009	21	kh~3	1	kh~ 3	
+JINO	jiu	dog	2009	21	kh~3 yo	1	kh~ 3 _ y o	
+LAHU	lhu	dog	2009	21	ph~3	1	ph~ 3	
+XIDE	iii	dog	2009	21	kh~3	1	kh~ 3	
+DAFANG	yig	dog	2009	21	ch~y	1	ch~ y	
+NANJIANG	ywt	dog	2009	21	akh~3	1	a kh~ 3	
+LISU	lis	dog	2009	21	ana	2	a n a	
+NUSU	nuf	dog	2009	21	kh~ui	1	kh~ u i	
+ACHANG	acn	dog	2009	21	xui	1	x u i	
+NAXI	nbf	dog	2009	21	kh~3	1	kh~ 3	
+BURMESE	mya	louse	1392	22	san	1	s a n	
+ZAIWA	atb	louse	1392	22	Sin	1	S i n	
+AKHA	ahk	louse	1392	22	sh~Emo	1	sh~ E m o	
+BIYUE	byo	louse	1392	22	seph~v	1	s e ph~ v	
+MPI	mpz	louse	1392	22	se	1	s e	
+BISU	bzi	louse	1392	22	hmoN	1	h m o N	
+JINO	jiu	louse	1392	22	Si ph~ru	1	S i _ ph~ r u	
+LAHU	lhu	louse	1392	22	se	1	s e	
+XIDE	iii	louse	1392	22	ch~oS3	1	ch~ o S 3	
+DAFANG	yig	louse	1392	22	simo	1	s i m o	
+NANJIANG	ywt	louse	1392	22	si	1	s i	
+LISU	lis	louse	1392	22	x3	1	x 3	
+NUSU	nuf	louse	1392	22	Sa	1	S a	
+ACHANG	acn	louse	1392	22	San	1	S a n	
+NAXI	nbf	louse	1392	22	Su	1	S u	
+BURMESE	mya	tree	906	23	satpaN	1	s a t p a N	
+ZAIWA	atb	tree	906	23	sik	1	s i k	
+AKHA	ahk	tree	906	23	abo	3	a b o	
+BIYUE	byo	tree	906	23	s3c3	1	s 3 c 3	
+MPI	mpz	tree	906	23	sot3	1	s o t 3	
+BISU	bzi	tree	906	23	c3Nc3N	2	c 3 N c 3 N	
+JINO	jiu	tree	906	23	a c3	2	a _ c 3	
+LAHU	lhu	tree	906	23	s37	1	s 3 7	
+XIDE	iii	tree	906	23	s3bo	1	s 3 b o	
+DAFANG	yig	tree	906	23	se	1	s e	
+NANJIANG	ywt	tree	906	23	s3c37	1	s 3 c 3 7	
+LISU	lis	tree	906	23	s3c3	1	s 3 c 3	
+NUSU	nuf	tree	906	23	sic3*	1	s i c 3*	
+ACHANG	acn	tree	906	23	saNceN	1	s a N c e N	
+NAXI	nbf	tree	906	23	nc~3r	1	nc~ 3 r	
+BURMESE	mya	leaf	628	25	saTrw~ak	1	s a T rw~ a k	
+ZAIWA	atb	leaf	628	25	axa7	1	a x a 7	
+AKHA	ahk	leaf	628	25	apa	2	a p a	
+BIYUE	byo	leaf	628	25	aph~a7	2	a ph~ a 7	
+MPI	mpz	leaf	628	25	oph~a7	2	o ph~ a 7	
+BISU	bzi	leaf	628	25	aNph~a	2	a N ph~ a	
+JINO	jiu	leaf	628	25	a ph~a	2	a _ ph~ a	
+LAHU	lhu	leaf	628	25	oph~a7	2	o ph~ a 7	
+XIDE	iii	leaf	628	25	ch~ich~i	3	ch~ i ch~ i	
+DAFANG	yig	leaf	628	25	seth~u	4	s e th~ u	
+NANJIANG	ywt	leaf	628	25	s3ph~i7	2	s 3 ph~ i 7	
+LISU	lis	leaf	628	25	eph~ia	2	e ph~ i a	
+NUSU	nuf	leaf	628	25	ph~aLa	2	ph~ a L a	
+ACHANG	acn	leaf	628	25	axro7	1	a x r o 7	
+NAXI	nbf	leaf	628	25	ph~i3	2	ph~ i 3	
+BURMESE	mya	night	1233	92	5a	1	5 a	
+ZAIWA	atb	night	1233	92	my~inle	1	my~ i n l e	
+AKHA	ahk	night	1233	92	u7ty~i7	1	u 7 ty~ i 7	
+BIYUE	byo	night	1233	92	mekh~e7	1	m e kh~ e 7	
+MPI	mpz	night	1233	92	uNkhw$i7	1	u N khw$ i 7	
+BISU	bzi	night	1233	92	muNkh~i	1	m u N kh~ i	
+JINO	jiu	night	1233	92	mh~e kh~a	1	mh~ e _ kh~ a	
+LAHU	lhu	night	1233	92	takh~3	1	t a kh~ 3	
+XIDE	iii	night	1233	92	kh~3th~3mo	1	kh~ 3 th~ 3 m o	
+DAFANG	yig	night	1233	92	s3piha	1	s 3 p i h a	
+NANJIANG	ywt	night	1233	92	mikh~3si	1	m i kh~ 3 s i	
+LISU	lis	night	1233	92	sakh~ua	1	s a kh~ u a	
+NUSU	nuf	night	1233	92	suana	1	s u a n a	
+ACHANG	acn	night	1233	92	nich~ot	1	n i ch~ o t	
+NAXI	nbf	night	1233	92	mvkh~v	1	m v kh~ v	
+BURMESE	mya	blood	946	30	sw~e	1	sw~ e	
+ZAIWA	atb	blood	946	30	sui	1	s u i	
+AKHA	ahk	blood	946	30	sy~hi	1	sy~ h i	
+BIYUE	byo	blood	946	30	osi	1	o s i	
+MPI	mpz	blood	946	30	si	1	s i	
+BISU	bzi	blood	946	30	Si	1	S i	
+JINO	jiu	blood	946	30	Si	1	S i	
+LAHU	lhu	blood	946	30	os3	1	o s 3	
+XIDE	iii	blood	946	30	s3	1	s 3	
+DAFANG	yig	blood	946	30	si	1	s i	
+NANJIANG	ywt	blood	946	30	s3	1	s 3	
+LISU	lis	blood	946	30	s3	1	s 3	
+NUSU	nuf	blood	946	30	sui	1	s u i	
+ACHANG	acn	blood	946	30	sui	1	s u i	
+NAXI	nbf	blood	946	30	sa	1	s a	
+BURMESE	mya	full	1429	95	pra5	1	p r a 5	
+ZAIWA	atb	full	1429	95	py~iN	1	py~ i N	
+BIYUE	byo	full	1429	95	p3	1	p 3	
+MPI	mpz	full	1429	95	py~3	1	py~ 3	
+BISU	bzi	full	1429	95	aNpl3N	1	a N p l 3 N	
+JINO	jiu	full	1429	95	pr3	1	p r 3	
+LAHU	lhu	full	1429	95	b3	1	b 3	
+XIDE	iii	full	1429	95	dy~i	1	dy~ i	
+DAFANG	yig	full	1429	95	die	1	d i e	
+NANJIANG	ywt	full	1429	95	c3	2	c 3	
+LISU	lis	full	1429	95	bile	1	b i l e	
+NUSU	nuf	full	1429	95	b3*	1	b 3*	
+ACHANG	acn	full	1429	95	pZ3N	1	p Z 3 N	
+NAXI	nbf	full	1429	95	S3r	3	S 3 r	
+BURMESE	mya	new	1231	96	sat	1	s a t	
+ZAIWA	atb	new	1231	96	asik	1	a s i k	
+AKHA	ahk	new	1231	96	sjy7	1	s j y 7	
+BIYUE	byo	new	1231	96	as3	1	a s 3	
+MPI	mpz	new	1231	96	s37	1	s 3 7	
+BISU	bzi	new	1231	96	aNS3	2	a N S 3	
+JINO	jiu	new	1231	96	Si	1	S i	
+LAHU	lhu	new	1231	96	os3	3	o s 3	
+XIDE	iii	new	1231	96	aS37	1	a S 3 7	
+DAFANG	yig	new	1231	96	xe	1	x e	
+NANJIANG	ywt	new	1231	96	x37	1	x 3 7	
+LISU	lis	new	1231	96	eS3	1	e S 3	
+NUSU	nuf	new	1231	96	dy~o	1	dy~ o	
+ACHANG	acn	new	1231	96	S3k	1	S 3 k	
+NAXI	nbf	new	1231	96	S3	3	S 3	
+BURMESE	mya	we	1212	3	kyw$antautui	1	kyw$ a n t a u t u i	
+ZAIWA	atb	we	1212	3	Namo	2	N a m o	
+BIYUE	byo	we	1212	3	Nov	3	N o v	
+BISU	bzi	we	1212	3	gu	3	g u	
+JINO	jiu	we	1212	3	Na vu	3	N a _ v u	
+LAHU	lhu	we	1212	3	Nax3	3	N a x 3	
+XIDE	iii	we	1212	3	Noxo	3	N o x o	
+DAFANG	yig	we	1212	3	Nox3	3	N o x 3	
+LISU	lis	we	1212	3	Nuanu	5	N u a n u	
+NUSU	nuf	we	1212	3	Nad3	1	N a d 3	
+ACHANG	acn	we	1212	3	Notu7	1	N o t u 7	
+NAXI	nbf	we	1212	3	N3Ng3	6	N 3 N g 3	
+BURMESE	mya	horn	1393	34	khy$ui	1	khy$ u i	
+ZAIWA	atb	horn	1393	34	khy$ui	1	khy$ u i	
+AKHA	ahk	horn	1393	34	u7ty~e	1	u 7 ty~ e	
+BIYUE	byo	horn	1393	34	vch~i	1	v ch~ i	
+MPI	mpz	horn	1393	34	Nkh~ui	1	N kh~ u i	
+BISU	bzi	horn	1393	34	aNkhy$aw	1	a N khy$ a w	
+JINO	jiu	horn	1393	34	vu kh~i	1	v u _ kh~ i	
+LAHU	lhu	horn	1393	34	kh~o	1	kh~ o	
+XIDE	iii	horn	1393	34	ofu	2	o f u	
+DAFANG	yig	horn	1393	34	och~i	1	o ch~ i	
+NANJIANG	ywt	horn	1393	34	kh~u	1	kh~ u	
+LISU	lis	horn	1393	34	oCh~3	1	o Ch~ 3	
+NUSU	nuf	horn	1393	34	kh~r3a	1	kh~ r 3 a	
+ACHANG	acn	horn	1393	34	kh~Zau	1	kh~ Z a u	
+NAXI	nbf	horn	1393	34	kh~o	1	kh~ o	
+BURMESE	mya	name	1405	100	ama5	1	a m a 5	
+ZAIWA	atb	name	1405	100	ny~iN	1	ny~ i N	
+AKHA	ahk	name	1405	100	tyh$Emy~aN	1	tyh$ E my~ a N	
+BIYUE	byo	name	1405	100	omi	1	o m i	
+MPI	mpz	name	1405	100	mmi	1	mm i	
+BISU	bzi	name	1405	100	aNhmEN	1	a N h m E N	
+JINO	jiu	name	1405	100	a mh~e	1	a _ mh~ e	
+LAHU	lhu	name	1405	100	omE	1	o m E	
+XIDE	iii	name	1405	100	hmi	1	h m i	
+DAFANG	yig	name	1405	100	mie	1	m i e	
+NANJIANG	ywt	name	1405	100	mi*c3	1	m i* c 3	
+LISU	lis	name	1405	100	emi	1	e m i	
+NUSU	nuf	name	1405	100	hme*	1	h m e*	
+ACHANG	acn	name	1405	100	a5iN	1	a 5 i N	
+NAXI	nbf	name	1405	100	mi	1	m i	
+BURMESE	mya	ear	1247	39	na	1	n a	
+ZAIWA	atb	ear	1247	39	nophy$o	1	n o phy$ o	
+AKHA	ahk	ear	1247	39	nabo	1	n a b o	
+BIYUE	byo	ear	1247	39	nopu	1	n o p u	
+MPI	mpz	ear	1247	39	mph~a	2	m ph~ a	
+BISU	bzi	ear	1247	39	nas3N	1	n a s 3 N	
+JINO	jiu	ear	1247	39	nh~a kh~o	1	nh~ a _ kh~ o	
+LAHU	lhu	ear	1247	39	napo	1	n a p o	
+XIDE	iii	ear	1247	39	hn3po	1	h n 3 p o	
+DAFANG	yig	ear	1247	39	lopo	2	l o p o	
+NANJIANG	ywt	ear	1247	39	napu	1	n a p u	
+LISU	lis	ear	1247	39	nopo	1	n o p o	
+NUSU	nuf	ear	1247	39	hnash~3*	1	h n a sh~ 3*	
+ACHANG	acn	ear	1247	39	niCua	1	n i C u a	
+NAXI	nbf	ear	1247	39	xEc3	3	x E c 3	
+BURMESE	mya	eye	1248	40	my~akTi	1	my~ a k T i	
+ZAIWA	atb	eye	1248	40	my~oCi	1	my~ o C i	
+AKHA	ahk	eye	1248	40	my~any~7	1	my~ a ny~ 7	
+BIYUE	byo	eye	1248	40	mac37	1	m a c 3 7	
+MPI	mpz	eye	1248	40	5ch~o	2	5 ch~ o	
+BISU	bzi	eye	1248	40	mEn3	1	m E n 3	
+JINO	jiu	eye	1248	40	my~a ci	1	my~ a _ c i	
+LAHU	lhu	eye	1248	40	mesi	1	m e s i	
+XIDE	iii	eye	1248	40	5oc3	1	5 o c 3	
+DAFANG	yig	eye	1248	40	nadu	1	n a d u	
+NANJIANG	ywt	eye	1248	40	mise	1	m i s e	
+LISU	lis	eye	1248	40	miEs3	1	m i E s 3	
+NUSU	nuf	eye	1248	40	miady~i	1	m i a dy~ i	
+ACHANG	acn	eye	1248	40	5oci7	1	5 o c i 7	
+NAXI	nbf	eye	1248	40	mi3lv	1	m i 3 l v	
+BURMESE	mya	nose	1221	41	hnakh~auN	1	h n a kh~ a u N	
+ZAIWA	atb	nose	1221	41	no7	2	n o 7	
+AKHA	ahk	nose	1221	41	namE	1	n a m E	
+BIYUE	byo	nose	1221	41	name	1	n a m e	
+MPI	mpz	nose	1221	41	Nkh~oN	1	N kh~ o N	
+BISU	bzi	nose	1221	41	nakh~aN	1	n a kh~ a N	
+JINO	jiu	nose	1221	41	nh~o to	1	nh~ o _ t o	
+LAHU	lhu	nose	1221	41	naqh~o	1	n a qh~ o	
+XIDE	iii	nose	1221	41	hnabi	2	h n a b i	
+DAFANG	yig	nose	1221	41	nomo	1	n o m o	
+NANJIANG	ywt	nose	1221	41	nokh~u	1	n o kh~ u	
+LISU	lis	nose	1221	41	nakh~u	1	n a kh~ u	
+NUSU	nuf	nose	1221	41	hnaka*	1	h n a k a*	
+ACHANG	acn	nose	1221	41	nixoN	1	n i x o N	
+NAXI	nbf	nose	1221	41	5im3r	1	5 i m 3 r	
+BURMESE	mya	tooth	1380	43	sw~a	1	sw~ a	
+ZAIWA	atb	tooth	1380	43	cui	2	c u i	
+AKHA	ahk	tooth	1380	43	sh~3	1	sh~ 3	
+BIYUE	byo	tooth	1380	43	oc3	2	o c 3	
+MPI	mpz	tooth	1380	43	oso	1	o s o	also: c3
+BISU	bzi	tooth	1380	43	soph~e	1	s o ph~ e	
+JINO	jiu	tooth	1380	43	Cy~i	2	Cy~ i	
+LAHU	lhu	tooth	1380	43	ci	2	c i	
+XIDE	iii	tooth	1380	43	j3	2	j 3	
+DAFANG	yig	tooth	1380	43	c3mo	2	c 3 m o	
+NANJIANG	ywt	tooth	1380	43	sy	2	s y	
+LISU	lis	tooth	1380	43	s3Ch~i	2	s 3 Ch~ i	
+NUSU	nuf	tooth	1380	43	sh~ua	1	sh~ u a	
+ACHANG	acn	tooth	1380	43	coi	2	c o i	
+NAXI	nbf	tooth	1380	43	x3	1	x 3	
+BURMESE	mya	tongue	1205	44	hly~a	1	h ly~ a	
+ZAIWA	atb	tongue	1205	44	So	1	S o	
+AKHA	ahk	tongue	1205	44	mela	1	m e l a	
+BIYUE	byo	tongue	1205	44	ala	1	a l a	
+MPI	mpz	tongue	1205	44	olo	1	o l o	
+BISU	bzi	tongue	1205	44	manhla	1	m a n h l a	
+JINO	jiu	tongue	1205	44	a Lo	1	a _ L o	
+LAHU	lhu	tongue	1205	44	xate	1	x a t e	
+XIDE	iii	tongue	1205	44	hane	1	h a n e	
+DAFANG	yig	tongue	1205	44	Lo	1	L o	
+NANJIANG	ywt	tongue	1205	44	la	1	l a	
+LISU	lis	tongue	1205	44	laCh~3	1	l a Ch~ 3	
+NUSU	nuf	tongue	1205	44	fra	1	f r a	
+ACHANG	acn	tongue	1205	44	so	1	s o	
+BURMESE	mya	person	683	18	lu	1	l u	
+AKHA	ahk	person	683	18	ch~oha	1	ch~ o h a	
+BIYUE	byo	person	683	18	ch~u	1	ch~ u	
+MPI	mpz	person	683	18	ch~oN	1	ch~ o N	
+BISU	bzi	person	683	18	ch~aN	1	ch~ a N	
+JINO	jiu	person	683	18	ch~3 zo	1	ch~ 3 _ z o	
+LAHU	lhu	person	683	18	ch~o	1	ch~ o	
+XIDE	iii	person	683	18	ch~o	1	ch~ o	
+DAFANG	yig	person	683	18	ch~o	1	ch~ o	
+NANJIANG	ywt	person	683	18	ch~u	1	ch~ u	
+LISU	lis	person	683	18	ch~oza	1	ch~ o z a	
+NUSU	nuf	person	683	18	su	1	s u	
+ACHANG	acn	person	683	18	Co	1	C o	
+NAXI	nbf	person	683	18	si	1	s i	
+BURMESE	mya	knee	1371	47	du	1	d u	
+ZAIWA	atb	knee	1371	47	khy$iph~ut	2	khy$ i ph~ u t	
+AKHA	ahk	knee	1371	47	khy$cy~7	5	khy$ cy~ 7	
+MPI	mpz	knee	1371	47	NkoN	4	N k o N	
+BISU	bzi	knee	1371	47	pato	1	p a t o	
+JINO	jiu	knee	1371	47	ph~3	2	ph~ 3	
+LAHU	lhu	knee	1371	47	kh~3c3qi	4	kh~ 3 c 3 q i	
+XIDE	iii	knee	1371	47	baT37	5	b a T 3 7	
+ACHANG	acn	knee	1371	47	ch~i5o7	5	ch~ i 5 o 7	
+BURMESE	mya	hand	1277	48	lak	1	l a k	
+ZAIWA	atb	hand	1277	48	lo7	1	l o 7	
+AKHA	ahk	hand	1277	48	la7	1	l a 7	
+BIYUE	byo	hand	1277	48	ala7	1	a l a 7	
+MPI	mpz	hand	1277	48	loph~u	1	l o ph~ u	
+BISU	bzi	hand	1277	48	lapo	1	l a p o	
+JINO	jiu	hand	1277	48	la pu	1	l a _ p u	
+LAHU	lhu	hand	1277	48	la7sE	1	l a 7 s E	
+XIDE	iii	hand	1277	48	lo	1	l o	
+DAFANG	yig	hand	1277	48	la	1	l a	
+NANJIANG	ywt	hand	1277	48	liph~i7	1	l i ph~ i 7	
+LISU	lis	hand	1277	48	lEph~E	1	l E ph~ E	
+NUSU	nuf	hand	1277	48	la7	1	l a 7	
+ACHANG	acn	hand	1277	48	lo7	1	l o 7	
+NAXI	nbf	hand	1277	48	lo	1	l o	
+BURMESE	mya	breast	1402	51	raN	1	r a N	
+AKHA	ahk	breast	1402	51	atyh~e	2	a t yh~ e	
+MPI	mpz	breast	1402	51	mpo	3	m p o	
+BISU	bzi	breast	1402	51	loNpEt	4	l o N p E t	
+XIDE	iii	breast	1402	51	Nomo	6	N o m o	
+BURMESE	mya	liver	1224	53	asa5	1	a s a 5	
+ZAIWA	atb	liver	1224	53	siN	1	s i N	
+AKHA	ahk	liver	1224	53	sh~ach~aN	1	sh~ a ch~ a N	
+BIYUE	byo	liver	1224	53	och~3	1	o ch~ 3	
+MPI	mpz	liver	1224	53	oth~3	2	o th~ 3	
+BISU	bzi	liver	1224	53	aNch~in	1	a N ch~ i n	
+JINO	jiu	liver	1224	53	a ch~3	1	a _ ch~ 3	
+LAHU	lhu	liver	1224	53	ose	1	o s e	
+XIDE	iii	liver	1224	53	si	1	s i	
+DAFANG	yig	liver	1224	53	s3	1	s 3	
+NANJIANG	ywt	liver	1224	53	c3s3	1	c 3 s 3	
+LISU	lis	liver	1224	53	s3	1	s 3	
+NUSU	nuf	liver	1224	53	ch~3*	1	ch~ 3*	
+ACHANG	acn	liver	1224	53	aS3N	1	a S 3 N	
+NAXI	nbf	liver	1224	53	s3r	1	s 3 r	
+BURMESE	mya	drink	1401	54	suak	1	s u a k	
+ZAIWA	atb	drink	1401	54	Su7	1	S u 7	
+AKHA	ahk	drink	1401	54	do	2	d o	
+BIYUE	byo	drink	1401	54	tu	2	t u	
+MPI	mpz	drink	1401	54	toN	2	t o N	
+BISU	bzi	drink	1401	54	taN	2	t a N	
+JINO	jiu	drink	1401	54	t3	2	t 3	
+LAHU	lhu	drink	1401	54	do	2	d o	
+XIDE	iii	drink	1401	54	nd~o	2	nd~ o	
+DAFANG	yig	drink	1401	54	nd~o	2	nd~ o	
+NANJIANG	ywt	drink	1401	54	du	2	d u	
+LISU	lis	drink	1401	54	do	2	d o	
+NUSU	nuf	drink	1401	54	sh~u7	1	sh~ u 7	
+ACHANG	acn	drink	1401	54	So7	1	S o 7	
+NAXI	nbf	drink	1401	54	th~3	3	th~ 3	
+BURMESE	mya	you	1213	2	TaN	1	T a N	
+ZAIWA	atb	you	1213	2	naN	2	n a N	
+AKHA	ahk	you	1213	2	no	2	n o	
+BIYUE	byo	you	1213	2	nv	2	n v	
+MPI	mpz	you	1213	2	noN	2	n o N	
+BISU	bzi	you	1213	2	naN	2	n a N	
+JINO	jiu	you	1213	2	n3	2	n 3	
+LAHU	lhu	you	1213	2	no	2	n o	
+XIDE	iii	you	1213	2	n3	2	n 3	
+DAFANG	yig	you	1213	2	na	2	n a	
+LISU	lis	you	1213	2	nu	2	n u	
+NUSU	nuf	you	1213	2	5o	2	5 o	
+ACHANG	acn	you	1213	2	nuaN	2	n u a N	
+NAXI	nbf	you	1213	2	nv	2	n v	
+BURMESE	mya	see	1409	57	mraN	1	m r a N	
+ZAIWA	atb	see	1409	57	vu	3	v u	
+AKHA	ahk	see	1409	57	mo	1	m o	
+BIYUE	byo	see	1409	57	te	4	t e	
+MPI	mpz	see	1409	57	my~oN	1	my~ o N	
+BISU	bzi	see	1409	57	hmy~aN	1	h my~ a N	
+JINO	jiu	see	1409	57	my~3	4	my~ 3	
+LAHU	lhu	see	1409	57	ni	5	n i	
+XIDE	iii	see	1409	57	h3	3	h 3	
+DAFANG	yig	see	1409	57	na	8	n a	
+LISU	lis	see	1409	57	5i	5	5 i	
+NUSU	nuf	see	1409	57	ru	3	r u	
+ACHANG	acn	see	1409	57	en	2	e n	
+NAXI	nbf	see	1409	57	ly	7	l y	
+BURMESE	mya	hear	1408	58	kra	1	k r a	
+ZAIWA	atb	hear	1408	58	ky~o	1	ky~ o	
+AKHA	ahk	hear	1408	58	ga	1	g a	
+BIYUE	byo	hear	1408	58	nate	2	n a t e	
+MPI	mpz	hear	1408	58	ky~o	1	ky~ o	
+BISU	bzi	hear	1408	58	ky~a	1	ky~ a	
+JINO	jiu	hear	1408	58	nh~o to	2	nh~ o _ t o	
+LAHU	lhu	hear	1408	58	na	2	n a	
+XIDE	iii	hear	1408	58	hna	2	h n a	
+DAFANG	yig	hear	1408	58	dy~u	1	dy~ u	
+NANJIANG	ywt	hear	1408	58	ne	2	n e	
+LISU	lis	hear	1408	58	nalo	2	n a l o	
+NUSU	nuf	hear	1408	58	hna	2	h n a	
+ACHANG	acn	hear	1408	58	kZua	1	k Z u a	
+NAXI	nbf	hear	1408	58	kh~omi	3	kh~ o m i	
+BURMESE	mya	bone	1394	31	arui	1	a r u i	
+ZAIWA	atb	bone	1394	31	Sovui	1	S o v u i	
+AKHA	ahk	bone	1394	31	sh~aye	1	sh~ a y e	
+BIYUE	byo	bone	1394	31	oyi	1	o y i	
+MPI	mpz	bone	1394	31	o73	1	o 7 3	
+BISU	bzi	bone	1394	31	aNgaw	1	a N g a w	
+JINO	jiu	bone	1394	31	So x3	1	S o _ x 3	
+LAHU	lhu	bone	1394	31	omi7ki	2	o m i 7 k i	
+XIDE	iii	bone	1394	31	vudu	1	v u d u	
+DAFANG	yig	bone	1394	31	xox3	1	x o x 3	
+NANJIANG	ywt	bone	1394	31	uda	3	u d a	
+LISU	lis	bone	1394	31	oto	1	o t o	
+NUSU	nuf	bone	1394	31	r3	1	r 3	
+ACHANG	acn	bone	1394	31	aZau	1	a Z a u	
+NAXI	nbf	bone	1394	31	Solo	1	S o l o	
+BURMESE	mya	die	1494	61	siy	1	s i y	
+ZAIWA	atb	die	1494	61	Si	1	S i	
+AKHA	ahk	die	1494	61	syh$i	1	syh$ i	
+BIYUE	byo	die	1494	61	s3	1	s 3	
+MPI	mpz	die	1494	61	si	1	s i	
+BISU	bzi	die	1494	61	Si	1	S i	
+JINO	jiu	die	1494	61	Si	1	S i	
+LAHU	lhu	die	1494	61	s3	1	s 3	
+XIDE	iii	die	1494	61	s3	1	s 3	
+DAFANG	yig	die	1494	61	si	1	s i	
+NANJIANG	ywt	die	1494	61	x3	1	x 3	
+LISU	lis	die	1494	61	S3	1	S 3	
+NUSU	nuf	die	1494	61	si	1	s i	
+ACHANG	acn	die	1494	61	sa	1	s a	
+NAXI	nbf	die	1494	61	S3	1	S 3	
+BURMESE	mya	road (path)	667	85	lam	1	l a m	
+ZAIWA	atb	road (path)	667	85	khy$o	1	khy$ o	
+AKHA	ahk	road (path)	667	85	gama	1	g a m a	
+BIYUE	byo	road (path)	667	85	yamo	1	y a m o	
+MPI	mpz	road (path)	667	85	kokh~uN	1	k o kh~ u N	
+BISU	bzi	road (path)	667	85	kiba	1	k i b a	
+JINO	jiu	road (path)	667	85	yo kh~o	1	y o _ kh~ o	
+LAHU	lhu	road (path)	667	85	za7qo	1	z a 7 q o	
+XIDE	iii	road (path)	667	85	gamo	1	g a m o	
+DAFANG	yig	road (path)	667	85	dy~o	1	dy~ o	
+NANJIANG	ywt	road (path)	667	85	goma	1	g o m a	
+LISU	lis	road (path)	667	85	jagu	2	j a g u	
+NUSU	nuf	road (path)	667	85	kh~raph~ro*	3	kh~ r a ph~ r o*	
+ACHANG	acn	road (path)	667	85	xamZua	1	x a m Z u a	
+NAXI	nbf	road (path)	667	85	z3gv	3	z 3 g v	

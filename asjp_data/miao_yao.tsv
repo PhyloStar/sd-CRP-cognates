@@ -1,0 +1,209 @@
+language	iso_code	concept	global_id	local_id	asjp	cogid	tokens	notes
+HMU	hea	I	1209	1	vi	1	v i	
+XIANGXI_HMONG	mmr	I	1209	1	we	1	w e	
+HMONG_NJUA	hnj	I	1209	1	ko	2	k o	
+BUNU	bwx	I	1209	1	Tun	3	T u n	
+SHE_CHINA	shx	I	1209	1	vaN	1	v a N	
+YAO	ium	I	1209	1	ye	4	y e	
+HMU	hea	come	1446	66	lo	1	l o	
+XIANGXI_HMONG	mmr	come	1446	66	lo	1	l o	
+HMONG_NJUA	hnj	come	1446	66	lo	1	l o	
+BUNU	bwx	come	1446	66	lo	1	l o	also: to
+SHE_CHINA	shx	come	1446	66	n3	1	n 3	
+YAO	ium	come	1446	66	tai	2	t a i	
+HMONG_NJUA	hnj	water	948	75	tle	2	t l e	
+BUNU	bwx	water	948	75	an	1	a n	
+SHE_CHINA	shx	water	948	75	oN	1	o N	
+YAO	ium	water	948	75	wam	1	w a m	
+HMU	hea	mountain	639	86	qapo	1	q a p o	
+XIANGXI_HMONG	mmr	mountain	639	86	qozei	2	q o z e i	
+HMONG_NJUA	hnj	mountain	639	86	ton	3	t o n	
+BUNU	bwx	mountain	639	86	8au	4	8 a u	
+SHE_CHINA	shx	mountain	639	86	ky~e	5	ky~ e	also: ho
+YAO	ium	mountain	639	86	tTim	6	t T i m	
+HMU	hea	sun	1343	72	nh~E	1	nh~ E	
+XIANGXI_HMONG	mmr	sun	1343	72	nh~e	1	nh~ e	
+HMONG_NJUA	hnj	sun	1343	72	nh~o	1	nh~ o	
+BUNU	bwx	sun	1343	72	minh~on	1	m i nh~ o n	
+SHE_CHINA	shx	sun	1343	72	noko	1	n o k o	
+YAO	ium	sun	1343	72	punh~oi	1	p u nh~ o i	
+HMU	hea	star	1430	74	tEqE	1	t E q E	
+XIANGXI_HMONG	mmr	star	1430	74	teteqelh~a	1	t e t e q e lh~ a	
+HMONG_NJUA	hnj	star	1430	74	hn~oqo	1	hn~ o q o	
+BUNU	bwx	star	1430	74	takuna	1	t a k u n a	
+SHE_CHINA	shx	star	1430	74	neitaN	1	n e i t a N	
+YAO	ium	star	1430	74	Lei	2	L e i	
+HMU	hea	stone	857	77	xi	1	x i	
+XIANGXI_HMONG	mmr	stone	857	77	qoz3	1	q o z 3	
+HMONG_NJUA	hnj	stone	857	77	ze	1	z e	
+BUNU	bwx	stone	857	77	faxe	1	f a x e	
+SHE_CHINA	shx	stone	857	77	Nako	1	N a k o	
+YAO	ium	stone	857	77	laipy~ei	2	l a i py~ e i	also: bEN
+HMU	hea	skin	763	28	qatu	1	q a t u	
+XIANGXI_HMONG	mmr	skin	763	28	qoTo	2	q o T o	
+HMONG_NJUA	hnj	skin	763	28	teu	1	t e u	
+BUNU	bwx	skin	763	28	katlau	3	k a t l a u	
+SHE_CHINA	shx	skin	763	28	kh~3	3	kh~ 3	
+YAO	ium	skin	763	28	dop	4	d o p	
+HMU	hea	fire	221	82	tu	1	t u	
+XIANGXI_HMONG	mmr	fire	221	82	py~it3	1	py~ i t 3	
+HMONG_NJUA	hnj	fire	221	82	teu	1	t e u	
+BUNU	bwx	fire	221	82	katu	1	k a t u	
+SHE_CHINA	shx	fire	221	82	th~o	1	th~ o	
+YAO	ium	fire	221	82	tou	1	t o u	
+HMU	hea	fish	227	19	zE	1	z E	
+XIANGXI_HMONG	mmr	fish	227	19	tamz3	1	t a m z 3	
+HMONG_NJUA	hnj	fish	227	19	nc~e	1	nc~ e	
+BUNU	bwx	fish	227	19	nc~e	1	nc~ e	
+SHE_CHINA	shx	fish	227	19	py~a	1	py~ a	
+YAO	ium	fish	227	19	by~au	1	by~ a u	
+HMU	hea	dog	2009	21	lh~a	1	lh~ a	
+XIANGXI_HMONG	mmr	dog	2009	21	taqw~3	1	t a qw~ 3	
+HMONG_NJUA	hnj	dog	2009	21	tle	1	t l e	
+BUNU	bwx	dog	2009	21	tle	1	t l e	
+SHE_CHINA	shx	dog	2009	21	ky~a	1	ky~ a	
+YAO	ium	dog	2009	21	tTu	1	t T u	
+HMU	hea	louse	1392	22	kantE	1	k a n t E	
+XIANGXI_HMONG	mmr	louse	1392	22	tate	1	t a t e	
+HMONG_NJUA	hnj	louse	1392	22	to	1	t o	
+BUNU	bwx	louse	1392	22	katuna	1	k a t u n a	
+SHE_CHINA	shx	louse	1392	22	taN	1	t a N	
+YAO	ium	louse	1392	22	tam	1	t a m	
+HMU	hea	tree	906	23	t3	1	t 3	
+XIANGXI_HMONG	mmr	tree	906	23	qont~u	1	q o nt~ u	
+HMONG_NJUA	hnj	tree	906	23	nt~on	1	nt~ o n	
+BUNU	bwx	tree	906	23	nt~an	1	nt~ a n	
+SHE_CHINA	shx	tree	906	23	toN	1	t o N	
+YAO	ium	tree	906	23	dy~aN	1	dy~ a N	
+HMU	hea	leaf	628	25	nu	1	n u	
+XIANGXI_HMONG	mmr	leaf	628	25	n3	1	n 3	
+HMONG_NJUA	hnj	leaf	628	25	mpl$on	1	mpl$ o n	
+BUNU	bwx	leaf	628	25	nt~Lan	1	nt~ L a n	
+SHE_CHINA	shx	leaf	628	25	pyoN	1	p y o N	
+YAO	ium	leaf	628	25	nom	1	n o m	
+HMU	hea	night	1233	92	Th~imh~am	1	Th~ i mh~ a m	
+XIANGXI_HMONG	mmr	night	1233	92	tTh~mh~an	1	t Th~ mh~ a n	
+HMONG_NJUA	hnj	night	1233	92	mh~au	1	mh~ a u	
+BUNU	bwx	night	1233	92	nt~onmun	1	nt~ o n m u n	
+SHE_CHINA	shx	night	1233	92	mokaNch~i	2	m o k a N ch~ i	
+YAO	ium	night	1233	92	luNmw~ancan	1	l u N mw~ a n c a n	
+HMU	hea	blood	946	30	Th~n	1	Th~ n	
+XIANGXI_HMONG	mmr	blood	946	30	nt~ch~i	1	nt~ ch~ i	
+HMONG_NJUA	hnj	blood	946	30	nch$an	1	nch$ a n	
+BUNU	bwx	blood	946	30	nch$3n	1	nch$ 3 n	
+SHE_CHINA	shx	blood	946	30	sy~i	1	sy~ i	
+YAO	ium	blood	946	30	cy~am	1	cy~ a m	
+HMU	hea	full	1429	95	pe	1	p e	
+XIANGXI_HMONG	mmr	full	1429	95	pe	1	p e	
+HMONG_NJUA	hnj	full	1429	95	po	1	p o	
+BUNU	bwx	full	1429	95	Ten	2	T e n	
+SHE_CHINA	shx	full	1429	95	paN	1	p a N	
+YAO	ium	full	1429	95	pw~aN	1	pw~ a N	
+HMU	hea	we	1212	3	pi	1	p i	
+XIANGXI_HMONG	mmr	we	1212	3	p3	1	p 3	
+HMONG_NJUA	hnj	we	1212	3	pe	1	p e	
+BUNU	bwx	we	1212	3	pe	1	p e	
+SHE_CHINA	shx	we	1212	3	pa	1	p a	
+YAO	ium	we	1212	3	yebw~o	2	y e bw~ o	
+HMU	hea	horn	1393	34	ki	1	k i	
+XIANGXI_HMONG	mmr	horn	1393	34	qoTe	1	q o T e	
+HMONG_NJUA	hnj	horn	1393	34	ko	1	k o	
+BUNU	bwx	horn	1393	34	Tun	1	T u n	
+SHE_CHINA	shx	horn	1393	34	kaN	1	k a N	
+YAO	ium	horn	1393	34	tT~oN	1	tT~ o N	
+HMU	hea	name	1405	100	zanpi	1	z a n p i	
+XIANGXI_HMONG	mmr	name	1405	100	mp~u	1	mp~ u	
+HMONG_NJUA	hnj	name	1405	100	mp~e	1	mp~ e	
+BUNU	bwx	name	1405	100	mp~e83	1	mp~ e 8 3	
+SHE_CHINA	shx	name	1405	100	mui	2	m u i	
+YAO	ium	name	1405	100	meNbw~o	1	m e N bw~ o	
+HMU	hea	ear	1247	39	qazE	1	q a z E	
+XIANGXI_HMONG	mmr	ear	1247	39	tonmz3	1	t o n m z 3	
+HMONG_NJUA	hnj	ear	1247	39	5tT$ou	1	5tT$ o u	
+BUNU	bwx	ear	1247	39	kanc~ea	1	k a nc~ e a	
+SHE_CHINA	shx	ear	1247	39	kakh~uN	2	k a kh~ u N	
+YAO	ium	ear	1247	39	n3nom	1	n 3 n o m	
+HMU	hea	eye	1248	40	5h~umE	1	5h~ u m E	
+XIANGXI_HMONG	mmr	eye	1248	40	l3qe	2	l 3 q e	
+HMONG_NJUA	hnj	eye	1248	40	mua	1	m u a	
+BUNU	bwx	eye	1248	40	kh~i mon	1	kh~ i _ m o n	
+SHE_CHINA	shx	eye	1248	40	kakh~o	3	k a kh~ o	
+YAO	ium	eye	1248	40	mw~ciN	1	mw~ c i N	
+HMU	hea	nose	1221	41	pozE	1	p o z E	
+XIANGXI_HMONG	mmr	nose	1221	41	pamzE	1	p a m z E	
+HMONG_NJUA	hnj	nose	1221	41	nc~u	1	nc~ u	
+BUNU	bwx	nose	1221	41	pinc~au	1	p i nc~ a u	
+SHE_CHINA	shx	nose	1221	41	kh~uNpiu	1	kh~ u N p i u	
+YAO	ium	nose	1221	41	by~ut	1	by~ u t	
+HMU	hea	tooth	1380	43	mh~i	1	mh~ i	
+XIANGXI_HMONG	mmr	tooth	1380	43	qoTE	2	q o T E	
+BUNU	bwx	tooth	1380	43	famh~in	1	f a mh~ i n	
+SHE_CHINA	shx	tooth	1380	43	mun	1	m u n	
+HMU	hea	tongue	1205	44	qani	1	q a n i	
+XIANGXI_HMONG	mmr	tongue	1205	44	qomy~a	1	q o my~ a	
+HMONG_NJUA	hnj	tongue	1205	44	mp~lai	1	mp~ l a i	
+BUNU	bwx	tongue	1205	44	kant~la	1	k a nt~ l a	
+SHE_CHINA	shx	tongue	1205	44	pi	1	p i	
+YAO	ium	tongue	1205	44	by~et	1	by~ e t	
+HMU	hea	person	683	18	nE	1	n E	
+XIANGXI_HMONG	mmr	person	683	18	ne	1	n e	
+HMONG_NJUA	hnj	person	683	18	nen	1	n e n	
+BUNU	bwx	person	683	18	nu	1	n u	
+SHE_CHINA	shx	person	683	18	ne	1	n e	
+YAO	ium	person	683	18	my~en	1	my~ e n	
+HMU	hea	knee	1371	47	qh~anv3t3	1	qh~ a n v 3 t 3	
+XIANGXI_HMONG	mmr	knee	1371	47	qh~utT~o	1	qh~ u tT~ o	
+HMONG_NJUA	hnj	knee	1371	47	qh~auco	1	qh~ a u c o	
+BUNU	bwx	knee	1371	47	kuNaTo	1	k u N a T o	
+SHE_CHINA	shx	knee	1371	47	nakch~akkh~un	1	n a k ch~ a kkh~ u n	
+YAO	ium	knee	1371	47	pw~oseidy~e	2	pw~ o s e i dy~ e	
+HMU	hea	hand	1277	48	pi	1	p i	
+XIANGXI_HMONG	mmr	hand	1277	48	qot3	1	q o t 3	
+HMONG_NJUA	hnj	hand	1277	48	te	1	t e	
+BUNU	bwx	hand	1277	48	tape	1	t a p e	
+SHE_CHINA	shx	hand	1277	48	khw$a	1	khw$ a	
+YAO	ium	hand	1277	48	pw~o	1	pw~ o	
+XIANGXI_HMONG	mmr	breast	1402	51	ma	2	m a	
+HMONG_NJUA	hnj	breast	1402	51	kua	3	k u a	
+BUNU	bwx	breast	1402	51	kon	3	k o n	
+HMU	hea	liver	1224	53	fh~u zE Ton	1	fh~ u _ z E _ T o n	
+XIANGXI_HMONG	mmr	liver	1224	53	sE	2	s E	
+HMONG_NJUA	hnj	liver	1224	53	sa	2	s a	
+BUNU	bwx	liver	1224	53	nT~au	3	nT~ a u	
+SHE_CHINA	shx	liver	1224	53	hin	2	h i n	
+YAO	ium	liver	1224	53	Lan	2	L a n	
+HMU	hea	drink	1401	54	h3	1	h 3	
+XIANGXI_HMONG	mmr	drink	1401	54	hu	1	h u	
+HMONG_NJUA	hnj	drink	1401	54	hou	1	h o u	
+BUNU	bwx	drink	1401	54	h3u	1	h 3 u	
+YAO	ium	drink	1401	54	hop	1	h o p	
+HMU	hea	you	1213	2	mon	1	m o n	
+XIANGXI_HMONG	mmr	you	1213	2	m3	1	m 3	
+HMONG_NJUA	hnj	you	1213	2	kau	2	k a u	
+BUNU	bwx	you	1213	2	kau	2	k a u	
+SHE_CHINA	shx	you	1213	2	muN	1	m u N	
+YAO	ium	you	1213	2	mw~ei	1	mw~ e i	
+HMU	hea	see	1409	57	Th~i	1	Th~ i	
+XIANGXI_HMONG	mmr	see	1409	57	tTinqh$e	1	t T i nqh$ e	
+HMONG_NJUA	hnj	see	1409	57	ma	2	m a	
+BUNU	bwx	see	1409	57	nk~on	3	nk~ o n	also: nt~a
+SHE_CHINA	shx	see	1409	57	mo	2	m o	
+YAO	ium	see	1409	57	maN	2	m a N	
+HMU	hea	hear	1408	58	nh~an	1	nh~ a n	
+XIANGXI_HMONG	mmr	hear	1408	58	ton	2	t o n	
+HMONG_NJUA	hnj	hear	1408	58	non	3	n o n	
+BUNU	bwx	hear	1408	58	T3n	2	T 3 n	
+SHE_CHINA	shx	hear	1408	58	kuN	4	k u N	
+YAO	ium	hear	1408	58	mw~aN	5	mw~ a N	
+HMU	hea	bone	1394	31	sh~on	1	sh~ o n	
+XIANGXI_HMONG	mmr	bone	1394	31	qoson	1	q o s o n	
+HMONG_NJUA	hnj	bone	1394	31	ch~an	1	ch~ a n	
+BUNU	bwx	bone	1394	31	ka8ona	1	k a 8 o n a	
+SHE_CHINA	shx	bone	1394	31	suNko	1	s u N k o	
+YAO	ium	bone	1394	31	buN	1	b u N	
+HMU	hea	road (path)	667	85	ki	1	k i	
+XIANGXI_HMONG	mmr	road (path)	667	85	k3	1	k 3	
+HMONG_NJUA	hnj	road (path)	667	85	ke	1	k e	
+BUNU	bwx	road (path)	667	85	Te	1	T e	
+SHE_CHINA	shx	road (path)	667	85	ka	1	k a	
+YAO	ium	road (path)	667	85	tTau	1	t T a u	

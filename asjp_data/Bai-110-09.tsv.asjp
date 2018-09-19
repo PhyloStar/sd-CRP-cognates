@@ -1,0 +1,1029 @@
+language	iso_code	concept	global_id	local_id	asjp	cogid	tokens
+Gongxing		I	1209	1209	Na	7	ŋ a ⁴²
+Jinman		I	1209	1209	o	7	õ ⁴²
+Mazhelong		I	1209	1209	No	7	ŋ o ⁴²
+Dashi		I	1209	1209	No	7	ŋ õ ³¹
+Zhoucheng		I	1209	1209	No	7	ŋ o ³¹
+Jinxing		I	1209	1209	wo	7	w õ ³¹
+Tuolo		I	1209	1209	No	7	ŋ ɔ ²¹
+Enqi		I	1209	1209	No	7	ɴ o ⁴³
+Ega		I	1209	1209	No	7	ŋ o ⁴²
+Gongxing		all	98	98	ch~Eya	1	tsʰ æ ²² j a ⁴²
+Jinman		all	98	98	datS3	202	d a ⁴² ʈʂ ə˞ ²²
+Mazhelong		all	98	98	soyi	233	s o ²¹ j i ²¹
+Dashi		all	98	98	Cwanpu	259	tɕ w a n ⁴² p u ⁵⁵
+Zhoucheng		all	98	98	yisu	244	j i ³¹ s u ³³
+Jinxing		all	98	98	cakaci	2	ts a ³⁵ k ɑ ²¹ ts i ³³
+Tuolo		all	98	98	Ch~a	33	tɕʰ a ⁵⁵
+Enqi		all	98	98	CaGoci	3	tɕ a ²⁴ ʁ o ²¹ ts i ²²
+Ega		all	98	98	daNwa	201	d a ⁵⁵ ŋ w a ²²
+Gongxing		ashes	646	646	xwESiGwa	58	x w ɛ ²² ɕ y ⁵⁵ ʁ w a ¹²
+Jinman		ashes	646	646	kh~walaSu	88	kʰ w a ⁵⁵ l a ²¹ ɕ u ⁵⁵
+Mazhelong		ashes	646	646	xwalasu	59	x w a ³¹ l a ⁴⁴ s u ⁵⁵
+Zhoucheng		ashes	646	646	su	67	s u ⁵⁵
+Jinxing		ashes	646	646	su	67	s u ⁵⁵
+Tuolo		ashes	646	646	So	67	ʂ ɤ ⁵⁵
+Enqi		ashes	646	646	xwiSu	57	x w i ²² ɕ u ²⁴
+Ega		ashes	646	646	xwaloSu	59	x w a ⁵⁵ l o ²¹ ɕ u ⁵⁵
+Gongxing		bark	1204	1204	dZibi	109	ɖʐ i ¹² b i ²¹
+Mazhelong		bark	1204	1204	Senpe	131	ɕ e n ⁵⁵ p e ²¹
+Dashi		bark	1204	1204	tSupe	109	ʈʂ ɯ ²¹ p e ²¹
+Zhoucheng		bark	1204	1204	cupe	109	ts ɯ ³¹ p e ²¹
+Jinxing		bark	1204	1204	cupe	109	ts ɯ ³¹ p e ²¹
+Tuolo		bark	1204	1204	dyubi	109	d j ɯ ²¹ b i ³⁵
+Enqi		bark	1204	1204	dyupi	109	d j ɯ ⁴³ p i ²¹
+Ega		bark	1204	1204	jiCiyqa	110	dʑ i ⁴² tɕ y j ²¹ q a ⁵⁵
+Gongxing		belly	1251	1251	Zi	147	ʐ i ²¹
+Jinman		belly	1251	1251	Z3	147	ʐ ə˞ ⁴²
+Mazhelong		belly	1251	1251	pu	160	p ɯ ⁴⁴
+Dashi		belly	1251	1251	fo	160	f o ⁴⁴
+Zhoucheng		belly	1251	1251	fo	160	f ɤ ⁴⁴
+Jinxing		belly	1251	1251	fo	160	f ɤ ⁴⁴
+Tuolo		belly	1251	1251	f3	160	f ə˞ ⁴²
+Enqi		belly	1251	1251	fo	160	f o ²⁴
+Ega		belly	1251	1251	xuqh~o	171	x u ⁴⁴ qʰ o ²²
+Gongxing		big	1202	1202	da	191	d a ⁴²
+Jinman		big	1202	1202	do	191	d o ⁴²
+Mazhelong		big	1202	1202	do	191	d o ⁴²
+Dashi		big	1202	1202	tow	191	t o w ⁴²
+Zhoucheng		big	1202	1202	to	191	t o ⁴²
+Jinxing		big	1202	1202	tow	191	t o w ⁴²
+Tuolo		big	1202	1202	do	191	d ɔ ²¹
+Enqi		big	1202	1202	da	191	d a ⁴³
+Ega		big	1202	1202	do	191	d o ⁴²
+Gongxing		bird	937	937	cu	203	ts u ²⁴
+Jinman		bird	937	937	co	203	ts o ⁵⁵
+Mazhelong		bird	937	937	co	203	ts o ⁴⁴
+Dashi		bird	937	937	cow	203	ts o w ³³
+Zhoucheng		bird	937	937	cow	203	ts o w ⁴⁴
+Jinxing		bird	937	937	cow	203	ts o w ⁴⁴
+Tuolo		bird	937	937	cu	203	ts u ⁴²
+Enqi		bird	937	937	cu	203	ts u ⁵⁵
+Ega		bird	937	937	cu	203	ts u ⁴⁴
+Gongxing		bite	1403	1403	Na	214	ŋ a ²⁴
+Jinman		bite	1403	1403	Na	214	ŋ a ⁴⁴
+Mazhelong		bite	1403	1403	Na	214	ŋ ɑ ⁴⁴
+Dashi		bite	1403	1403	xaN	214	ɣ a ŋ ⁴⁴
+Zhoucheng		bite	1403	1403	Na	214	ŋ a ⁴⁴
+Jinxing		bite	1403	1403	a	214	ɑ̃ ⁴⁴
+Tuolo		bite	1403	1403	No	214	ŋ ɔ ⁴²
+Enqi		bite	1403	1403	Na	214	ɴ a ⁵⁵
+Ega		bite	1403	1403	No	214	ŋ o ⁴⁴
+Gongxing		black	163	163	Ge	215	χ e ²⁴
+Jinman		black	163	163	xu	215	x ɯ ⁵⁵
+Mazhelong		black	163	163	xu	215	x ɯ ⁴⁴
+Dashi		black	163	163	xu	215	x ɯ ⁴⁴
+Zhoucheng		black	163	163	xu	215	x ɯ ⁴⁴
+Jinxing		black	163	163	xu	215	x ɯ ⁴⁴
+Tuolo		black	163	163	x3	215	x ə˞ ⁴²
+Enqi		black	163	163	Gu	215	χ ɯ ⁵⁵
+Ega		black	163	163	xu	215	x ɯ ⁴⁴
+Gongxing		blood	946	946	swa	216	s w a ²⁴
+Jinman		blood	946	946	swa	216	s w a ⁵⁵
+Mazhelong		blood	946	946	swa	216	s w a ⁴⁴
+Dashi		blood	946	946	sh~wa	216	sʰ w a ⁴⁴
+Zhoucheng		blood	946	946	swa	216	s w a ⁴⁴
+Jinxing		blood	946	946	swa	216	s w ɑ ⁴⁴
+Tuolo		blood	946	946	swo	216	s w ɔ ⁴²
+Enqi		blood	946	946	swa	216	s w a ⁵⁵
+Ega		blood	946	946	swa	216	s w a ⁴⁴
+Gongxing		bone	1394	1394	qwa	217	q w a ²⁴
+Jinman		bone	1394	1394	qwace	218	q w a ⁵⁵ ts e ⁵⁵
+Mazhelong		bone	1394	1394	kwatwo	219	k w a ⁴⁴ t w ɤ ⁴⁴
+Dashi		bone	1394	1394	kwaty3	219	k w a ⁴⁴ t j ə ³³
+Zhoucheng		bone	1394	1394	kwatu	219	k w a ⁴⁴ t ɯ ³³
+Jinxing		bone	1394	1394	kwat3	219	k w ɑ ⁴⁴ t ə ⁴²
+Tuolo		bone	1394	1394	kudyucE	220	k u ⁴² d j ɯ ³⁵ ts ɛ ⁴²
+Enqi		bone	1394	1394	qwa	217	q w a ⁵⁵
+Ega		bone	1394	1394	qwa	217	q w a ⁴⁴
+Gongxing		breast	1402	1402	ba	221	b a ²¹
+Jinman		breast	1402	1402	pa	221	p a ⁴²
+Mazhelong		breast	1402	1402	noN	222	n o ŋ ³³
+Dashi		breast	1402	1402	pa	221	p a ⁴²
+Zhoucheng		breast	1402	1402	pa	221	p a ⁴²
+Jinxing		breast	1402	1402	pa	221	p ɑ ⁴²
+Tuolo		breast	1402	1402	bo	221	b o ⁴²
+Enqi		breast	1402	1402	pa	221	p a ²¹
+Ega		breast	1402	1402	pa	221	p a ⁴²
+Gongxing		burn	141	141	Si	223	ɕ y ²²
+Jinman		burn	141	141	foyi	224	f ɤ ⁵⁵ j i ⁵⁵
+Mazhelong		burn	141	141	so	223	s ɤ ⁵⁵
+Dashi		burn	141	141	Su	223	ʂ u ⁵⁵
+Zhoucheng		burn	141	141	5u	227	ɲ ɯ ³³
+Jinxing		burn	141	141	yi	227	j ĩ ³³
+Tuolo		burn	141	141	yen	227	j e n ³³
+Enqi		burn	141	141	xu	228	x u ²⁴
+Ega		burn	141	141	fipE	225	f i ²² p ɛ ²²
+Gongxing		burn	141	141	Si	223	ɕ y ⁵⁵
+Mazhelong		burn	141	141	fikh~3u	226	f i ³³ kʰ əu ⁵⁵
+Zhoucheng		burn	141	141	su	223	s u ⁵⁵
+Gongxing		claw (nail)	2128	2128	tSiqa	229	ʈʂ i ²⁴ q a ²⁴
+Jinman		claw (nail)	2128	2128	qa	230	q a ⁴⁴
+Mazhelong		claw (nail)	2128	2128	s3uk3	231	s əu ³³ k ə˞ ⁴⁴
+Dashi		claw (nail)	2128	2128	Suka	231	ʂ ɯ ³³ k a ⁴⁴
+Zhoucheng		claw (nail)	2128	2128	suka	231	s ɯ ³³ k a ⁴⁴
+Jinxing		claw (nail)	2128	2128	suka	231	s ɯ ³³ k a ⁴⁴
+Tuolo		claw (nail)	2128	2128	Suqa	231	ɕ ɯ ³³ q a ⁴²
+Enqi		claw (nail)	2128	2128	tyuqa	229	t j ɯ ²¹ q a ²⁴
+Ega		claw (nail)	2128	2128	Siqa	231	ɕ i ²² q a ⁴⁴
+Gongxing		cloud	1489	1489	NEq3	232	ŋ ɛ ¹² q ə ⁵⁵
+Jinman		cloud	1489	1489	muko	234	m ɯ ²¹ k o ⁴²
+Mazhelong		cloud	1489	1489	yenpe	236	ɥ e n ²¹ p e ²¹
+Dashi		cloud	1489	1489	vono	237	v ɤ̃ ²¹ n õ ²¹
+Zhoucheng		cloud	1489	1489	o	235	ɤ ²¹
+Jinxing		cloud	1489	1489	o	235	ɤ̃ ²¹
+Tuolo		cloud	1489	1489	Noqa	232	ŋ ɔ ³⁵ q a ⁴²
+Enqi		cloud	1489	1489	GE	235	ʁ æ ²¹
+Ega		cloud	1489	1489	muko	234	m ɯ̃ ²¹ k o ⁴²
+Gongxing		cold	1287	1287	ga	238	g a ¹²
+Jinman		cold	1287	1287	ku	239	k ɯ ⁵⁵
+Mazhelong		cold	1287	1287	ku	239	k ɯ ⁵⁵
+Dashi		cold	1287	1287	ku	239	k ɯ ³⁵
+Zhoucheng		cold	1287	1287	ku	239	k ɯ ³⁵
+Jinxing		cold	1287	1287	ku	239	k ɯ ⁵⁵
+Tuolo		cold	1287	1287	ku	239	k ɯ ⁵⁵
+Enqi		cold	1287	1287	ku	239	k ɯ ²⁴
+Ega		cold	1287	1287	ku	239	k ɯ ⁵⁵
+Dashi		cold	1287	1287	ka	239	k a ²¹
+Jinxing		cold	1287	1287	ka	238	k ɑ ²¹
+Gongxing		come	1446	1446	yik3	241	j i ²¹ k ə ²²
+Jinman		come	1446	1446	Cwa	242	tɕ w a ⁵⁵
+Mazhelong		come	1446	1446	x3u	243	ɣ əu ²¹
+Dashi		come	1446	1446	x3	243	ɣ ə ³⁵
+Zhoucheng		come	1446	1446	yu	240	j ɯ ³⁵
+Jinxing		come	1446	1446	x3	243	ɣ ə ³⁵
+Tuolo		come	1446	1446	tSh~o	245	ʈʂʰ o ⁴²
+Enqi		come	1446	1446	yiki	241	j i ⁵⁵ k i ²⁴
+Ega		come	1446	1446	yiku	241	j i ⁵⁵ k ɯ ²²
+Tuolo		come	1446	1446	yuku	241	j ɯ ³³ k ɯ ⁵⁵
+Gongxing		die	1494	1494	Si	246	ɕ i ²²
+Jinman		die	1494	1494	Si	246	ɕ i ²²
+Mazhelong		die	1494	1494	Si	246	ɕ i ³³
+Dashi		die	1494	1494	Si	246	ɕ i ³³
+Zhoucheng		die	1494	1494	Si	246	ɕ i ³³
+Jinxing		die	1494	1494	Si	246	ɕ i ³³
+Tuolo		die	1494	1494	Si	246	ɕ i ³³
+Enqi		die	1494	1494	si	246	s i ²²
+Ega		die	1494	1494	si	246	s i ²²
+Gongxing		dog	2009	2009	qh~waN	247	qʰ w a ŋ ²²
+Jinman		dog	2009	2009	qh~o	247	qʰ õ ²²
+Mazhelong		dog	2009	2009	kh~waN	247	kʰ w a ŋ ³³
+Dashi		dog	2009	2009	kh~waN	247	kʰ w a ŋ ³³
+Zhoucheng		dog	2009	2009	kh~wa	247	kʰ w a ³³
+Jinxing		dog	2009	2009	kh~wa	247	kʰ w ɑ̃ ³³
+Tuolo		dog	2009	2009	qh~waN	247	qʰ w a ŋ ³³
+Enqi		dog	2009	2009	qh~wa	247	qʰ w a ²²
+Ega		dog	2009	2009	qh~wa	247	qʰ w a ²²
+Gongxing		drink	1401	1401	7oN	248	ʔ o ŋ ²²
+Jinman		drink	1401	1401	u	248	ɯ̃ ²²
+Mazhelong		drink	1401	1401	oN	248	o ŋ ³³
+Dashi		drink	1401	1401	3	248	ə̃ ³³
+Zhoucheng		drink	1401	1401	u	248	ɯ ³³
+Jinxing		drink	1401	1401	3	248	ə̃ ³³
+Tuolo		drink	1401	1401	u	248	ɯ̃ ³³
+Enqi		drink	1401	1401	u	248	ɯ ²²
+Ega		drink	1401	1401	u	248	ɯ̃ ²²
+Gongxing		dry	1398	1398	qaN	249	q a ŋ ⁵⁵
+Jinman		dry	1398	1398	qa	249	q ã ⁵⁵
+Mazhelong		dry	1398	1398	kaN	249	k a ŋ ⁵⁵
+Dashi		dry	1398	1398	ka	249	k ã ³⁵
+Zhoucheng		dry	1398	1398	ka	249	k a ³⁵
+Jinxing		dry	1398	1398	ka	249	k ɑ̃ ⁵⁵
+Tuolo		dry	1398	1398	qoN	249	q ɔ ŋ ⁵⁵
+Enqi		dry	1398	1398	qa	249	q a ²⁴
+Ega		dry	1398	1398	qo	249	q o ⁵⁵
+Gongxing		ear	1247	1247	yaNkh~waN	250	j a ŋ ²² kʰ w a ŋ ²²
+Jinman		ear	1247	1247	eCwe	252	ẽ ⁴² tɕ w ẽ ²²
+Mazhelong		ear	1247	1247	yEkEpyen	251	j ɛ ³³ k ɛ ³³ p j e n ²¹
+Dashi		ear	1247	1247	yentoN	253	j e n ³³ t o ŋ ³¹
+Zhoucheng		ear	1247	1247	5owto	254	ɲ o w ³³ t o ⁴²
+Jinxing		ear	1247	1247	yentukwa	255	j e n ³³ t ɯ ³¹ k w ɑ ⁵⁵
+Tuolo		ear	1247	1247	wenzyen	256	w e n ³³ z ɥ e n ³⁵
+Enqi		ear	1247	1247	Nucuqh~wa	258	ŋ u ²² ts u ²¹ qʰ w a ²⁴
+Ega		ear	1247	1247	yiCiy	257	j i ²² tɕ y j ²¹
+Gongxing		earth	1228	1228	ji	260	dʑ i ⁴²
+Jinman		earth	1228	1228	ji	260	dʑ i ⁴²
+Mazhelong		earth	1228	1228	ti	260	t i ²¹
+Dashi		earth	1228	1228	Ci	260	tɕ i ³¹
+Zhoucheng		earth	1228	1228	Ci	260	tɕ i ³¹
+Jinxing		earth	1228	1228	Ci	260	tɕ i ³¹
+Tuolo		earth	1228	1228	Zi	260	ʑ i ²¹
+Enqi		earth	1228	1228	ji	260	dʑ i ⁴³
+Ega		earth	1228	1228	Cipa	261	tɕ i ⁴² p a ²²
+Gongxing		eat	1336	1336	yu	262	j u ²⁴
+Jinman		eat	1336	1336	yi	262	j i ⁵⁵
+Mazhelong		eat	1336	1336	yi	262	j i ⁴⁴
+Dashi		eat	1336	1336	yu	262	j ɯ ⁴⁴
+Zhoucheng		eat	1336	1336	yu	262	j ɯ ⁴⁴
+Jinxing		eat	1336	1336	yu	262	j ɯ ⁴⁴
+Tuolo		eat	1336	1336	yu	262	j u ⁴²
+Enqi		eat	1336	1336	yu	262	j ɯ ⁵⁵
+Ega		eat	1336	1336	yi	262	j i ⁴⁴
+Gongxing		egg	744	744	sen	263	s e n ⁴²
+Jinman		egg	744	744	se	263	s ẽ ⁴²
+Mazhelong		egg	744	744	sE	263	s ɛ ⁴²
+Dashi		egg	744	744	sen	263	s e n ⁴²
+Zhoucheng		egg	744	744	se	263	s e ⁴²
+Jinxing		egg	744	744	sen	263	s e n ⁴²
+Tuolo		egg	744	744	sen	263	s e n ²¹
+Enqi		egg	744	744	sE	263	s ɛ ⁴³
+Ega		egg	744	744	sE	263	s ɛ ⁴²
+Gongxing		eye	1248	1248	wen	264	w e n ²²
+Jinman		eye	1248	1248	mi	264	m i ²²
+Mazhelong		eye	1248	1248	NwE	264	ŋ w ɛ ³³
+Dashi		eye	1248	1248	we	264	w ẽ ³³
+Zhoucheng		eye	1248	1248	we	264	w e ³³
+Jinxing		eye	1248	1248	we	264	w ẽ ³³
+Tuolo		eye	1248	1248	wen	264	w e n ³³
+Enqi		eye	1248	1248	Nwi	264	ŋ w i ²²
+Ega		eye	1248	1248	Nwi	264	ŋ w i ²²
+Gongxing		far	1406	1406	tyen	200	t ɥ e n ²²
+Jinman		far	1406	1406	tiy	200	t y j ²²
+Mazhelong		far	1406	1406	cwen	200	ts w e n ³³
+Dashi		far	1406	1406	twen	200	t w e n ³³
+Zhoucheng		far	1406	1406	twe	200	t w e ³³
+Jinxing		far	1406	1406	twen	200	t w e n ³³
+Tuolo		far	1406	1406	twe	200	t w e ³³
+Enqi		far	1406	1406	tyE	200	t ɥ ɛ ²²
+Ega		far	1406	1406	ti	200	t i ²²
+Gongxing		fat	323	323	tSi	265	ʈʂ i ⁵⁵
+Jinman		fat	323	323	tSi	265	ʈʂ i ⁵⁵
+Mazhelong		fat	323	323	ci	265	ts i ⁵⁵
+Dashi		fat	323	323	tSi	265	ʈʂ i ⁵⁵
+Zhoucheng		fat	323	323	ci	266	ts i ³⁵
+Jinxing		fat	323	323	ci	265	ts i ⁵⁵
+Tuolo		fat	323	323	tSi	265	ʈʂ i ⁵⁵
+Enqi		fat	323	323	ci	265	ts i ²⁴
+Ega		fat	323	323	cE	265	ts ɛ ⁵⁵
+Gongxing		feather	1201	1201	mi	267	m i ¹²
+Jinman		feather	1201	1201	mye	267	m j e ²¹
+Mazhelong		feather	1201	1201	me	267	m e ²¹
+Dashi		feather	1201	1201	ma	267	m a ²¹
+Zhoucheng		feather	1201	1201	ma	267	m a ²¹
+Jinxing		feather	1201	1201	ma	267	m ɑ̃ ²¹
+Tuolo		feather	1201	1201	me	267	m e ³⁵
+Enqi		feather	1201	1201	myE	267	m j ɛ ²¹
+Ega		feather	1201	1201	mi	267	m i ²¹
+Gongxing		fire	221	221	xwE	268	x w ɛ ²²
+Jinman		fire	221	221	fi	268	f i ²²
+Mazhelong		fire	221	221	fi	268	f i ³³
+Dashi		fire	221	221	xwi	268	x w i ³³
+Zhoucheng		fire	221	221	xwi	268	x w i ³³
+Jinxing		fire	221	221	xwi	268	x w i ³³
+Tuolo		fire	221	221	xwe	268	x w e ³³
+Enqi		fire	221	221	xwi	268	x w i ²²
+Ega		fire	221	221	fi	268	f i ²²
+Gongxing		fish	227	227	No	269	ŋ o ⁵⁵
+Jinman		fish	227	227	Nu	269	ŋ u ⁵⁵
+Mazhelong		fish	227	227	oN	269	o ŋ ⁵⁵
+Dashi		fish	227	227	wo	269	w ɤ̃ ³⁵
+Zhoucheng		fish	227	227	No	269	ŋ o ³⁵
+Jinxing		fish	227	227		269	m̩ ⁵⁵
+Tuolo		fish	227	227	No	269	ŋ ɤ ⁵⁵
+Enqi		fish	227	227	No	269	ŋ o ²⁴
+Ega		fish	227	227	Nu	269	ŋ u ⁵⁵
+Gongxing		fly	1441	1441	pfu	270	pf u ⁵⁵
+Jinman		fly	1441	1441	fi	270	f i ⁵⁵
+Mazhelong		fly	1441	1441	pi	270	p i ⁵⁵
+Dashi		fly	1441	1441	fo	270	f ɤ ³⁵
+Zhoucheng		fly	1441	1441	fo	270	f ɤ ³⁵
+Jinxing		fly	1441	1441	fo	270	f ɤ ⁵⁵
+Tuolo		fly	1441	1441	f3	270	f ə˞ ⁵⁵
+Enqi		fly	1441	1441	fE	270	f ɛ ²⁴
+Ega		fly	1441	1441	xwE	270	x w ɛ ⁵⁵
+Gongxing		foot	1301	1301	ku	271	k u ²⁴
+Jinman		foot	1301	1301	ko	271	k o ⁵⁵
+Mazhelong		foot	1301	1301	ko	271	k o ⁴⁴
+Dashi		foot	1301	1301	kow	271	k o w ⁴⁴
+Zhoucheng		foot	1301	1301	ko	271	k o ⁴⁴
+Jinxing		foot	1301	1301	kow	271	k o w ⁴⁴
+Tuolo		foot	1301	1301	ko	271	k o ⁴²
+Enqi		foot	1301	1301	ku	271	k u ⁵⁵
+Ega		foot	1301	1301	ku	271	k u ⁴⁴
+Gongxing		full	1429	1429	mi	272	m i ²²
+Jinman		full	1429	1429	me	272	m e ²²
+Mazhelong		full	1429	1429	mE	272	m ɛ ³³
+Dashi		full	1429	1429	ma	272	m a ³³
+Zhoucheng		full	1429	1429	ma	272	m a ³³
+Jinxing		full	1429	1429	ma	272	m ɑ̃ ³³
+Tuolo		full	1429	1429	me	272	m e ³³
+Enqi		full	1429	1429	myE	272	m j ɛ ²²
+Ega		full	1429	1429	mi	272	m i ²²
+Gongxing		give	1447	1447	zi	273	z i ⁴²
+Jinman		give	1447	1447	zi	273	z i ⁴²
+Mazhelong		give	1447	1447	z3u	273	z əu ²¹
+Dashi		give	1447	1447	zi	273	z i ²¹
+Zhoucheng		give	1447	1447	zu	273	z ɯ ⁴²
+Jinxing		give	1447	1447	si	273	s i ³¹
+Tuolo		give	1447	1447	zi	273	z i ²¹
+Enqi		give	1447	1447	ci	273	ts i ⁴³
+Ega		give	1447	1447	zi	273	z i ⁴²
+Gongxing		good	1035	1035	can	274	dz a n ¹²
+Jinman		good	1035	1035	xo	275	x o ²²
+Mazhelong		good	1035	1035	x3	275	x ə ³³
+Dashi		good	1035	1035	xu	275	x u ³³
+Zhoucheng		good	1035	1035	xu	275	x u ³³
+Jinxing		good	1035	1035	xu	275	x u ³³
+Tuolo		good	1035	1035	dyaN	274	d j a ŋ ³⁵
+Enqi		good	1035	1035	dyE	274	d j æ ²¹
+Ega		good	1035	1035	xo	275	x o ⁵⁵
+Dashi		good	1035	1035	Ch~o	274	tɕʰ õ ⁴⁴
+Zhoucheng		good	1035	1035	Ch~ow	274	tɕʰ o w ⁵⁵
+Jinxing		good	1035	1035	Ch~o	274	tɕʰ õ ⁴⁴
+Gongxing		green	1425	1425	ch~an	276	tsʰ a n ²⁴
+Jinman		green	1425	1425	Ch~a	276	tɕʰ ã ⁵⁵
+Mazhelong		green	1425	1425	lo	277	l ɤ ⁴⁴
+Dashi		green	1425	1425	lo	277	l o ⁴⁴
+Zhoucheng		green	1425	1425	lo	277	l ɤ ⁴⁴
+Jinxing		green	1425	1425	lu	277	l u ⁴⁴
+Tuolo		green	1425	1425	Ch~aN	276	tɕʰ a ŋ ²¹
+Enqi		green	1425	1425	Ch~E	276	tɕʰ æ ²⁴
+Ega		green	1425	1425	Ch~a	276	tɕʰ a ⁴²
+Gongxing		hair	1040	1040	dimyE	278	d i ²⁴ m j ɛ ¹²
+Jinman		hair	1040	1040	teme	278	ʈ e ²¹ m e ⁵⁵
+Mazhelong		hair	1040	1040	tEmE	278	t ɛ ²¹ m ɛ ⁵⁵
+Dashi		hair	1040	1040	Sa	279	ɕ a ⁴⁴
+Zhoucheng		hair	1040	1040	tuma	278	t ɯ ²¹ m a ³⁵
+Jinxing		hair	1040	1040	So	279	ɕ ɔ ⁴⁴
+Tuolo		hair	1040	1040	dyume	278	d j ɯ ³⁵ m e ⁵⁵
+Enqi		hair	1040	1040	tyumyE	278	t j ɯ ²¹ m j ɛ ²⁴
+Ega		hair	1040	1040	timi	278	t i ²¹ m i ⁵⁵
+Jinxing		hair	1040	1040	t3ma	278	t ə ²¹ m ã ⁵⁵
+Gongxing		hand	1277	1277	Si	280	ʂ i ²²
+Jinman		hand	1277	1277	Si	280	ɕ i ²²
+Mazhelong		hand	1277	1277	s3u	280	s əu ³³
+Dashi		hand	1277	1277	Sh~u	280	ʂʰ ɯ ³³
+Zhoucheng		hand	1277	1277	su	280	s ɯ ³³
+Jinxing		hand	1277	1277	su	280	s ɯ ³³
+Tuolo		hand	1277	1277	Su	280	ɕ ɯ ³³
+Enqi		hand	1277	1277	Su	280	ɕ ɯ ²²
+Ega		hand	1277	1277	Si	280	ɕ i ²²
+Gongxing		head	1256	1256	di	281	d i ¹²
+Jinman		head	1256	1256	to	281	ʈ o ²²
+Mazhelong		head	1256	1256	tapo	282	t a ⁴² p o ²¹
+Dashi		head	1256	1256	ti	281	t i ⁴²
+Zhoucheng		head	1256	1256	tupo	282	t ɯ ³¹ p o ²¹
+Jinxing		head	1256	1256	t3	281	t ə ³¹
+Tuolo		head	1256	1256	dyu	281	d j ɯ ³⁵
+Enqi		head	1256	1256	tiw	281	t i w ²¹
+Ega		head	1256	1256	Cuqa	283	tɕ u ²² q a ⁵⁵
+Gongxing		hear	1408	1408	Ch~yan	284	tɕʰ j a n ⁵⁵
+Jinman		hear	1408	1408	Ch~ya	284	tɕʰ j ã ⁵⁵
+Mazhelong		hear	1408	1408	Ch~3	284	tɕʰ ə̃˞ ⁵⁵
+Dashi		hear	1408	1408	Ch~y3	284	tɕʰ j ə̃˞ ⁵⁵
+Zhoucheng		hear	1408	1408	Ch~yE	284	tɕʰ j ɛ ⁵⁵
+Jinxing		hear	1408	1408	Ch~yant3	285	tɕʰ j a n ⁵⁵ t ə ³³
+Tuolo		hear	1408	1408	Ch~yaN	284	tɕʰ j a ŋ ⁵⁵
+Enqi		hear	1408	1408	Ch~yE	284	tɕʰ j æ ²⁴
+Ega		hear	1408	1408	Ch~ya	284	tɕʰ j a ⁵⁵
+Gongxing		heart	1223	1223	Sin	4	ɕ i n ⁵⁵
+Jinman		heart	1223	1223	se	4	s ẽ ⁵⁵
+Mazhelong		heart	1223	1223	Sen	4	ɕ e n ⁵⁵
+Dashi		heart	1223	1223	Sen	4	ɕ e n ⁵⁵
+Zhoucheng		heart	1223	1223	Si	4	ɕ i ³⁵
+Jinxing		heart	1223	1223	Sen	4	ɕ e n ⁵⁵
+Tuolo		heart	1223	1223	Sen	4	ɕ e n ⁵⁵
+Enqi		heart	1223	1223	si	4	s i ²⁴
+Ega		heart	1223	1223	sE	4	s ɛ ⁵⁵
+Gongxing		heavy	1210	1210	coN	204	dz o ŋ ²²
+Jinman		heavy	1210	1210	jo	204	dʑ õ ²²
+Mazhelong		heavy	1210	1210	co	204	ts õ ²¹
+Dashi		heavy	1210	1210	tSo	204	ʈʂ õ ³³
+Zhoucheng		heavy	1210	1210	co	204	ts ɤ ³³
+Jinxing		heavy	1210	1210	co	204	ts ɤ̃ ³³
+Tuolo		heavy	1210	1210	ZoN	204	ʐ ɤ ŋ ³³
+Enqi		heavy	1210	1210	dZo	204	ɖʐ o ²²
+Ega		heavy	1210	1210	jo	204	dʑ o ²²
+Gongxing		horn	1393	1393	qwa	5	q w a ²⁴
+Jinman		horn	1393	1393	qo	5	q o ⁵⁵
+Mazhelong		horn	1393	1393	koN	5	k o ŋ ⁴⁴
+Dashi		horn	1393	1393	ko	5	k o ⁴⁴
+Zhoucheng		horn	1393	1393	ko	5	k ɤ ⁴⁴
+Jinxing		horn	1393	1393	ko	5	k ɤ ⁴⁴
+Tuolo		horn	1393	1393	qoqa	6	q o ⁴² q a ²¹
+Enqi		horn	1393	1393	qo	5	q o ⁵⁵
+Ega		horn	1393	1393	qo	5	q o ⁴⁴
+Gongxing		kill	1417	1417	Ga	8	χ a ²⁴
+Jinman		kill	1417	1417	Sa	8	ɕ a ⁵⁵
+Mazhelong		kill	1417	1417	Sa	8	ɕ a ⁴⁴
+Dashi		kill	1417	1417	Sh~a	8	ɕʰ a ⁴⁴
+Zhoucheng		kill	1417	1417	Sa	8	ɕ a ⁴⁴
+Jinxing		kill	1417	1417	Sa	8	ɕ ɑ ⁴⁴
+Tuolo		kill	1417	1417	So	8	ɕ ɔ ⁴²
+Enqi		kill	1417	1417	xa	8	x a ⁵⁵
+Ega		kill	1417	1417	So	8	ɕ o ⁴⁴
+Gongxing		knee	1371	1371	qaciqaqa	11	q a ⁵⁵ ts i ²² q a ⁵⁵ q a ⁴²
+Jinman		knee	1371	1371	koce	9	k o ⁴⁴ ts e ⁴⁴
+Mazhelong		knee	1371	1371	kocEt3u	12	k o ⁴⁴ ts ɛ ⁴⁴ t əu ²¹
+Dashi		knee	1371	1371	kh~watyowce	14	kʰ w a ³¹ t j o w ³¹ ts e ⁴⁴
+Zhoucheng		knee	1371	1371	kh~watetu	12	kʰ w a ³³ t e ⁵⁵ t ɯ ²¹
+Jinxing		knee	1371	1371	kh~waciteko	13	kʰ w ɑ ³¹ ts ɿ ³³ t e ⁴⁴ k ɔ ³³
+Tuolo		knee	1371	1371	qh~oNmoqo	15	qʰ o ŋ ⁵⁵ m o ⁴² q ɔ ⁴²
+Enqi		knee	1371	1371	qh~acoqa	10	qʰ a ⁴³ ts o ²¹ q a ⁵⁵
+Ega		knee	1371	1371	qh~ocuqo	10	qʰ o ⁴² ts u ²¹ q o ⁵⁵
+Gongxing		know	1410	1410	tSich~wa	16	ʈʂ i ⁴² tsʰ w a ⁵⁵
+Jinman		know	1410	1410	si	17	s ɿ ⁴⁴
+Mazhelong		know	1410	1410	su	17	s ɯ ⁴⁴
+Dashi		know	1410	1410	se	17	s e ³³
+Zhoucheng		know	1410	1410	zutu	18	z ɯ ⁴⁴ t ɯ ⁴⁴
+Jinxing		know	1410	1410	sen	17	s e n ³³
+Tuolo		know	1410	1410	tSotSh~o	16	ʈʂ ɤ ⁵⁵ ʈʂʰ ɤ ²¹
+Enqi		know	1410	1410	swE	17	s w ɛ ²²
+Ega		know	1410	1410	si	17	s i ⁴⁴
+Gongxing		leaf	628	628	sE	19	s ɛ ²⁴
+Jinman		leaf	628	628	S3	19	ʂ ə˞ ⁵⁵
+Mazhelong		leaf	628	628	sE	19	s ɛ ⁴⁴
+Dashi		leaf	628	628	Sh~e	19	ʂʰ e ⁴⁴
+Zhoucheng		leaf	628	628	se	19	s e ⁴⁴
+Jinxing		leaf	628	628	se	19	s e ⁴⁴
+Tuolo		leaf	628	628	dyumuSi	20	d j ɯ ²¹ m ɯ ⁴² ɕ i ⁴²
+Enqi		leaf	628	628	SE	19	ɕ ɛ ⁵⁵
+Ega		leaf	628	628	sE	19	s ɛ ⁴⁴
+Gongxing		lie	1411	1411	nen	21	n e n ¹²
+Jinman		lie	1411	1411	lo	22	l o ²¹
+Mazhelong		lie	1411	1411	mi	23	m i ⁵⁵
+Dashi		lie	1411	1411	tSh~3	24	ʈʂʰ ə̃˞ ³³
+Zhoucheng		lie	1411	1411	ch~E	24	tsʰ ɛ ³³
+Jinxing		lie	1411	1411	ch~an	24	tsʰ a n ³³
+Tuolo		lie	1411	1411	Za	25	ʐ a ⁴²
+Enqi		lie	1411	1411	toCi	26	t o ²⁴ tɕ i ²²
+Ega		lie	1411	1411	lo	22	l o ²¹
+Gongxing		liver	1224	1224	qaN	27	q a ŋ ⁵⁵
+Jinman		liver	1224	1224	qa	27	q ã ⁵⁵
+Mazhelong		liver	1224	1224	kaN	27	k a ŋ ⁵⁵
+Dashi		liver	1224	1224	ka	27	k ã ³⁵
+Zhoucheng		liver	1224	1224	ka	27	k a ³⁵
+Jinxing		liver	1224	1224	ka	27	k ɑ ⁵⁵
+Tuolo		liver	1224	1224	qoN	27	q ɔ ŋ ⁵⁵
+Enqi		liver	1224	1224	qa	27	q a ²⁴
+Ega		liver	1224	1224	qo	27	q o ⁵⁵
+Gongxing		long	1203	1203	jow	28	dʑ o w ¹²
+Jinman		long	1203	1203	to	28	ʈ õ ²¹
+Mazhelong		long	1203	1203	coN	28	ts o ŋ ²¹
+Dashi		long	1203	1203	tSo	28	ʈʂ õ ²¹
+Zhoucheng		long	1203	1203	cow	28	ts o w ²¹
+Jinxing		long	1203	1203	co	28	ts õ ²¹
+Tuolo		long	1203	1203	do	28	d ɤ ³⁵
+Enqi		long	1203	1203	tyo	28	t j o ²¹
+Ega		long	1203	1203	Cu	28	tɕ u ²¹
+Gongxing		louse	1392	1392	Si	29	ɕ i ²⁴
+Jinman		louse	1392	1392	Si	29	ɕ i ⁵⁵
+Mazhelong		louse	1392	1392	Si	29	ɕ i ⁴⁴
+Dashi		louse	1392	1392	Si	29	ɕ i ³³
+Zhoucheng		louse	1392	1392	Se	29	ɕ e ⁴⁴
+Jinxing		louse	1392	1392	Si	29	ɕ i ⁴⁴
+Tuolo		louse	1392	1392	Si	29	ɕ i ⁴²
+Enqi		louse	1392	1392	Si	29	ɕ i ⁵⁵
+Ega		louse	1392	1392	Si	29	ɕ i ⁴⁴
+Gongxing		man	1554	1554	ci	30	ts i ²²
+Jinman		man	1554	1554	daxoci	32	d a ⁵³ x õ ⁵⁵ ts i ²²
+Mazhelong		man	1554	1554	ci	30	ts i ³³
+Dashi		man	1554	1554	ci	30	ts i ³³
+Zhoucheng		man	1554	1554	ci	30	ts i ⁴⁴
+Jinxing		man	1554	1554	ci	30	ts i ³³
+Tuolo		man	1554	1554	Sath~yopo	34	ɕ a ⁵⁵ tʰ j o ²¹ p o ⁵⁵
+Enqi		man	1554	1554	daxo	31	d a ⁴³ x o ²⁴
+Ega		man	1554	1554	doxoci	32	d o ⁴² x õ ⁵⁵ ts i ²²
+Gongxing		many	1198	1198	ti	35	t i ⁵⁵
+Jinman		many	1198	1198	ti	35	t i ⁵⁵
+Mazhelong		many	1198	1198	ti	35	t i ⁵⁵
+Dashi		many	1198	1198	Ci	35	tɕ i ³⁵
+Zhoucheng		many	1198	1198	Ci	35	tɕ i ³⁵
+Jinxing		many	1198	1198	Ci	35	tɕ i ⁵⁵
+Tuolo		many	1198	1198	Cu	35	tɕ ɯ ⁵⁵
+Enqi		many	1198	1198	ti	35	t i ²⁴
+Ega		many	1198	1198	ti	35	t i ⁵⁵
+Gongxing		meat	634	634	qE	36	ɢ æ ¹²
+Jinman		meat	634	634	qa	36	q a ²¹
+Mazhelong		meat	634	634	k3	36	k ə˞ ²¹
+Dashi		meat	634	634	k3	36	k ə˞ ²¹
+Zhoucheng		meat	634	634	kE	36	k ɛ ²¹
+Jinxing		meat	634	634	ka	36	k a ²¹
+Tuolo		meat	634	634	Ga	36	ʁ a ³⁵
+Enqi		meat	634	634	qE	36	q æ ²¹
+Ega		meat	634	634	qa	36	q a ²¹
+Gongxing		moon	1313	1313	5iwaN	37	ɲ i ²⁴ w a ŋ ⁵⁵
+Jinman		moon	1313	1313	5oNo	37	ɲ o ⁵⁵ ŋ õ ⁵⁵
+Mazhelong		moon	1313	1313	myenNwa	37	m j e n ⁵⁵ ŋ w a ⁴⁴
+Dashi		moon	1313	1313	miwa	37	m i ⁵⁵ w ã ⁴⁴
+Zhoucheng		moon	1313	1313	miwa	37	m i ³⁵ w a ⁴⁴
+Jinxing		moon	1313	1313	miwa	37	m i ⁵⁵ w ɑ̃ ⁵⁵
+Tuolo		moon	1313	1313	yenwo	37	j e n ⁵⁵ w o ⁴²
+Enqi		moon	1313	1313	myEwa	37	m j ɛ ²⁴ w a ⁵⁵
+Ega		moon	1313	1313	5aNwa	37	ɲ a ⁵⁵ ŋ w a ⁴⁴
+Gongxing		mountain	639	639	swa	38	s w a ⁴²
+Jinman		mountain	639	639	S3	38	ʂ ə̃˞ ⁵⁵
+Mazhelong		mountain	639	639	sen	38	s e n ⁵⁵
+Dashi		mountain	639	639	So	38	ʂ o ⁴²
+Zhoucheng		mountain	639	639	so	38	s ɤ ⁵³
+Jinxing		mountain	639	639	so	38	s ɤ̃ ⁴²
+Tuolo		mountain	639	639	Sen	38	ɕ e n ⁵⁵
+Enqi		mountain	639	639	So	38	ɕ o ⁴³
+Ega		mountain	639	639	sE	38	s ɛ ⁵⁵
+Gongxing		mouth	674	674	cuqwE	40	ts u ²² q w ɛ ⁵⁵
+Jinman		mouth	674	674	Cukwe	40	tɕ u ²² k w e ⁵⁵
+Mazhelong		mouth	674	674	cwi	42	ts w i ³³
+Dashi		mouth	674	674	cwi	39	ts w i ³³
+Zhoucheng		mouth	674	674	Ciko	40	tɕ y ³³ k ɤ ³³
+Jinxing		mouth	674	674	Ciykwe	40	tɕ y j ³³ k w e ⁵⁵
+Tuolo		mouth	674	674	Cuqwa	40	tɕ u ³³ q w a ⁵⁵
+Enqi		mouth	674	674	Cuqwa	40	tɕ u ²² q w a ²⁴
+Ega		mouth	674	674	Cukwaqo	41	tɕ u ²² k w a ⁵⁵ q o ⁴²
+Gongxing		name	1405	1405	5wE	43	ɲ w ɛ ⁵⁵
+Jinman		name	1405	1405	5o	43	ɲ o ⁵⁵
+Mazhelong		name	1405	1405	my3	43	m j ə˞ ⁵⁵
+Dashi		name	1405	1405	my3	43	m j ə˞ ³⁵
+Zhoucheng		name	1405	1405	myE	43	m j ɛ ³⁵
+Jinxing		name	1405	1405	myan	43	m j a n ⁵⁵
+Tuolo		name	1405	1405	5wa	43	ɲ w a ⁵⁵
+Enqi		name	1405	1405	myE	43	m j æ ²⁴
+Ega		name	1405	1405	5ya	43	ɲ ɥ a ⁵⁵
+Gongxing		near	1942	1942	jen	205	dʑ e n ²²
+Jinman		near	1942	1942	ch~o	205	tsʰ o ⁵⁵
+Mazhelong		near	1942	1942	Cen	205	tɕ e n ³³
+Dashi		near	1942	1942	Cen	205	tɕ e n ³³
+Zhoucheng		near	1942	1942	Ce	205	tɕ e ³³
+Jinxing		near	1942	1942	Cen	205	tɕ e n ³³
+Tuolo		near	1942	1942	yen	206	j e n ³³
+Enqi		near	1942	1942	Ci	205	tɕ i ²²
+Ega		near	1942	1942	ch~o	205	tsʰ o ⁵⁵
+Gongxing		neck	1333	1333	qoNnoN	44	q o ŋ ⁵⁵ n o ŋ ⁴²
+Jinman		neck	1333	1333	qoteme	46	q o ⁴² t e ³³ m e ⁴²
+Mazhelong		neck	1333	1333	kotE	45	k ɤ ⁴² t ɛ ⁵⁵
+Dashi		neck	1333	1333	my3th~o	49	m j ə˞ ⁴² tʰ õ ⁵⁵
+Zhoucheng		neck	1333	1333	pociku	50	p o ³⁵ ts ɿ ³³ k u ³⁵
+Jinxing		neck	1333	1333	komici	48	k ɤ ⁴² m i ⁴² ts ɿ ³³
+Tuolo		neck	1333	1333	qoNmo	47	q o ŋ ²¹ m o ²¹
+Enqi		neck	1333	1333	qotE	45	q o ⁴³ t æ ⁵⁵
+Ega		neck	1333	1333	qotEme	46	q o ⁴² t ɛ ⁴⁴ m e ⁴²
+Dashi		neck	1333	1333	3my3	51	ə˞ ⁴⁴ m j ə˞ ⁴²
+Gongxing		new	1231	1231	Sen	52	ɕ e n ⁵⁵
+Jinman		new	1231	1231	se	52	s ẽ ⁵⁵
+Mazhelong		new	1231	1231	Sen	52	ɕ e n ⁵⁵
+Dashi		new	1231	1231	Sh~en	52	ɕʰ e n ⁵⁵
+Zhoucheng		new	1231	1231	Si	52	ɕ i ³⁵
+Jinxing		new	1231	1231	Sen	52	ɕ e n ⁵⁵
+Tuolo		new	1231	1231	Sen	52	ɕ e n ⁵⁵
+Enqi		new	1231	1231	si	52	s i ²⁴
+Ega		new	1231	1231	sE	52	s ɛ ⁵⁵
+Gongxing		night	1233	1233	yaxu	53	j a ⁵⁵ x ɯ ⁴²
+Jinman		night	1233	1233	Saxu	54	ɕ a ⁵⁵ x ɯ̃ ⁴²
+Mazhelong		night	1233	1233	S3ph~o	55	ɕ ə˞ ⁵⁵ pʰ o ⁵⁵
+Dashi		night	1233	1233	pek3	56	p e ³³ k ə˞ ⁴²
+Zhoucheng		night	1233	1233	pekE	56	p e ³³ k ɛ ⁴²
+Jinxing		night	1233	1233	peka	56	p ẽ ⁵⁵ k a ⁴²
+Tuolo		night	1233	1233	pECa	56	p ɛ ³³ tɕ a ²¹
+Enqi		night	1233	1233	Saxu	54	ɕ a ²⁴ x ɯ ²²
+Ega		night	1233	1233	5iu	60	ɲ i ⁴⁴ u ²²
+Tuolo		night	1233	1233	xaxu	54	x a ⁴² x ɯ ²¹
+Gongxing		nose	1221	1221	tityi	62	t y ²¹ t j y ²⁴
+Jinman		nose	1221	1221	qh~wetyu	63	qʰ w e ⁴² t j ɯ ²¹
+Mazhelong		nose	1221	1221	ph~yen	61	pʰ j e n ⁴²
+Dashi		nose	1221	1221	woti3	65	w ɤ ⁴² t iə ²¹
+Zhoucheng		nose	1221	1221	pifoci	66	p i ³¹ f ɤ ⁴⁴ ts ɿ ⁴⁴
+Jinxing		nose	1221	1221	pyen	61	p j e n ²¹
+Tuolo		nose	1221	1221	v3dyu	65	v ə˞ ⁴² d j ɯ ³⁵
+Enqi		nose	1221	1221	coqh~otyu	68	ts o ²¹ qʰ o ²² t j ɯ ²¹
+Ega		nose	1221	1221	kh~wECiy	64	kʰ w ɛ ⁴² tɕ y j ²¹
+Gongxing		not	1240	1240	E	69	ɛ ⁵⁵
+Jinman		not	1240	1240	a	70	a ⁴²
+Mazhelong		not	1240	1240	amow	71	a ³¹ m o w ³³
+Dashi		not	1240	1240	maxa	74	m a ³³ x a ⁵⁵
+Zhoucheng		not	1240	1240	mo	73	m o ³³
+Jinxing		not	1240	1240	xa	72	ɣ a ³⁵
+Tuolo		not	1240	1240	e	69	e ³⁵
+Enqi		not	1240	1240	a	70	a ⁴³
+Ega		not	1240	1240	a	70	a ⁴²
+Mazhelong		not	1240	1240	pu	75	p u ²¹
+Dashi		not	1240	1240	axe	71	a ⁴² ɣ ẽ ⁵⁵
+Tuolo		not	1240	1240	a	70	a ²¹
+Gongxing		one	1493	1493	a	76	a ⁵⁵
+Jinman		one	1493	1493	a	76	a ⁴²
+Mazhelong		one	1493	1493	a	76	a ²¹
+Dashi		one	1493	1493	yi	77	j i ⁴⁴
+Zhoucheng		one	1493	1493	a	76	a ³¹
+Jinxing		one	1493	1493	a	76	a ⁴²
+Tuolo		one	1493	1493	a	76	a ²¹
+Enqi		one	1493	1493	yi	77	j i ⁵⁵
+Ega		one	1493	1493	a	76	a ⁴²
+Gongxing		one	1493	1493	yi	77	j i ²⁴
+Mazhelong		one	1493	1493	yi	77	j i ⁴²
+Zhoucheng		one	1493	1493	yi	77	j i ⁴⁴
+Jinxing		one	1493	1493	yi	77	j i ⁴⁴
+Tuolo		one	1493	1493	yi	77	j i ⁴²
+Enqi		one	1493	1493	a	76	a ⁴³
+Ega		one	1493	1493	yi	77	j i ⁵⁵
+Gongxing		person	683	683	5i	78	ɲ i ¹²
+Jinman		person	683	683	5i	78	ɲ i ²¹
+Mazhelong		person	683	683	5en	78	ɲ e n ²¹
+Dashi		person	683	683	yen	78	j e n ²¹
+Zhoucheng		person	683	683	5i	78	ɲ i ²¹
+Jinxing		person	683	683	yen	78	j e n ²¹
+Tuolo		person	683	683	yen	78	j e n ³⁵
+Enqi		person	683	683	5iqa	79	ɲ i ²¹ q a ²⁴
+Ega		person	683	683	5i	78	ɲ i ²¹
+Gongxing		rain	658	658	Zi	80	ʐ i ²²
+Jinman		rain	658	658	Z3wo	81	ʐ ə˞ ²² w o ⁴²
+Mazhelong		rain	658	658	yu	82	j u ⁵⁵
+Dashi		rain	658	658	wo	82	w ɤ ³³
+Zhoucheng		rain	658	658	owoSi	83	o w ⁴² ɤ ³³ ɕ i ⁴⁴
+Jinxing		rain	658	658	o	82	ɤ ³³
+Tuolo		rain	658	658	Zi	80	ʐ i ³³
+Enqi		rain	658	658	zi	80	z i ²²
+Ega		rain	658	658	zEu	81	z ɛ ²² u ⁴²
+Enqi		rain	658	658	u	82	u ²¹
+Gongxing		red	156	156	th~E	84	tʰ æ ²⁴
+Jinman		red	156	156	th~a	84	ʈʰ a ⁵⁵
+Mazhelong		red	156	156	xoN	85	x o ŋ ³³
+Dashi		red	156	156	tSh~3	84	ʈʂʰ ə˞ ⁴⁴
+Zhoucheng		red	156	156	ch~E	84	tsʰ ɛ ⁴⁴
+Jinxing		red	156	156	ch~a	84	tsʰ a ⁴⁴
+Tuolo		red	156	156	th~a	84	tʰ a ⁴²
+Enqi		red	156	156	th~yE	84	tʰ j æ ⁵⁵
+Ega		red	156	156	Ch~a	84	tɕʰ a ⁴⁴
+Gongxing		road	667	667	th~i	86	tʰ y ²²
+Jinman		road	667	667	th~u	86	ʈʰ u ²²
+Mazhelong		road	667	667	th~3u	86	tʰ əu ³³
+Dashi		road	667	667	th~u	86	tʰ u ³³
+Zhoucheng		road	667	667	th~o	86	tʰ o ³³
+Jinxing		road	667	667	th~u	86	tʰ u ³³
+Tuolo		road	667	667	th~o	86	tʰ ɤ ³³
+Enqi		road	667	667	th~iw	86	tʰ i w ²²
+Ega		road	667	667	Ciw	86	tɕ i w ²²
+Gongxing		root	670	670	tE	87	t ɛ ²⁴
+Jinman		root	670	670	me	89	m e ⁴²
+Mazhelong		root	670	670	co	87	ts o ³³
+Dashi		root	670	670	te	87	t e ⁴⁴
+Zhoucheng		root	670	670	mi	89	m i ⁴⁴
+Jinxing		root	670	670	te	87	t e ⁴⁴
+Tuolo		root	670	670	mE	89	m ɛ ²¹
+Enqi		root	670	670	tE	87	t ɛ ⁵⁵
+Ega		root	670	670	mE	89	m ɛ ⁴²
+Jinman		root	670	670	te	87	t e ⁴²
+Dashi		root	670	670	mi	89	m i ⁴⁴
+Enqi		root	670	670	mE	89	m ɛ ⁴³
+Ega		root	670	670	tE	87	t ɛ ⁴²
+Gongxing		round	1395	1395	wen	90	w e n ¹²
+Jinman		round	1395	1395	Nwe	90	ŋ w e ²¹
+Mazhelong		round	1395	1395	xen	90	ɣ e n ²¹
+Dashi		round	1395	1395	we	90	w ẽ ³¹
+Zhoucheng		round	1395	1395	we	90	w e ²¹
+Jinxing		round	1395	1395	we	90	w ẽ ²¹
+Tuolo		round	1395	1395	wen	90	w e n ³⁵
+Enqi		round	1395	1395	GwE	90	ʁ w ɛ ²¹
+Ega		round	1395	1395	kh~wE	91	kʰ w ɛ ⁴⁴
+Gongxing		salt	1274	1274	Cwen	207	tɕ w e n ⁵⁵
+Jinman		salt	1274	1274	cwe	207	ts w ẽ ⁵⁵
+Mazhelong		salt	1274	1274	ch~oN	207	tsʰ o ŋ ²¹
+Dashi		salt	1274	1274	pye	207	p j ẽ ³⁵
+Zhoucheng		salt	1274	1274	pi	207	p i ³⁵
+Jinxing		salt	1274	1274	pyen	207	p j e n ⁵⁵
+Tuolo		salt	1274	1274	Cwen	207	tɕ w e n ⁵⁵
+Enqi		salt	1274	1274	cwE	207	ts w ɛ ²⁴
+Ega		salt	1274	1274	cwE	207	ts w ɛ ⁵⁵
+Gongxing		sand	671	671	swa	92	s w a ⁵⁵
+Jinman		sand	671	671	So	92	ɕ o ⁵⁵
+Mazhelong		sand	671	671	sa	92	s a ⁵⁵
+Dashi		sand	671	671	Sh~ow	92	ʂʰ o w ⁵⁵
+Zhoucheng		sand	671	671	so	92	s o ⁵⁵
+Jinxing		sand	671	671	sow	92	s o w ⁵⁵
+Tuolo		sand	671	671	Sw3	92	ɕ w ɨ ⁵⁵
+Enqi		sand	671	671	So	92	ɕ o ²⁴
+Ega		sand	671	671	Somi	93	ɕ o ⁵⁵ m i ²²
+Gongxing		say	1458	1458	cu	94	dz u ²¹
+Mazhelong		say	1458	1458	swa	95	s w a ⁴⁴
+Dashi		say	1458	1458	CaN	96	tɕ a ŋ ²¹
+Zhoucheng		say	1458	1458	swa	96	s w a ⁴⁴
+Jinxing		say	1458	1458	swa	95	s w ɑ ⁴⁴
+Tuolo		say	1458	1458	zu	94	z u ⁴²
+Enqi		say	1458	1458	cu	94	ts u ²¹
+Ega		say	1458	1458	co	94	ts o ⁴²
+Tuolo		say	1458	1458	swa	96	s w a ⁴²
+Gongxing		see	1409	1409	enqen	97	e n ²² q e n ⁴²
+Jinman		see	1409	1409	etu	99	e ²² t ɯ ⁴⁴
+Mazhelong		see	1409	1409	xakE	102	x ã ⁵⁵ k ɛ ⁴²
+Dashi		see	1409	1409	aNke	97	a ŋ ³³ k e ³¹
+Zhoucheng		see	1409	1409	atu	99	a ³³ t ɯ ⁴⁴
+Jinxing		see	1409	1409	xa	101	x ɑ̃ ⁵⁵
+Tuolo		see	1409	1409	enqE	98	e n ³³ q ɛ ²¹
+Enqi		see	1409	1409	Etula	100	ɛ ²² t ɯ ⁵⁵ l a ²²
+Ega		see	1409	1409	etu	99	e ²² t ɯ ⁴⁴
+Gongxing		seed	714	714	coN	103	ts o ŋ ²²
+Jinman		seed	714	714	Co	103	tɕ õ ²²
+Mazhelong		seed	714	714	coN	103	ts o ŋ ³³
+Dashi		seed	714	714	tSoN	103	ʈʂ o ŋ ³³
+Zhoucheng		seed	714	714	co	103	ts ɤ ³³
+Jinxing		seed	714	714	co	103	ts ɤ̃ ³³
+Tuolo		seed	714	714	tSoN	103	ʈʂ ɤ ŋ ³³
+Enqi		seed	714	714	Co	103	tɕ o ²²
+Ega		seed	714	714	Cu	103	tɕ u ²²
+Gongxing		short	1645	1645	ch~wa	208	tsʰ w a ²⁴
+Jinman		short	1645	1645	Ch~i	208	tɕʰ i ⁵⁵
+Mazhelong		short	1645	1645	ch~3u	208	tsʰ əu ⁵⁵
+Dashi		short	1645	1645	ch~u	208	tsʰ ɯ ⁵⁵
+Zhoucheng		short	1645	1645	ch~u	208	tsʰ ɯ ⁵⁵
+Jinxing		short	1645	1645	ch~u	208	tsʰ ɯ ⁵⁵
+Tuolo		short	1645	1645	ch~o	208	tsʰ ɤ ⁴²
+Enqi		short	1645	1645	ch~o	208	tsʰ o ⁵⁵
+Ega		short	1645	1645	Ch~i	208	tɕʰ i ⁵⁵
+Gongxing		sit	1416	1416	kwa	104	k w a ⁴²
+Jinman		sit	1416	1416	ko	104	k ɤ ⁴²
+Mazhelong		sit	1416	1416	ko	104	k ɤ ⁴²
+Dashi		sit	1416	1416	ko	104	k o ⁴²
+Zhoucheng		sit	1416	1416	ko	104	k ɤ ⁴²
+Jinxing		sit	1416	1416	ko	104	k ɤ ⁴²
+Tuolo		sit	1416	1416	ko	104	k ɤ ²¹
+Enqi		sit	1416	1416	ku	104	k u ⁴³
+Ega		sit	1416	1416	ko	104	k ɤ ⁴²
+Gongxing		skin	763	763	bi	105	b i ¹²
+Jinman		skin	763	763	Ciy	105	tɕ y j ²¹
+Mazhelong		skin	763	763	pe	105	p e ²¹
+Dashi		skin	763	763	pe	105	p e ²¹
+Zhoucheng		skin	763	763	pe	105	p e ²¹
+Jinxing		skin	763	763	pe	105	p e ²¹
+Tuolo		skin	763	763	bi	105	b i ³⁵
+Enqi		skin	763	763	pi	105	p i ²¹
+Ega		skin	763	763	Ciyqa	106	tɕ y j ²¹ q a ⁵⁵
+Gongxing		sleep	1585	1585	nE	107	n ɛ ¹²
+Jinman		sleep	1585	1585	woti	108	w ɤ̃ ⁴² t i ⁴²
+Mazhelong		sleep	1585	1585	mi	111	m i ⁵⁵
+Dashi		sleep	1585	1585	tSh~3	112	ʈʂʰ ə̃˞ ³³
+Zhoucheng		sleep	1585	1585	ch~E	112	tsʰ ɛ ³³
+Jinxing		sleep	1585	1585	ch~an	112	tsʰ a n ³³
+Tuolo		sleep	1585	1585	Zama	113	ʐ a ⁴² m a ⁴²
+Enqi		sleep	1585	1585	ch~i	112	tsʰ i ²²
+Ega		sleep	1585	1585	Nuti	108	ŋ u ⁴² t i ⁴²
+Gongxing		small	1246	1246	sE	114	s ɛ ⁴²
+Jinman		small	1246	1246	se	114	s ẽ ⁴²
+Mazhelong		small	1246	1246	sE	114	s ɛ ²¹
+Dashi		small	1246	1246	sh~e	114	sʰ e ²¹
+Zhoucheng		small	1246	1246	se	114	s e ³¹
+Jinxing		small	1246	1246	se	114	s e ³¹
+Tuolo		small	1246	1246	se	114	s e ²¹
+Enqi		small	1246	1246	sE	114	s ɛ ⁴³
+Ega		small	1246	1246	sE	114	s ɛ ⁴²
+Gongxing		smoke	778	778	xwiSi	115	x w i ²² ɕ i ⁵⁵
+Jinman		smoke	778	778	fise	115	f i ²² s e ⁵⁵
+Mazhelong		smoke	778	778	fiSen	115	f i ³³ ɕ e n ⁵⁵
+Dashi		smoke	778	778	xwiSen	115	x w i ³³ ɕ e n ³⁵
+Zhoucheng		smoke	778	778	xwiSe	115	x w i ³³ ɕ e ⁵⁵
+Jinxing		smoke	778	778	xwiSen	115	x w i ³³ ɕ e n ⁵⁵
+Tuolo		smoke	778	778	xweSen	115	x w e ³³ ɕ e n ⁵⁵
+Enqi		smoke	778	778	xwisi	115	x w i ²² s i ²⁴
+Ega		smoke	778	778	fisE	115	f i ²² s ɛ ⁵⁵
+Gongxing		snake	730	730	tSh~i	209	ʈʂʰ i ²²
+Jinman		snake	730	730	Ch~3	209	tɕʰ ə̃˞ ²²
+Mazhelong		snake	730	730	Ch~iw	209	tɕʰ i w ³³
+Dashi		snake	730	730	kh~o	209	kʰ o ³³
+Zhoucheng		snake	730	730	kh~o	209	kʰ ɤ ³³
+Jinxing		snake	730	730	kh~o	209	kʰ ɤ ³³
+Tuolo		snake	730	730	tSh~3	209	ʈʂʰ ə̃˞ ³³
+Enqi		snake	730	730	ch~i	209	tsʰ ɿ ²²
+Ega		snake	730	730	ch~E	209	tsʰ ɛ ²²
+Gongxing		stand	1442	1442	yi	116	j i ²¹
+Jinman		stand	1442	1442	dyo	118	d j õ ²²
+Mazhelong		stand	1442	1442	zi	119	z i ⁴²
+Dashi		stand	1442	1442	tSu	118	ʈʂ ɯ ²¹
+Zhoucheng		stand	1442	1442	cu	118	ts ɯ ³¹
+Jinxing		stand	1442	1442	cu	118	ts ɯ ³¹
+Tuolo		stand	1442	1442	yikh~u	117	j i ⁴² kʰ ɯ ³³
+Enqi		stand	1442	1442	dyu	118	d j ɯ ⁴³
+Ega		stand	1442	1442	yi	116	j i ⁴²
+Ega		stand	1442	1442	jo	118	dʑ õ ²²
+Gongxing		star	1430	1430	san	120	s a n ⁵⁵
+Jinman		star	1430	1430	Sa	120	ɕ ã ⁵⁵
+Mazhelong		star	1430	1430	S3	120	ɕ ə̃˞ ⁵⁵
+Dashi		star	1430	1430	S3	120	ɕ ə̃˞ ⁵⁵
+Zhoucheng		star	1430	1430	SE	120	ɕ ɛ ⁵⁵
+Jinxing		star	1430	1430	San	120	ɕ a n ⁵⁵
+Tuolo		star	1430	1430	SaN	120	ɕ a ŋ ⁵⁵
+Enqi		star	1430	1430	SE	120	ɕ æ ²⁴
+Ega		star	1430	1430	Sa	120	ɕ a ⁵⁵
+Gongxing		stone	857	857	cuqh~wE	122	dz u ²¹ qʰ w ɛ ⁵⁵
+Jinman		stone	857	857	to	121	ʈ o ²¹
+Mazhelong		stone	857	857	ch~o	121	tsʰ ɤ ⁴²
+Dashi		stone	857	857	tSow	121	ʈʂ o w ⁴²
+Zhoucheng		stone	857	857	cow	121	ts o w ⁴²
+Jinxing		stone	857	857	cow	121	ts o w ⁴²
+Tuolo		stone	857	857	diw	121	d i w ⁴²
+Enqi		stone	857	857	tiw	121	t i w ²¹
+Ega		stone	857	857	Ciw	121	tɕ i w ⁴²
+Jinman		stone	857	857	daNa	123	d a ⁴² ŋ ã ²¹
+Gongxing		sun	1343	1343	5i	124	ɲ i ²⁴
+Jinman		sun	1343	1343	5i	124	ɲ i ⁵⁵
+Mazhelong		sun	1343	1343	5E	124	ɲ ɛ ⁴⁴
+Dashi		sun	1343	1343	yen	124	j e n ⁴⁴
+Zhoucheng		sun	1343	1343	mi	124	m i ⁴⁴
+Jinxing		sun	1343	1343	yyen	124	jː e n ⁴⁴
+Tuolo		sun	1343	1343	yyen	124	jː e n ⁴²
+Enqi		sun	1343	1343	5i	124	ɲ i ⁵⁵
+Ega		sun	1343	1343	5i	124	ɲ i ⁴⁴
+Gongxing		swim	1439	1439	SiqoN	125	ɕ i ²² q o ŋ ⁵⁵
+Jinman		swim	1439	1439	Siylu	128	ɕ y j ²² l u ²¹
+Mazhelong		swim	1439	1439	ch~ESusi	130	tsʰ ɛ ³¹ ɕ u ³³ s i ⁵⁵
+Dashi		swim	1439	1439	sepe	126	s e ³³ p e ²¹
+Zhoucheng		swim	1439	1439	sech~ikh~ow	127	s e ³³ tsʰ i ⁵⁵ kʰ o w ⁵⁵
+Jinxing		swim	1439	1439	sepe	126	s e ³³ p e ²¹
+Tuolo		swim	1439	1439	foSiy	132	f ɤ ³⁵ ɕ y j ³³
+Enqi		swim	1439	1439	sESiy	125	s ɛ ²⁴ ɕ y j ²²
+Ega		swim	1439	1439	Siyqu	129	ɕ y j ²² q u ⁵⁵
+Gongxing		tail	1220	1220	muqwa	133	m u ²² q w a ²⁴
+Jinman		tail	1220	1220	moqwa	133	m o ²² q w a ⁴⁴
+Mazhelong		tail	1220	1220	mi	134	m i ³³
+Dashi		tail	1220	1220	woto	136	w ɤ ³³ t o ⁵⁵
+Zhoucheng		tail	1220	1220	mitu	135	m i ⁴² t u ³⁵
+Jinxing		tail	1220	1220	oto	136	ɤ̃ ³³ t ɤ̃ ⁵⁵
+Tuolo		tail	1220	1220	moqo	133	m ɔ ⁴² q ɔ ⁴²
+Enqi		tail	1220	1220	mEqwa	133	m æ ²² q w a ⁵⁵
+Ega		tail	1220	1220	muqwa	133	m u ²² q w a ⁴⁴
+Gongxing		that	78	78	twax3	137	t w a ⁵⁵ ɣ ə ²¹
+Jinman		that	78	78	to	138	t õ ⁵⁵
+Mazhelong		that	78	78	pucoN	140	p u ³³ ts o ŋ ²¹
+Dashi		that	78	78	na	141	n a ⁵⁵
+Zhoucheng		that	78	78	nawi	142	n a ⁵⁵ w i ³³
+Jinxing		that	78	78	no	141	n o ⁵⁵
+Tuolo		that	78	78	bo	139	b o ²¹
+Enqi		that	78	78	vu	143	v ɯ ⁴³
+Ega		that	78	78	apo	144	a ⁵⁵ p o ²¹
+Jinxing		that	78	78	lo	145	l o ⁵⁵
+Gongxing		thin	1400	1400	bwa	210	b w a ²¹
+Jinman		thin	1400	1400	po	210	p o ⁴²
+Mazhelong		thin	1400	1400	ph~o	210	pʰ o ⁴²
+Dashi		thin	1400	1400	pow	210	p o w ⁴²
+Zhoucheng		thin	1400	1400	pow	210	p o w ⁴²
+Jinxing		thin	1400	1400	pow	210	p o w ⁴²
+Tuolo		thin	1400	1400	bu	210	b ɯ ⁴²
+Enqi		thin	1400	1400	pu	210	p ɯ ²¹
+Ega		thin	1400	1400	pu	210	p u ⁴²
+Gongxing		this	1214	1214	x3	146	ɣ ə ²¹
+Jinman		this	1214	1214	no	148	n õ ⁵⁵
+Mazhelong		this	1214	1214	necoN	149	n e ³³ ts o ŋ ²¹
+Dashi		this	1214	1214	ata	151	a ⁵⁵ t a ³³
+Zhoucheng		this	1214	1214	tele	153	t e ³³ l e ³¹
+Jinxing		this	1214	1214	lu	154	l ɯ ³¹
+Tuolo		this	1214	1214	dyu	152	d j ɯ ²¹
+Enqi		this	1214	1214	nu	148	n ɯ ⁵⁵
+Ega		this	1214	1214	ana	150	a ⁵⁵ n a ²⁴
+Mazhelong		this	1214	1214	lE	154	l ɛ ⁴²
+Gongxing		thou	1215	1215	na	155	n a ⁴²
+Jinman		thou	1215	1215	no	155	n o ⁴²
+Mazhelong		thou	1215	1215	nen	155	n e n ⁴²
+Dashi		thou	1215	1215	no	155	n õ ³¹
+Zhoucheng		thou	1215	1215	no	155	n o ³¹
+Jinxing		thou	1215	1215	now	155	n o w ³¹
+Tuolo		thou	1215	1215	no	155	n ɔ ²¹
+Enqi		thou	1215	1215	no	155	n o ⁴³
+Ega		thou	1215	1215	no	155	n o ⁴²
+Gongxing		tongue	1205	1205	dyE	156	d j ɛ ²¹
+Jinman		tongue	1205	1205	t3	156	ʈ ə˞ ⁴²
+Mazhelong		tongue	1205	1205	ch~E	156	tsʰ ɛ ⁴²
+Dashi		tongue	1205	1205	tSe	156	ʈʂ e ⁴²
+Zhoucheng		tongue	1205	1205	ce	156	ts e ⁴²
+Jinxing		tongue	1205	1205	ce	156	ts e ⁴²
+Tuolo		tongue	1205	1205	de	156	d e ⁴²
+Enqi		tongue	1205	1205	tyE	156	t j ɛ ²¹
+Ega		tongue	1205	1205	tiph~E	157	t i ²¹ pʰ ɛ ⁴²
+Gongxing		tooth	1380	1380	xuya	158	x u ⁵⁵ j a ²¹
+Jinman		tooth	1380	1380	Cupa	161	tɕ u ²² p a ⁴⁴
+Mazhelong		tooth	1380	1380	cipa	161	ts i ³³ p ɑ ⁴⁴
+Dashi		tooth	1380	1380	tSh~ipa	161	ʈʂʰ i ⁴⁴ p a ⁴⁴
+Zhoucheng		tooth	1380	1380	cipa	161	ts i ³³ p a ⁴⁴
+Jinxing		tooth	1380	1380	copa	161	ts ɤ ⁴⁴ p ɑ ⁴⁴
+Tuolo		tooth	1380	1380	yaN	159	j a ŋ ³⁵
+Enqi		tooth	1380	1380	qh~wa5a	163	qʰ w a ²² ɲ a ²¹
+Ega		tooth	1380	1380	Cupaqwa	162	tɕ u ²² p a ⁴⁴ q w a ⁴⁴
+Gongxing		tooth	1380	1380	tSipa	161	ʈʂ i ²¹ p a ²⁴
+Tuolo		tooth	1380	1380	Cupo	161	tɕ u ⁴² p o ⁴²
+Enqi		tooth	1380	1380	Cupa	161	tɕ u ²² p a ⁵⁵
+Gongxing		tree	906	906	dZi	164	ɖʐ i ⁴²
+Jinman		tree	906	906	du	164	ɖ ɯ ⁴²
+Mazhelong		tree	906	906	c3u	164	dz əu ²¹
+Dashi		tree	906	906	tSu	164	ʈʂ ɯ ²¹
+Zhoucheng		tree	906	906	cu	164	ts ɯ ³¹
+Jinxing		tree	906	906	cu	164	ts ɯ ³¹
+Tuolo		tree	906	906	dyu	164	d j ɯ ²¹
+Enqi		tree	906	906	dyu	164	d j ɯ ⁴³
+Ega		tree	906	906	ji	164	dʑ i ⁴²
+Gongxing		two	1498	1498	koN	165	k o ŋ ³³
+Jinman		two	1498	1498	koN	165	k o ŋ ³³
+Mazhelong		two	1498	1498	koN	165	k o ŋ ³³
+Dashi		two	1498	1498	koN	165	k o ŋ ³³
+Zhoucheng		two	1498	1498	kow	165	k o w ³³
+Jinxing		two	1498	1498	ko	165	k õ ³³
+Tuolo		two	1498	1498	koN	165	k o ŋ ³³
+Enqi		two	1498	1498	ku	165	k u ²²
+Ega		two	1498	1498	ko	165	k ɤ ³³
+Gongxing		walk(go)	1443	1443	Gan	166	ʁ a n ¹²
+Jinman		walk(go)	1443	1443	ya	167	j a ⁵⁵
+Mazhelong		walk(go)	1443	1443	xaN	166	ɣ a ŋ ²¹
+Dashi		walk(go)	1443	1443	pe	168	p e ⁴⁴
+Zhoucheng		walk(go)	1443	1443	pe	168	p e ⁴⁴
+Jinxing		walk(go)	1443	1443	pe	168	p e ⁴⁴
+Tuolo		walk(go)	1443	1443	yo	167	j ɔ ⁴²
+Enqi		walk(go)	1443	1443	Na	169	ɴ a ²¹
+Ega		walk(go)	1443	1443	Na	169	ŋ a ²¹
+Tuolo		walk(go)	1443	1443	Na	169	ŋ a ³⁵
+Gongxing		warm	1232	1232	5i	170	ɲ i ²⁴
+Jinman		warm	1232	1232	5i	170	ɲ i ⁴⁴
+Mazhelong		warm	1232	1232	5E	170	ɲ ɛ ⁴⁴
+Dashi		warm	1232	1232	yen	170	j e n ⁴⁴
+Zhoucheng		warm	1232	1232	5e	170	ɲ e ⁴⁴
+Jinxing		warm	1232	1232	ye	170	j ẽ ⁴⁴
+Tuolo		warm	1232	1232	yen	170	j e n ⁴²
+Enqi		warm	1232	1232	5i	170	ɲ i ⁵⁵
+Ega		warm	1232	1232	5i	170	ɲ i ⁴⁴
+Gongxing		water	948	948	Si	172	ɕ y ²²
+Jinman		water	948	948	Siy	172	ɕ y j ²²
+Mazhelong		water	948	948	Siy	172	ɕ y j ³³
+Dashi		water	948	948	Suy	172	ɕ u j ³³
+Zhoucheng		water	948	948	Siy	172	ɕ y j ³³
+Jinxing		water	948	948	Siy	172	ɕ y j ³³
+Tuolo		water	948	948	Siy	172	ɕ y j ³³
+Enqi		water	948	948	Siy	172	ɕ y j ²²
+Ega		water	948	948	Siy	172	ɕ y j ²²
+Gongxing		we	1212	1212	GaN	173	ʁ a ŋ ²⁴
+Jinman		we	1212	1212	5atS3	175	ɲ a ²¹ ʈʂ ə˞ ²²
+Mazhelong		we	1212	1212	Naxo	176	ŋ a ⁵⁵ x o ³³
+Dashi		we	1212	1212	5a	174	ɲ ã ⁵⁵
+Zhoucheng		we	1212	1212	5a	174	ɲ a ⁵⁵
+Jinxing		we	1212	1212	ya	174	j ɑ̃ ⁵⁵
+Tuolo		we	1212	1212	aNo	177	a ⁵⁵ ŋ ɔ ²¹
+Enqi		we	1212	1212	aGo	178	a ⁵⁵ ʁ o ²¹
+Ega		we	1212	1212	5oxo	176	ɲ o ²¹ ɣ o ²²
+Gongxing		we	1212	1212	Naxo	176	ŋ a ⁴² x õ ²²
+Jinman		we	1212	1212	mi	174	m i ⁵⁵
+Jinxing		we	1212	1212	Na	174	ŋ ɑ ⁵⁵
+Tuolo		we	1212	1212	we	179	w e ⁵⁵
+Enqi		we	1212	1212	wici	180	w i ²⁴ ts ɿ ²¹
+Ega		we	1212	1212	Nwi	174	ŋ w i ⁵⁵
+Gongxing		what	1236	1236	aqh~a	181	a ⁵⁵ qʰ a ⁵⁵
+Jinman		what	1236	1236	axa	181	a ⁵⁵ x ã ⁴²
+Mazhelong		what	1236	1236	ase	182	a ⁵⁵ s e ⁵⁵
+Dashi		what	1236	1236	3x3	181	ə˞ ⁵⁵ x ə˞ ⁴²
+Zhoucheng		what	1236	1236	xale	183	x a ³¹ l e ³¹
+Jinxing		what	1236	1236	axan	181	ɑ ⁵⁵ x a n ³¹
+Tuolo		what	1236	1236	ahaN	181	a ⁵⁵ h a ŋ ²¹
+Enqi		what	1236	1236	aGa	181	a ⁵⁵ χ a ⁵⁵
+Ega		what	1236	1236	axa	181	a ⁵⁵ x a ⁴²
+Gongxing		white	1335	1335	bE	184	b æ ²¹
+Jinman		white	1335	1335	pa	184	p a ⁴²
+Mazhelong		white	1335	1335	ph~3	184	pʰ ə˞ ⁴²
+Dashi		white	1335	1335	p3	184	p ə˞ ⁴²
+Zhoucheng		white	1335	1335	pE	184	p ɛ ⁴²
+Jinxing		white	1335	1335	pa	184	p a ⁴²
+Tuolo		white	1335	1335	ba	184	b a ⁴²
+Enqi		white	1335	1335	pa	184	p a ²¹
+Ega		white	1335	1335	pa	184	p a ⁴²
+Gongxing		who	1235	1235	amabu53n	186	a ²² m a ⁵⁵ b u ²² ɲ ə n ²⁴
+Jinman		who	1235	1235	ama	185	a ⁵⁵ m a ⁵⁵
+Mazhelong		who	1235	1235	ato	188	a ⁵⁵ t o ³³
+Dashi		who	1235	1235	amatyu	187	a ⁵⁵ m a ³³ t j ɯ ³¹
+Zhoucheng		who	1235	1235	a5i	189	a ⁵⁵ ɲ i ²¹
+Jinxing		who	1235	1235	atow	188	ɑ ³¹ t o w ³¹
+Tuolo		who	1235	1235	ado	188	a ²¹ d o ³⁵
+Enqi		who	1235	1235	ato	188	a ⁴³ t o ²¹
+Ega		who	1235	1235	ato	188	a ⁵⁵ t o ²¹
+Jinxing		who	1235	1235	anayen	190	ɑ ⁵⁵ n ɑ̃ ⁴⁴ j e n ²¹
+Gongxing		wind	960	960	Cwen	211	tɕ w e n ⁵⁵
+Jinman		wind	960	960	Ciy	211	tɕ y j ⁵⁵
+Mazhelong		wind	960	960	pyen	211	p j e n ⁵⁵
+Dashi		wind	960	960	pyE	211	p j ɛ̃ ³⁵
+Zhoucheng		wind	960	960	pi	211	p i ³⁵
+Jinxing		wind	960	960	pi	211	p i ⁵⁵
+Tuolo		wind	960	960	Cwen	211	tɕ w e n ⁵⁵
+Enqi		wind	960	960	cwE	211	ts w ɛ ²⁴
+Ega		wind	960	960	Ciy	211	tɕ y j ⁵⁵
+Jinman		woman	962	962	5u5ici	193	ɲ u ²² ɲ i ²¹ ts i ²²
+Mazhelong		woman	962	962	5o5i	197	ɲ õ ³³ ɲ ĩ ²¹
+Dashi		woman	962	962	yla	195	j ũ ³³ l ã ⁴²
+Zhoucheng		woman	962	962	5o	192	ɲ ɤ ³³
+Jinxing		woman	962	962	yoyenyen	196	j ɤ̃ ³³ j e n ²¹ j e n ²¹
+Tuolo		woman	962	962	yenhoNmo	198	j e n ³⁵ h o ŋ ⁵⁵ m o ³³
+Ega		woman	962	962	5iyci	194	ɲ y j ²² ts i ²²
+Gongxing		worm	1219	1219	cwa	212	dz w a ¹²
+Jinman		worm	1219	1219	Cu	212	tɕ u ²¹
+Mazhelong		worm	1219	1219	co	212	dz õ ²¹
+Dashi		worm	1219	1219	tSo	212	ʈʂ o ²¹
+Zhoucheng		worm	1219	1219	co	212	ts ɤ ²¹
+Jinxing		worm	1219	1219	co	212	ts ɤ ²¹
+Tuolo		worm	1219	1219	Zo	212	ʐ ɤ ³⁵
+Enqi		worm	1219	1219	Co	212	tɕ o ²¹
+Ega		worm	1219	1219	Cu	212	tɕ u ²¹
+Gongxing		year	1226	1226	swa	213	s w a ²⁴
+Jinman		year	1226	1226	swa	213	s w a ⁵⁵
+Mazhelong		year	1226	1226	swa	213	s w a ⁴⁴
+Dashi		year	1226	1226	sh~wa	213	sʰ w a ⁴⁴
+Zhoucheng		year	1226	1226	swa	213	s w a ⁴⁴
+Jinxing		year	1226	1226	swa	213	s w ɑ ⁴⁴
+Tuolo		year	1226	1226	swo	213	s w ɔ ⁴²
+Enqi		year	1226	1226	swa	213	s w a ⁵⁵
+Ega		year	1226	1226	swa	213	s w a ⁴⁴
+Gongxing		yellow	1424	1424	GaN	199	ʁ a ŋ ¹²
+Jinman		yellow	1424	1424	o	199	õ ²¹
+Mazhelong		yellow	1424	1424	xoN	199	ɣ o ŋ ²¹
+Dashi		yellow	1424	1424	wo	199	w ɤ̃ ²¹
+Zhoucheng		yellow	1424	1424	No	199	ŋ ɤ ²¹
+Jinxing		yellow	1424	1424	o	199	ɤ̃ ²¹
+Tuolo		yellow	1424	1424	NoN	199	ŋ o ŋ ³⁵
+Enqi		yellow	1424	1424	Go	199	ʁ o ²¹
+Ega		yellow	1424	1424	No	199	ŋ õ ²¹

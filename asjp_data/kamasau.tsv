@@ -1,0 +1,272 @@
+language	iso_code	concept	global_id	local_id	asjp	cogid	tokens	notes
+TRING	kms	I	1209	1	Ne	1	N e	
+WAU	kms	I	1209	1	Ne	1	N e	
+KAMASAU	kms	I	1209	1	Ne	1	N e	
+YIBAB	kms	I	1209	1	Ne	1	N e	
+WANDOMI	kms	I	1209	1	Ne	1	N e	
+KENYARI	kms	I	1209	1	Nebi	1	N e b i	
+SAMAP	ele	I	1209	1	Na	1	N a	
+TRING	kms	come	1446	66	mandi	1	m a n d i	"=""they come"""
+WAU	kms	come	1446	66	mandi	1	m a n d i	"= ""they come"""
+KAMASAU	kms	come	1446	66	mandi	1	m a n d i	"= ""they come"""
+YIBAB	kms	come	1446	66	mandi	1	m a n d i	"= ""they come"""
+WANDOMI	kms	come	1446	66	mandi	1	m a n d i	"= ""they come"""
+KENYARI	kms	come	1446	66	mandi	1	m a n d i	"= ""they come"""
+PARUWA	kms	come	1446	66	mandi	1	m a n d i	"= ""they come"""
+SAMAP	ele	come	1446	66	maN	1	m a N	"= ""they come"""
+TRING	kms	water	948	75	wiye	1	w i y e	
+WAU	kms	water	948	75	wiye	1	w i y e	
+KAMASAU	kms	water	948	75	wiye	1	w i y e	
+YIBAB	kms	water	948	75	wiye	1	w i y e	
+WANDOMI	kms	water	948	75	wiye	1	w i y e	
+KENYARI	kms	water	948	75	wiye	1	w i y e	
+PARUWA	kms	water	948	75	wiye	1	w i y e	
+SAMAP	ele	water	948	75	wiye	1	w i y e	
+TRING	kms	mountain	639	86	rand	1	r a n d	
+WAU	kms	mountain	639	86	rand	1	r a n d	
+KAMASAU	kms	mountain	639	86	rand	1	r a n d	
+YIBAB	kms	mountain	639	86	rand	1	r a n d	
+WANDOMI	kms	mountain	639	86	randig	1	r a n d i g	
+KENYARI	kms	mountain	639	86	randi	1	r a n d i	
+SAMAP	ele	mountain	639	86	paNg	2	p a N g	
+TRING	kms	sun	1343	72	Ni5	1	N i 5	
+WAU	kms	sun	1343	72	Ni5	1	N i 5	
+KAMASAU	kms	sun	1343	72	bogi	2	b o g i	
+YIBAB	kms	sun	1343	72	Ni5	1	N i 5	
+WANDOMI	kms	sun	1343	72	gi5	1	g i 5	
+KENYARI	kms	sun	1343	72	Ni5	1	N i 5	
+PARUWA	kms	sun	1343	72	Neni	1	N e n i	
+SAMAP	ele	sun	1343	72	bwog	2	b w o g	
+TRING	kms	star	1430	74	tomiNgi	1	t o m i N g i	
+WAU	kms	star	1430	74	tomiNgi	1	t o m i N g i	
+KAMASAU	kms	star	1430	74	domiNgi	1	d o m i N g i	
+YIBAB	kms	star	1430	74	tem	2	t e m	
+WANDOMI	kms	star	1430	74	tem	2	t e m	
+KENYARI	kms	star	1430	74	pomi7i	1	p o m i 7 i	
+SAMAP	ele	star	1430	74	mutami	3	m u t a m i	
+TRING	kms	one	1493	11	iri	1	i r i	also: temi
+WAU	kms	one	1493	11	iri	1	i r i	also: tremi
+KAMASAU	kms	one	1493	11	iri	1	i r i	also: temi
+YIBAB	kms	one	1493	11	iri	1	i r i	also: temi
+WANDOMI	kms	one	1493	11	iri	1	i r i	also: temi
+KENYARI	kms	one	1493	11	iri	1	i r i	also: meremi
+PARUWA	kms	one	1493	11	ri	1	r i	also: mremi
+SAMAP	ele	one	1493	11	ki	2	k i	also: meremi
+TRING	kms	two	1498	12	teri	1	t e r i	
+WAU	kms	two	1498	12	teri	1	t e r i	
+KAMASAU	kms	two	1498	12	teri	1	t e r i	
+YIBAB	kms	two	1498	12	teri	1	t e r i	
+WANDOMI	kms	two	1498	12	teri	1	t e r i	
+KENYARI	kms	two	1498	12	mereyi	2	m e r e y i	
+SAMAP	ele	two	1498	12	merere	2	m e r e r e	
+TRING	kms	stone	857	77	wet	1	w e t	
+WAU	kms	stone	857	77	wet	1	w e t	
+KAMASAU	kms	stone	857	77	wet	1	w e t	
+YIBAB	kms	stone	857	77	wet	1	w e t	
+WANDOMI	kms	stone	857	77	wet	1	w e t	
+KENYARI	kms	stone	857	77	weh	1	w e h	
+PARUWA	kms	stone	857	77	wa	1	w a	
+TRING	kms	skin	763	28	CoNgo	1	C o N g o	
+WAU	kms	skin	763	28	CoNgo	1	C o N g o	
+KAMASAU	kms	skin	763	28	CoNgo	1	C o N g o	
+YIBAB	kms	skin	763	28	CaNgo	1	C a N g o	
+KENYARI	kms	skin	763	28	CaNgwo	1	C a N g w o	
+PARUWA	kms	skin	763	28	Cangwo	1	C a n g w o	
+SAMAP	ele	skin	763	28	jogo	2	j o g o	
+TRING	kms	fire	221	82	wase	1	w a s e	
+WAU	kms	fire	221	82	wase	1	w a s e	
+KAMASAU	kms	fire	221	82	wase	1	w a s e	
+YIBAB	kms	fire	221	82	wate	1	w a t e	
+WANDOMI	kms	fire	221	82	wate	1	w a t e	
+KENYARI	kms	fire	221	82	waha	1	w a h a	
+PARUWA	kms	fire	221	82	waha	1	w a h a	
+SAMAP	ele	fire	221	82	wate	1	w a t e	
+TRING	kms	fish	227	19	umo	1	u m o	
+WAU	kms	fish	227	19	7umo	1	7 u m o	
+KAMASAU	kms	fish	227	19	umo	1	u m o	
+YIBAB	kms	fish	227	19	7umo	1	7 u m o	
+WANDOMI	kms	fish	227	19	umo	1	u m o	
+KENYARI	kms	fish	227	19	7umo	1	7 u m o	
+SAMAP	ele	fish	227	19	7uma	1	7 u m a	
+TRING	kms	dog	2009	21	5ombwi	1	5 o m b w i	
+WAU	kms	dog	2009	21	5ombwi	1	5 o m b w i	
+KAMASAU	kms	dog	2009	21	5ombwi	1	5 o m b w i	
+YIBAB	kms	dog	2009	21	7et	2	7 e t	
+WANDOMI	kms	dog	2009	21	yet	2	y e t	
+KENYARI	kms	dog	2009	21	5ombwi	1	5 o m b w i	
+PARUWA	kms	dog	2009	21	5ombwi	1	5 o m b w i	
+SAMAP	ele	dog	2009	21	5amp	1	5 a m p	
+TRING	kms	louse	1392	22	3mbiski	1	3 m b i s k i	
+WAU	kms	louse	1392	22	mbiski	1	m b i s k i	
+KAMASAU	kms	louse	1392	22	mbiski	1	m b i s k i	
+YIBAB	kms	louse	1392	22	mbit	1	m b i t	
+WANDOMI	kms	louse	1392	22	mbit	1	m b i t	
+KENYARI	kms	louse	1392	22	pinji	2	p i n j i	
+PARUWA	kms	louse	1392	22	pinji	2	p i n j i	
+SAMAP	ele	louse	1392	22	mbite	1	m b i t e	
+TRING	kms	tree	906	23	5umo	1	5 u m o	
+WAU	kms	tree	906	23	5umo	1	5 u m o	
+KAMASAU	kms	tree	906	23	5umo	1	5 u m o	
+YIBAB	kms	tree	906	23	5umo	1	5 u m o	
+WANDOMI	kms	tree	906	23	5umo	1	5 u m o	
+KENYARI	kms	tree	906	23	5umo	1	5 u m o	
+PARUWA	kms	tree	906	23	5imer	1	5 i m e r	
+SAMAP	ele	tree	906	23	yuma	1	y u m a	
+TRING	kms	leaf	628	25	ra7e	1	r a 7 e	
+WAU	kms	leaf	628	25	ra7e	1	r a 7 e	
+KAMASAU	kms	leaf	628	25	ra7e	1	r a 7 e	
+YIBAB	kms	leaf	628	25	yam	2	y a m	
+WANDOMI	kms	leaf	628	25	ra	1	r a	
+KENYARI	kms	leaf	628	25	njau	3	n j a u	
+PARUWA	kms	leaf	628	25	mane	4	m a n e	
+SAMAP	ele	leaf	628	25	re7e	1	r e 7 e	
+TRING	kms	night	1233	92	bur	1	b u r	
+WAU	kms	night	1233	92	bur	1	b u r	
+KAMASAU	kms	night	1233	92	bur	1	b u r	
+YIBAB	kms	night	1233	92	bur	1	b u r	
+WANDOMI	kms	night	1233	92	bur	1	b u r	
+KENYARI	kms	night	1233	92	wuNgi	2	w u N g i	
+SAMAP	ele	night	1233	92	wuNga	2	w u N g a	
+TRING	kms	blood	946	30	yab3	1	y a b 3	
+WAU	kms	blood	946	30	yab3	1	y a b 3	
+KAMASAU	kms	blood	946	30	yab3	1	y a b 3	
+YIBAB	kms	blood	946	30	yabu	1	y a b u	
+WANDOMI	kms	blood	946	30	wunande	2	w u n a n d e	
+KENYARI	kms	blood	946	30	yab3	1	y a b 3	
+PARUWA	kms	blood	946	30	yab3	1	y a b 3	
+SAMAP	ele	blood	946	30	Nainde	2	N a i n d e	
+TRING	kms	full	1429	95	bire	1	b i r e	
+WAU	kms	full	1429	95	bire	1	b i r e	
+KAMASAU	kms	full	1429	95	bire	1	b i r e	
+YIBAB	kms	full	1429	95	bire	1	b i r e	
+WANDOMI	kms	full	1429	95	bire	1	b i r e	
+KENYARI	kms	full	1429	95	bire	1	b i r e	
+SAMAP	ele	full	1429	95	mbara	1	m b a r a	
+TRING	kms	new	1231	96	urupwi	1	u r u p w i	
+WAU	kms	new	1231	96	7urupwi	1	7 u r u p w i	
+KAMASAU	kms	new	1231	96	7urupwi	1	7 u r u p w i	
+YIBAB	kms	new	1231	96	tiNeye	2	t i N e y e	
+WANDOMI	kms	new	1231	96	tineye	2	t i n e y e	
+KENYARI	kms	new	1231	96	uruhwi	1	u r u h w i	
+SAMAP	ele	new	1231	96	nji7i5e	3	n j i 7 i 5 e	
+TRING	kms	we	1212	3	begi	1	b e g i	
+WAU	kms	we	1212	3	begi	1	b e g i	
+KAMASAU	kms	we	1212	3	begi	1	b e g i	
+YIBAB	kms	we	1212	3	Nebewu	1	N e b e w u	
+WANDOMI	kms	we	1212	3	Nebegi	1	N e b e g i	
+KENYARI	kms	we	1212	3	bewi	1	b e w i	
+SAMAP	ele	we	1212	3	NanuNgu	2	N a n u N g u	
+TRING	kms	name	1405	100	5amb	1	5 a m b	
+WAU	kms	name	1405	100	5amb	1	5 a m b	
+KAMASAU	kms	name	1405	100	5amb	1	5 a m b	
+YIBAB	kms	name	1405	100	5ambu	1	5 a m b u	
+WANDOMI	kms	name	1405	100	5amb	1	5 a m b	
+KENYARI	kms	name	1405	100	5amb	1	5 a m b	
+SAMAP	ele	name	1405	100	5amb	1	5 a m b	
+TRING	kms	ear	1247	39	aNge	1	a N g e	
+WAU	kms	ear	1247	39	aNga	1	a N g a	
+KAMASAU	kms	ear	1247	39	aNge	1	a N g e	
+YIBAB	kms	ear	1247	39	maNge	1	m a N g e	
+WANDOMI	kms	ear	1247	39	maNge	1	m a N g e	
+KENYARI	kms	ear	1247	39	aNge	1	a N g e	
+PARUWA	kms	ear	1247	39	aNgo	1	a N g o	
+SAMAP	ele	ear	1247	39	ma7aNk	1	m a 7 a N k	
+TRING	kms	eye	1248	40	rar	1	r a r	
+WAU	kms	eye	1248	40	rar	1	r a r	
+KAMASAU	kms	eye	1248	40	rar	1	r a r	
+YIBAB	kms	eye	1248	40	rar	1	r a r	
+WANDOMI	kms	eye	1248	40	rar	1	r a r	
+KENYARI	kms	eye	1248	40	ra7	1	r a 7	
+PARUWA	kms	eye	1248	40	ra7	1	r a 7	
+SAMAP	ele	eye	1248	40	rar	1	r a r	
+TRING	kms	nose	1221	41	k3me	1	k 3 m e	
+WAU	kms	nose	1221	41	k3me	1	k 3 m e	
+KAMASAU	kms	nose	1221	41	k3me	1	k 3 m e	
+YIBAB	kms	nose	1221	41	k3me	1	k 3 m e	
+WANDOMI	kms	nose	1221	41	k3me	1	k 3 m e	
+KENYARI	kms	nose	1221	41	k3me	1	k 3 m e	
+PARUWA	kms	nose	1221	41	k3mo	1	k 3 m o	
+SAMAP	ele	nose	1221	41	k3me	1	k 3 m e	
+TRING	kms	tooth	1380	43	sawo	1	s a w o	
+WAU	kms	tooth	1380	43	sawo	1	s a w o	
+KAMASAU	kms	tooth	1380	43	sawo	1	s a w o	
+YIBAB	kms	tooth	1380	43	tawo	1	t a w o	
+WANDOMI	kms	tooth	1380	43	tawo	1	t a w o	
+KENYARI	kms	tooth	1380	43	hawo	1	h a w o	
+PARUWA	kms	tooth	1380	43	hawo	1	h a w o	
+SAMAP	ele	tooth	1380	43	tawo	1	t a w o	
+TRING	kms	tongue	1205	44	minju	1	m i n j u	
+WAU	kms	tongue	1205	44	minju	1	m i n j u	
+KAMASAU	kms	tongue	1205	44	minju	1	m i n j u	
+YIBAB	kms	tongue	1205	44	minju	1	m i n j u	
+WANDOMI	kms	tongue	1205	44	minju	1	m i n j u	
+KENYARI	kms	tongue	1205	44	Nari	2	N a r i	
+PARUWA	kms	tongue	1205	44	Nari	2	N a r i	
+SAMAP	ele	tongue	1205	44	minju	1	m i n j u	
+TRING	kms	hand	1277	48	suram	1	s u r a m	also: si
+WAU	kms	hand	1277	48	timi	2	t i m i	also: si
+KAMASAU	kms	hand	1277	48	suram	1	s u r a m	also: si
+YIBAB	kms	hand	1277	48	turam	1	t u r a m	also: ti
+WANDOMI	kms	hand	1277	48	turam	1	t u r a m	also: ti
+KENYARI	kms	hand	1277	48	huram	1	h u r a m	also: hi
+PARUWA	kms	hand	1277	48	hiNap3	3	h i N a p 3	
+SAMAP	ele	hand	1277	48	turambi	1	t u r a m b i	also: katu
+TRING	kms	breast	1402	51	mi5	1	m i 5	
+WAU	kms	breast	1402	51	mi5	1	m i 5	
+KAMASAU	kms	breast	1402	51	mi5	1	m i 5	
+YIBAB	kms	breast	1402	51	mi5	1	m i 5	
+WANDOMI	kms	breast	1402	51	mi5	1	m i 5	
+KENYARI	kms	breast	1402	51	mi5	1	m i 5	
+PARUWA	kms	breast	1402	51	m35	1	m 3 5	
+SAMAP	ele	breast	1402	51	mi5	1	m i 5	
+TRING	kms	drink	1401	54	ne	1	n e	
+WAU	kms	drink	1401	54	na	1	n a	
+KAMASAU	kms	drink	1401	54	ne	1	n e	
+YIBAB	kms	drink	1401	54	na	1	n a	
+WANDOMI	kms	drink	1401	54	na	1	n a	
+KENYARI	kms	drink	1401	54	ne	1	n e	
+SAMAP	ele	drink	1401	54	da	1	d a	
+TRING	kms	you	1213	2	nu	1	n u	
+WAU	kms	you	1213	2	nu	1	n u	
+KAMASAU	kms	you	1213	2	nu	1	n u	
+YIBAB	kms	you	1213	2	nu	1	n u	
+WANDOMI	kms	you	1213	2	nu	1	n u	
+KENYARI	kms	you	1213	2	nu	1	n u	
+SAMAP	ele	you	1213	2	ninde	2	n i n d e	
+TRING	kms	see	1409	57	nu7ond	1	n u 7 o n d	"= ""he sees me"""
+WAU	kms	see	1409	57	nu7onj	1	n u 7 o n j	"= ""he sees me"""
+KAMASAU	kms	see	1409	57	nu7ond	1	n u 7 o n d	"= ""he sees me"""
+YIBAB	kms	see	1409	57	nu7onj	1	n u 7 o n j	"= ""he sees me"""
+WANDOMI	kms	see	1409	57	nuwonj	1	n u w o n j	"= ""he sees me"""
+KENYARI	kms	see	1409	57	nu7ond	1	n u 7 o n d	"= ""he sees me"""
+PARUWA	kms	see	1409	57	noand	1	n o a n d	"= ""he sees me"""
+SAMAP	ele	see	1409	57	nu7onj	1	n u 7 o n j	"= ""he sees me"""
+TRING	kms	hear	1408	58	wutuNu	1	w u t u N u	"= ""she hears"""
+WAU	kms	hear	1408	58	wutuNu	1	w u t u N u	"= ""she hears"""
+KAMASAU	kms	hear	1408	58	wutuNu	1	w u t u N u	"= ""she hears"""
+YIBAB	kms	hear	1408	58	wutuNu	1	w u t u N u	"= ""she hears"""
+WANDOMI	kms	hear	1408	58	wutuNu	1	w u t u N u	"= ""she hears"""
+KENYARI	kms	hear	1408	58	wuhuNu	1	w u h u N u	"= ""she hears"""
+SAMAP	ele	hear	1408	58	wutu7	1	w u t u 7	"= ""she hears"""
+TRING	kms	bone	1394	31	Nape	1	N a p e	
+WAU	kms	bone	1394	31	Nape	1	N a p e	
+KAMASAU	kms	bone	1394	31	Nape	1	N a p e	
+YIBAB	kms	bone	1394	31	Nape	1	N a p e	
+WANDOMI	kms	bone	1394	31	diage	2	d i a g e	
+KENYARI	kms	bone	1394	31	Nape	1	N a p e	
+PARUWA	kms	bone	1394	31	Nape	1	N a p e	
+TRING	kms	die	1494	61	nati	1	n a t i	"also: kati; = ""he dies, I die"""
+WAU	kms	die	1494	61	nati	1	n a t i	"also: kati; = ""he dies, I die"""
+KAMASAU	kms	die	1494	61	nati	1	n a t i	"also: kati; = ""he dies, I die"""
+YIBAB	kms	die	1494	61	nati	1	n a t i	"also: gati; = ""he dies, I die"""
+WANDOMI	kms	die	1494	61	nati	1	n a t i	"also: gati; = ""he dies, I die"""
+KENYARI	kms	die	1494	61	nahi	1	n a h i	"also: kahi; = ""he dies, I die"""
+SAMAP	ele	die	1494	61	gureN nand	2	g u r e N _ n a n d	"also: nita; = ""he dies, I die"""
+TRING	kms	road (path)	667	85	N3m	1	N 3 m	
+WAU	kms	road (path)	667	85	N3m	1	N 3 m	
+KAMASAU	kms	road (path)	667	85	N3m	1	N 3 m	
+YIBAB	kms	road (path)	667	85	ma5e	2	m a 5 e	
+WANDOMI	kms	road (path)	667	85	ma5e	2	m a 5 e	
+KENYARI	kms	road (path)	667	85	ma5eriNk	2	m a 5 e r i N k	
+PARUWA	kms	road (path)	667	85	myeriNk	2	m y e r i N k	
+SAMAP	ele	road (path)	667	85	N3m	1	N 3 m	

@@ -1,0 +1,401 @@
+language	iso_code	concept	global_id	local_id	asjp	cogid	tokens	notes
+SIAMESE	tha	I	1209	1	ku	1	k u	
+ZHUANG_SOUTHERN	zzj	I	1209	1	kau	2	k a u	
+ZHUANG_NORTHERN	zgn	I	1209	1	kou	2	k o u	
+SAEK	skb	I	1209	1	ku	2	k u	
+SUI	swi	I	1209	1	yu	2	y u	
+MULAO	mlm	I	1209	1	h3i	3	h 3 i	
+KAM_ZHANGLU	doc	I	1209	1	yau	2	y a u	
+MAONAN	mmd	I	1209	1	"h""e"	2	"h"" e"	
+ONG_BE	onb	I	1209	1	hau	2	h a u	
+LAKKJA	lbc	I	1209	1	ci	4	c i	
+LI_TONGSHI	lic	I	1209	1	hou	2	h o u	
+LI_BAODING	lic	I	1209	1	hou	2	h o u	
+SIAMESE	tha	come	1446	66	ma	1	m a	
+ZHUANG_SOUTHERN	zzj	come	1446	66	ma	1	m a	
+SAEK	skb	come	1446	66	ma	1	m a	
+KAM_ZHANGLU	doc	come	1446	66	ma	1	m a	
+ONG_BE	onb	come	1446	66	nia	1	n i a	
+SIAMESE	tha	water	948	75	nam	1	n a m	
+ZHUANG_SOUTHERN	zzj	water	948	75	nam	1	n a m	
+ZHUANG_NORTHERN	zgn	water	948	75	xam	1	x a m	
+SAEK	skb	water	948	75	nam	1	n a m	
+SUI	swi	water	948	75	nam	1	n a m	
+MULAO	mlm	water	948	75	n3m	1	n 3 m	
+KAM_ZHANGLU	doc	water	948	75	nam	1	n a m	
+MAONAN	mmd	water	948	75	nam	1	n a m	
+ONG_BE	onb	water	948	75	nam	1	n a m	
+LAKKJA	lbc	water	948	75	num	1	n u m	
+LI_TONGSHI	lic	water	948	75	nam	1	n a m	
+LI_BAODING	lic	water	948	75	nom	1	n o m	
+SIAMESE	tha	mountain	639	86	ph~u	1	ph~ u	also: doy
+ZHUANG_SOUTHERN	zzj	mountain	639	86	doN	3	d o N	
+SUI	swi	mountain	639	86	nu	4	n u	
+MULAO	mlm	mountain	639	86	px~a	5	px~ a	
+KAM_ZHANGLU	doc	mountain	639	86	t3n	6	t 3 n	
+MAONAN	mmd	mountain	639	86	koNpy~a	5	k o N py~ a	
+ONG_BE	onb	mountain	639	86	tia	7	t i a	
+LAKKJA	lbc	mountain	639	86	ky~a	7	ky~ a	
+LI_TONGSHI	lic	mountain	639	86	hw~ou	8	hw~ o u	
+LI_BAODING	lic	mountain	639	86	go	8	g o	
+SIAMESE	tha	sun	1343	72	dEt	1	d E t	'sunshine'
+ZHUANG_SOUTHERN	zzj	sun	1343	72	havan	1	h a v a n	
+ZHUANG_NORTHERN	zgn	sun	1343	72	taNNon	1	t a NN o n	
+SAEK	skb	sun	1343	72	ta53n	1	t a 5 3 n	
+SUI	swi	sun	1343	72	nd~avan	1	nd~ a v a n	
+MULAO	mlm	sun	1343	72	th~3ufan	1	th~ 3 u f a n	
+KAM_ZHANGLU	doc	sun	1343	72	taman	1	t a m a n	
+MAONAN	mmd	sun	1343	72	lakvan	1	l a k v a n	
+ONG_BE	onb	sun	1343	72	dav3n	1	d a v 3 n	
+LAKKJA	lbc	sun	1343	72	tauwan	1	t a u w a n	
+LI_TONGSHI	lic	sun	1343	72	ch~avan	1	ch~ a v a n	
+LI_BAODING	lic	sun	1343	72	ch~ahw~an	1	ch~ a hw~ a n	
+SIAMESE	tha	star	1430	74	daw	1	d a w	
+ZHUANG_SOUTHERN	zzj	star	1430	74	daudi	1	d a u d i	
+ZHUANG_NORTHERN	zgn	star	1430	74	daudei	1	d a u d e i	
+SAEK	skb	star	1430	74	traw	1	t r a w	
+SUI	swi	star	1430	74	z3t	2	z 3 t	
+MULAO	mlm	star	1430	74	lakhm3t	2	l a k h m 3 t	
+KAM_ZHANGLU	doc	star	1430	74	s3t	2	s 3 t	
+MAONAN	mmd	star	1430	74	z3t	2	z 3 t	
+ONG_BE	onb	star	1430	74	tiN	1	t i N	
+LAKKJA	lbc	star	1430	74	taublet	1	t a u b l e t	
+LI_TONGSHI	lic	star	1430	74	rau	1	r a u	
+LI_BAODING	lic	star	1430	74	rau	1	r a u	
+SIAMESE	tha	one	1493	11	nuN	1	n u N	
+ZHUANG_SOUTHERN	zzj	one	1493	11	n3N	1	n 3 N	
+ZHUANG_NORTHERN	zgn	one	1493	11	deu	2	d e u	
+SUI	swi	one	1493	11	to	4	t o	
+MULAO	mlm	one	1493	11	hnau	3	h n a u	
+KAM_ZHANGLU	doc	one	1493	11	lau	3	l a u	
+MAONAN	mmd	one	1493	11	dEu	4	d E u	
+LAKKJA	lbc	one	1493	11	in	6	i n	
+LI_TONGSHI	lic	one	1493	11	37	5	3 7	
+LI_BAODING	lic	one	1493	11	ch~e3	7	ch~ e 3	
+SUI	swi	two	1498	12	xa	1	x a	
+MULAO	mlm	two	1498	12	xa	1	x a	
+KAM_ZHANGLU	doc	two	1498	12	ya	1	y a	
+MAONAN	mmd	two	1498	12	ya	1	y a	
+ONG_BE	onb	two	1498	12	von	2	v o n	
+LAKKJA	lbc	two	1498	12	hou	3	h o u	
+LI_TONGSHI	lic	two	1498	12	Lau	3	L a u	
+LI_BAODING	lic	two	1498	12	Lau	3	L a u	
+SIAMESE	tha	stone	857	77	hin	1	h i n	also: ph~a; 2. 'cliff, rock'
+ZHUANG_SOUTHERN	zzj	stone	857	77	hin	1	h i n	
+ZHUANG_NORTHERN	zgn	stone	857	77	xin	1	x i n	
+SAEK	skb	stone	857	77	ril	1	r i l	
+SUI	swi	stone	857	77	tin	1	t i n	
+MULAO	mlm	stone	857	77	tui	2	t u i	
+KAM_ZHANGLU	doc	stone	857	77	tin	1	t i n	
+MAONAN	mmd	stone	857	77	tui	2	t u i	
+ONG_BE	onb	stone	857	77	din	1	d i n	
+LAKKJA	lbc	stone	857	77	faN	3	f a N	
+LI_TONGSHI	lic	stone	857	77	ch~in	1	ch~ i n	
+LI_BAODING	lic	stone	857	77	ch~in	1	ch~ i n	
+SIAMESE	tha	skin	763	28	naN	1	n a N	
+ZHUANG_SOUTHERN	zzj	skin	763	28	naN	1	n a N	
+ZHUANG_NORTHERN	zgn	skin	763	28	naN	1	n a N	
+SAEK	skb	skin	763	28	th~rap	2	th~ r a p	
+MULAO	mlm	skin	763	28	Nx~a	3	Nx~ a	
+ONG_BE	onb	skin	763	28	naN	1	n a N	
+LI_TONGSHI	lic	skin	763	28	noN	1	n o N	
+LI_BAODING	lic	skin	763	28	noN	1	n o N	
+SIAMESE	tha	fire	221	82	fay	1	f a y	
+ZHUANG_SOUTHERN	zzj	fire	221	82	fai	1	f a i	
+ZHUANG_NORTHERN	zgn	fire	221	82	fei	1	f e i	
+SAEK	skb	fire	221	82	vi	1	v i	
+SUI	swi	fire	221	82	vi	1	v i	
+MULAO	mlm	fire	221	82	fi	1	f i	
+KAM_ZHANGLU	doc	fire	221	82	pui	1	p u i	
+MAONAN	mmd	fire	221	82	vi	1	v i	
+ONG_BE	onb	fire	221	82	v3i	1	v 3 i	
+LAKKJA	lbc	fire	221	82	ph~la	1	ph~ l a	
+LI_TONGSHI	lic	fire	221	82	fei	1	f e i	
+LI_BAODING	lic	fire	221	82	fei	1	f e i	
+SIAMESE	tha	fish	227	19	pla	1	p l a	
+ZHUANG_SOUTHERN	zzj	fish	227	19	py~a	1	py~ a	
+ZHUANG_NORTHERN	zgn	fish	227	19	py~a	1	py~ a	
+SAEK	skb	fish	227	19	pla	1	p l a	
+SUI	swi	fish	227	19	mom	2	m o m	
+MULAO	mlm	fish	227	19	m3m	2	m 3 m	
+ONG_BE	onb	fish	227	19	ba	1	b a	
+LAKKJA	lbc	fish	227	19	mot	1	m o t	
+LI_TONGSHI	lic	fish	227	19	La	1	L a	
+LI_BAODING	lic	fish	227	19	La	1	L a	
+SIAMESE	tha	dog	2009	21	ma	1	m a	
+ZHUANG_SOUTHERN	zzj	dog	2009	21	ma	1	m a	
+ZHUANG_NORTHERN	zgn	dog	2009	21	ma	1	m a	
+SAEK	skb	dog	2009	21	ma	1	m a	
+SUI	swi	dog	2009	21	hma	1	h m a	
+MULAO	mlm	dog	2009	21	hNwa	1	h N w a	
+KAM_ZHANGLU	doc	dog	2009	21	Nw~a	1	Nw~ a	
+MAONAN	mmd	dog	2009	21	ma	1	m a	
+ONG_BE	onb	dog	2009	21	ma	1	m a	
+LAKKJA	lbc	dog	2009	21	khw$o*	1	khw$ o*	
+LI_TONGSHI	lic	dog	2009	21	pa	1	p a	
+LI_BAODING	lic	dog	2009	21	pa	1	p a	
+SIAMESE	tha	louse	1392	22	haw	1	h a w	also: len; 1.'headlouse' 2. body louse
+ZHUANG_SOUTHERN	zzj	louse	1392	22	hau	1	h a u	
+ZHUANG_NORTHERN	zgn	louse	1392	22	xau	1	x a u	
+SAEK	skb	louse	1392	22	raw	1	r a w	
+SUI	swi	louse	1392	22	tu	1	t u	
+MULAO	mlm	louse	1392	22	khx$o	1	khx$ o	
+KAM_ZHANGLU	doc	louse	1392	22	tau	1	t a u	
+MAONAN	mmd	louse	1392	22	tu	1	t u	
+ONG_BE	onb	louse	1392	22	don	2	d o n	
+LAKKJA	lbc	louse	1392	22	Nw~an	2	Nw~ a n	
+LI_TONGSHI	lic	louse	1392	22	fou	1	f o u	
+LI_BAODING	lic	louse	1392	22	fou	1	f o u	
+SIAMESE	tha	tree	906	23	ton	1	t o n	'tree; beginning'
+ZHUANG_SOUTHERN	zzj	tree	906	23	mai	1	m a i	
+ZHUANG_NORTHERN	zgn	tree	906	23	fai	1	f a i	
+SAEK	skb	tree	906	23	may	1	m a y	
+SUI	swi	tree	906	23	mai	1	m a i	
+MULAO	mlm	tree	906	23	mai	1	m a i	
+KAM_ZHANGLU	doc	tree	906	23	m3i	1	m 3 i	
+MAONAN	mmd	tree	906	23	mai	1	m a i	
+ONG_BE	onb	tree	906	23	dun	2	d u n	
+LAKKJA	lbc	tree	906	23	cei	3	c e i	
+LI_TONGSHI	lic	tree	906	23	ch~ai	3	ch~ a i	
+LI_BAODING	lic	tree	906	23	ch~ai	3	ch~ a i	
+SIAMESE	tha	leaf	628	25	bay	1	b a y	
+ZHUANG_SOUTHERN	zzj	leaf	628	25	ba3	1	b a 3	
+ZHUANG_NORTHERN	zgn	leaf	628	25	ba3	1	b a 3	
+SAEK	skb	leaf	628	25	b3	1	b 3	
+SUI	swi	leaf	628	25	va	2	v a	
+MULAO	mlm	leaf	628	25	fa	2	f a	
+KAM_ZHANGLU	doc	leaf	628	25	pa	2	p a	
+MAONAN	mmd	leaf	628	25	va	2	v a	
+ONG_BE	onb	leaf	628	25	bo	1	b o	
+LAKKJA	lbc	leaf	628	25	wa	1	w a	
+LI_TONGSHI	lic	leaf	628	25	be3	1	b e 3	
+LI_BAODING	lic	leaf	628	25	be3	1	b e 3	
+SIAMESE	tha	night	1233	92	kh~am	1	kh~ a m	also: khun
+ZHUANG_SOUTHERN	zzj	night	1233	92	ky~aNk3n	1	ky~ a N k 3 n	
+ZHUANG_NORTHERN	zgn	night	1233	92	ky~aNh3n	1	ky~ a N h 3 n	
+SAEK	skb	night	1233	92	g3n	1	g 3 n	
+SUI	swi	night	1233	92	san	1	s a n	
+MULAO	mlm	night	1233	92	th~3umu	2	th~ 3 u m u	
+KAM_ZHANGLU	doc	night	1233	92	antan	1	a n t a n	also: an5am
+MAONAN	mmd	night	1233	92	5am	3	5 a m	
+ONG_BE	onb	night	1233	92	kx~3n	1	kx~ 3 n	
+LAKKJA	lbc	night	1233	92	bonblau	5	b o n b l a u	
+LI_TONGSHI	lic	night	1233	92	paich~op	6	p a i ch~ o p	
+LI_BAODING	lic	night	1233	92	paich~op	6	p a i ch~ o p	
+SIAMESE	tha	blood	946	30	luat	1	l u a t	
+ZHUANG_SOUTHERN	zzj	blood	946	30	l3t	1	l 3 t	
+ZHUANG_NORTHERN	zgn	blood	946	30	l3t	1	l 3 t	
+SAEK	skb	blood	946	30	luat	1	l u a t	
+SUI	swi	blood	946	30	phy$at	1	phy$ a t	
+MULAO	mlm	blood	946	30	phx$at	1	phx$ a t	
+KAM_ZHANGLU	doc	blood	946	30	ph~at	1	ph~ a t	
+MAONAN	mmd	blood	946	30	phy$at	1	phy$ a t	
+ONG_BE	onb	blood	946	30	ba7	1	b a 7	
+LAKKJA	lbc	blood	946	30	liet	1	l i e t	
+LI_TONGSHI	lic	blood	946	30	Lat	1	L a t	
+LI_BAODING	lic	blood	946	30	Laty~	1	L a ty~	
+SIAMESE	tha	full	1429	95	tem	1	t e m	
+ZHUANG_SOUTHERN	zzj	full	1429	95	tim	1	t i m	
+ZHUANG_NORTHERN	zgn	full	1429	95	xim	1	x i m	
+SUI	swi	full	1429	95	tik	2	t i k	
+MULAO	mlm	full	1429	95	pik	2	p i k	
+KAM_ZHANGLU	doc	full	1429	95	tik	2	t i k	
+MAONAN	mmd	full	1429	95	tik	2	t i k	
+ONG_BE	onb	full	1429	95	dik	2	d i k	
+LAKKJA	lbc	full	1429	95	mot	3	m o t	
+LI_TONGSHI	lic	full	1429	95	th~ia7	2	th~ i a 7	
+LI_BAODING	lic	full	1429	95	th~ik	2	th~ i k	
+ONG_BE	onb	new	1231	96	nau	1	n a u	
+LI_TONGSHI	lic	new	1231	96	no	1	n o	
+SIAMESE	tha	we	1212	3	raw	1	r a w	dual, inclusive
+ZHUANG_SOUTHERN	zzj	we	1212	3	huNlau	1	h u N l a u	
+ZHUANG_NORTHERN	zgn	we	1212	3	tou	2	t o u	
+SAEK	skb	we	1212	3	tu	2	t u	
+SUI	swi	we	1212	3	nd~iu	1	nd~ i u	
+MULAO	mlm	we	1212	3	niu	1	n i u	
+KAM_ZHANGLU	doc	we	1212	3	tiu	1	t i u	
+MAONAN	mmd	we	1212	3	nd~e	1	nd~ e	
+ONG_BE	onb	we	1212	3	hau lo	3	h a u _ l o	
+LAKKJA	lbc	we	1212	3	ta	2	t a	
+LI_TONGSHI	lic	we	1212	3	fau	4	f a u	
+LI_BAODING	lic	we	1212	3	fa	4	f a	
+SIAMESE	tha	horn	1393	34	kh~aw	1	kh~ a w	
+ZHUANG_NORTHERN	zgn	horn	1393	34	kau	1	k a u	
+SAEK	skb	horn	1393	34	gaw	1	g a w	
+SUI	swi	horn	1393	34	pau	1	p a u	
+MULAO	mlm	horn	1393	34	ku	1	k u	
+KAM_ZHANGLU	doc	horn	1393	34	pau	1	p a u	
+MAONAN	mmd	horn	1393	34	5au	1	5 a u	
+ONG_BE	onb	horn	1393	34	vau	1	v a u	
+LAKKJA	lbc	horn	1393	34	kou	1	k o u	
+LI_TONGSHI	lic	horn	1393	34	hau	1	h a u	
+LI_BAODING	lic	horn	1393	34	hau	1	h a u	
+SUI	swi	name	1405	100	dan	1	d a n	
+MULAO	mlm	name	1405	100	xan	1	x a n	
+KAM_ZHANGLU	doc	name	1405	100	kw~an	1	kw~ a n	
+MAONAN	mmd	name	1405	100	dan	1	d a n	
+ONG_BE	onb	name	1405	100	noi	2	n o i	
+LAKKJA	lbc	name	1405	100	yan	1	y a n	
+LI_TONGSHI	lic	name	1405	100	ph~eN	3	ph~ e N	
+LI_BAODING	lic	name	1405	100	ph~eN	3	ph~ e N	
+SIAMESE	tha	ear	1247	39	hu	1	h u	
+ZHUANG_SOUTHERN	zzj	ear	1247	39	pihu	1	p i h u	
+ZHUANG_NORTHERN	zgn	ear	1247	39	x3	1	x 3	
+SAEK	skb	ear	1247	39	gy~a	1	gy~ a	also: rua
+SUI	swi	ear	1247	39	qh~a	2	qh~ a	
+MULAO	mlm	ear	1247	39	khx$a	2	khx$ a	
+KAM_ZHANGLU	doc	ear	1247	39	kh~a	2	kh~ a	
+MAONAN	mmd	ear	1247	39	kh~a	2	kh~ a	
+ONG_BE	onb	ear	1247	39	sa	2	s a	
+LAKKJA	lbc	ear	1247	39	kanya	2	k a n y a	
+SIAMESE	tha	eye	1248	40	ta	1	t a	
+ZHUANG_SOUTHERN	zzj	eye	1248	40	makha	1	m a k h a	
+ZHUANG_NORTHERN	zgn	eye	1248	40	ta	1	t a	
+SAEK	skb	eye	1248	40	pra	1	p r a	
+SUI	swi	eye	1248	40	nd~a	1	nd~ a	
+MULAO	mlm	eye	1248	40	hla	1	h l a	
+KAM_ZHANGLU	doc	eye	1248	40	ta	1	t a	
+MAONAN	mmd	eye	1248	40	nd~a	1	nd~ a	
+ONG_BE	onb	eye	1248	40	da	1	d a	
+LAKKJA	lbc	eye	1248	40	pui	1	p u i	
+LI_TONGSHI	lic	eye	1248	40	ch~uch~a	1	ch~ u ch~ a	
+LI_BAODING	lic	eye	1248	40	ch~a	1	ch~ a	
+ZHUANG_SOUTHERN	zzj	nose	1221	41	makdaN	1	m a k d a N	
+ZHUANG_NORTHERN	zgn	nose	1221	41	daN	1	d a N	
+SAEK	skb	nose	1221	41	daN	1	d a N	
+SUI	swi	nose	1221	41	naN	1	n a N	
+MULAO	mlm	nose	1221	41	k3naN	1	k 3 n a N	
+KAM_ZHANGLU	doc	nose	1221	41	naN	1	n a N	
+MAONAN	mmd	nose	1221	41	naN	1	n a N	
+ONG_BE	onb	nose	1221	41	loN	1	l o N	
+LAKKJA	lbc	nose	1221	41	naN	1	n a N	
+LI_TONGSHI	lic	nose	1221	41	kh~at	2	kh~ a t	
+LI_BAODING	lic	nose	1221	41	kh~at	2	kh~ a t	
+SIAMESE	tha	tooth	1380	43	fan	1	f a n	
+ZHUANG_SOUTHERN	zzj	tooth	1380	43	kh~eu	2	kh~ e u	
+ZHUANG_NORTHERN	zgn	tooth	1380	43	fan	1	f a n	
+SUI	swi	tooth	1380	43	vy~an	1	vy~ a n	
+MULAO	mlm	tooth	1380	43	fan	1	f a n	
+KAM_ZHANGLU	doc	tooth	1380	43	py~an	1	py~ a n	
+MAONAN	mmd	tooth	1380	43	hiu	2	h i u	
+ONG_BE	onb	tooth	1380	43	wan	3	w a n	
+LAKKJA	lbc	tooth	1380	43	wan	1	w a n	
+LI_TONGSHI	lic	tooth	1380	43	fan	1	f a n	
+LI_BAODING	lic	tooth	1380	43	fan	1	f a n	
+SIAMESE	tha	tongue	1205	44	lin	1	l i n	
+ZHUANG_SOUTHERN	zzj	tongue	1205	44	lin	1	l i n	
+ZHUANG_NORTHERN	zgn	tongue	1205	44	lin	1	l i n	
+SAEK	skb	tongue	1205	44	lin	1	l i n	
+SUI	swi	tongue	1205	44	ma	2	m a	
+MULAO	mlm	tongue	1205	44	ma	2	m a	
+KAM_ZHANGLU	doc	tongue	1205	44	ma	2	m a	
+MAONAN	mmd	tongue	1205	44	ma	2	m a	
+ONG_BE	onb	tongue	1205	44	lim	1	l i m	
+LAKKJA	lbc	tongue	1205	44	5w~a	2	5w~ a	
+LI_TONGSHI	lic	tongue	1205	44	Lin	1	L i n	
+LI_BAODING	lic	tongue	1205	44	Lin	1	L i n	
+SIAMESE	tha	person	683	18	kh~on	1	kh~ o n	also: ph~u
+ZHUANG_SOUTHERN	zzj	person	683	18	k3n	1	k 3 n	
+ZHUANG_NORTHERN	zgn	person	683	18	vun	1	v u n	
+SAEK	skb	person	683	18	gun	1	g u n	also: hun
+ONG_BE	onb	person	683	18	leNhun	1	l e N h u n	
+LI_TONGSHI	lic	person	683	18	hau	2	h a u	
+SIAMESE	tha	knee	1371	47	kh~aw	1	kh~ a w	
+ZHUANG_SOUTHERN	zzj	knee	1371	47	hukh~au	1	h u kh~ a u	
+ZHUANG_NORTHERN	zgn	knee	1371	47	ky~auho	1	ky~ a u h o	
+SUI	swi	knee	1371	47	qamqu	1	q a m q u	
+MULAO	mlm	knee	1371	47	kuko	1	k u k o	
+KAM_ZHANGLU	doc	knee	1371	47	3mkw~au	1	3 m kw~ a u	
+MAONAN	mmd	knee	1371	47	kamku	1	k a m k u	
+ONG_BE	onb	knee	1371	47	kau	1	k a u	
+LI_TONGSHI	lic	knee	1371	47	gorou	3	g o r o u	
+LI_BAODING	lic	knee	1371	47	gw~ourou	3	gw~ o u r o u	
+SIAMESE	tha	hand	1277	48	mu	1	m u	
+ZHUANG_SOUTHERN	zzj	hand	1277	48	m3	1	m 3	
+ZHUANG_NORTHERN	zgn	hand	1277	48	f3N	1	f 3 N	
+SAEK	skb	hand	1277	48	m3	1	m 3	
+SUI	swi	hand	1277	48	my~a	1	my~ a	
+MULAO	mlm	hand	1277	48	ny~a	1	ny~ a	
+KAM_ZHANGLU	doc	hand	1277	48	my~a	1	my~ a	
+MAONAN	mmd	hand	1277	48	sim	2	s i m	
+ONG_BE	onb	hand	1277	48	mo	1	m o	
+LAKKJA	lbc	hand	1277	48	mie	1	m i e	
+LI_TONGSHI	lic	hand	1277	48	3me3	1	3 m e 3	
+LI_BAODING	lic	hand	1277	48	me3	1	m e 3	
+SIAMESE	tha	breast	1402	51	nom	1	n o m	
+SAEK	skb	breast	1402	51	cu	2	c u	
+SIAMESE	tha	liver	1224	53	tap	1	t a p	
+ZHUANG_SOUTHERN	zzj	liver	1224	53	tap	1	t a p	
+ZHUANG_NORTHERN	zgn	liver	1224	53	tap	1	t a p	
+SAEK	skb	liver	1224	53	tap	1	t a p	
+SUI	swi	liver	1224	53	tap	1	t a p	
+MULAO	mlm	liver	1224	53	tap	1	t a p	
+KAM_ZHANGLU	doc	liver	1224	53	tap	1	t a p	
+MAONAN	mmd	liver	1224	53	tap	1	t a p	
+ONG_BE	onb	liver	1224	53	dop	1	d o p	
+LAKKJA	lbc	liver	1224	53	tap	1	t a p	
+ZHUANG_SOUTHERN	zzj	drink	1401	54	kin	2	k i n	
+ZHUANG_NORTHERN	zgn	drink	1401	54	dot	3	d o t	
+SUI	swi	drink	1401	54	xum	4	x u m	
+MULAO	mlm	drink	1401	54	hx~op	5	hx~ o p	
+KAM_ZHANGLU	doc	drink	1401	54	ti	2	t i	
+ONG_BE	onb	drink	1401	54	kon	2	k o n	
+LAKKJA	lbc	drink	1401	54	hop	5	h o p	
+LI_TONGSHI	lic	drink	1401	54	ch~3p	5	ch~ 3 p	
+LI_BAODING	lic	drink	1401	54	ch~3p	5	ch~ 3 p	
+SIAMESE	tha	you	1213	2	muN	1	m u N	
+ZHUANG_SOUTHERN	zzj	you	1213	2	ma3	3	m a 3	
+ZHUANG_NORTHERN	zgn	you	1213	2	m3N	3	m 3 N	
+SAEK	skb	you	1213	2	m3N	3	m 3 N	
+ONG_BE	onb	you	1213	2	m3	3	m 3	
+LAKKJA	lbc	you	1213	2	ma	3	m a	
+LI_TONGSHI	lic	you	1213	2	me3	3	m e 3	
+LI_BAODING	lic	you	1213	2	me3	3	m e 3	
+SIAMESE	tha	see	1409	57	hen	1	h e n	
+ZHUANG_SOUTHERN	zzj	see	1409	57	yom	2	y o m	
+ZHUANG_NORTHERN	zgn	see	1409	57	ya3	3	y a 3	
+SUI	swi	see	1409	57	gau	4	g a u	
+MULAO	mlm	see	1409	57	kau	4	k a u	
+KAM_ZHANGLU	doc	see	1409	57	nu	5	n u	
+MAONAN	mmd	see	1409	57	kau	4	k a u	
+ONG_BE	onb	see	1409	57	dek	6	d e k	
+LAKKJA	lbc	see	1409	57	lom	7	l o m	
+LI_TONGSHI	lic	see	1409	57	Lui	8	L u i	
+LI_BAODING	lic	see	1409	57	zui	8	z u i	
+SIAMESE	tha	hear	1408	58	yin	1	y i n	
+SUI	swi	hear	1408	58	di	3	d i	
+MAONAN	mmd	hear	1408	58	ni	3	n i	
+LI_TONGSHI	lic	hear	1408	58	ple3	4	p l e 3	
+LI_BAODING	lic	hear	1408	58	ple3	4	p l e 3	also: hiNzai
+SIAMESE	tha	bone	1394	31	duk	1	d u k	also: kaduk
+ZHUANG_SOUTHERN	zzj	bone	1394	31	duk	1	d u k	
+ZHUANG_NORTHERN	zgn	bone	1394	31	dok	1	d o k	
+SAEK	skb	bone	1394	31	rok	1	r o k	
+SUI	swi	bone	1394	31	lak	1	l a k	
+MULAO	mlm	bone	1394	31	hx~ak	1	hx~ a k	
+KAM_ZHANGLU	doc	bone	1394	31	lak	1	l a k	
+MAONAN	mmd	bone	1394	31	dak	1	d a k	
+ONG_BE	onb	bone	1394	31	ua7	2	u a 7	
+LAKKJA	lbc	bone	1394	31	kw~ot	2	kw~ o t	
+LI_TONGSHI	lic	bone	1394	31	f37	1	f 3 7	
+LI_BAODING	lic	bone	1394	31	v3k	1	v 3 k	
+SIAMESE	tha	die	1494	61	tay	1	t a y	
+ZHUANG_SOUTHERN	zzj	die	1494	61	hai	1	h a i	
+ZHUANG_NORTHERN	zgn	die	1494	61	tai	1	t a i	
+SAEK	skb	die	1494	61	pray	1	p r a y	
+SUI	swi	die	1494	61	tai	1	t a i	
+MULAO	mlm	die	1494	61	tai	1	t a i	
+KAM_ZHANGLU	doc	die	1494	61	t3i	1	t 3 i	
+MAONAN	mmd	die	1494	61	tai	1	t a i	
+ONG_BE	onb	die	1494	61	dai	1	d a i	
+LAKKJA	lbc	die	1494	61	plei	1	p l e i	
+LI_TONGSHI	lic	die	1494	61	Lui	2	L u i	
+LI_BAODING	lic	die	1494	61	Lau	3	L a u	
+ZHUANG_NORTHERN	zgn	road (path)	667	85	xon	1	x o n	
+SUI	swi	road (path)	667	85	khw$3n	1	khw$ 3 n	
+MULAO	mlm	road (path)	667	85	khw$3n	1	khw$ 3 n	
+KAM_ZHANGLU	doc	road (path)	667	85	khw$3n	1	khw$ 3 n	
+MAONAN	mmd	road (path)	667	85	kh~un	1	kh~ u n	
+ONG_BE	onb	road (path)	667	85	sun	1	s u n	
+LI_TONGSHI	lic	road (path)	667	85	kun	1	k u n	
+LI_BAODING	lic	road (path)	667	85	kun	1	k u n	
