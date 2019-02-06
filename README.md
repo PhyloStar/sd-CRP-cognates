@@ -1,5 +1,5 @@
 # sd-CRP-cognates
-Similarity dependent CRP published at CoNLL 2018.
+Similarity dependent CRP [paper](https://aclanthology.info/papers/K18-1027/k18-1027) published at CoNLL 2018.
 
 The folder `asjp_data` contains the data required to train the SVM model. Training is conducted using the following files: 
 - afrasian.tsv
